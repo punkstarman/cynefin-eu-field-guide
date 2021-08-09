@@ -1,0 +1,3833 @@
+# Managing complexity (and chaos) in times of crisis
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-08-09 12:43+0200\n"
+"PO-Revision-Date: 2021-08-09 13:08+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+#. type: Title =
+#: en.adoc:3
+#, no-wrap
+msgid "Managing complexity (and chaos) in times of crisis: A field guide for decision makers inspired by the Cynefin framework"
+msgstr "Gestion de la complexité (et du chaos) en temps de crise: Un guide pratique pour les décideurs inspiré par le cadre conceptuel Cynefin"
+
+#. type: Plain text
+#: en.adoc:5
+msgid "Dave Snowden; Alessandro Rancati"
+msgstr "Dave Snowden; Alessandro Rancati"
+
+#. type: Plain text
+#: en.adoc:10
+msgid ""
+"This book is a joint effort by the Joint Research Centre (JRC), the European Commission’s science and knowledge service and the Cynefin "
+"Centre. It aims to provide sense-making support to the European policymaking process.  The output expressed does not imply a policy position "
+"of the European Commission. Neither the European Commission nor any person acting on behalf of the Commission is responsible for the use "
+"that might be made of this publication.  For information on the methodology and quality underlying the data used in this publication for "
+"which the source is neither Eurostat nor other Commission services, users should contact the referenced source."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:13
+#, no-wrap
+msgid ""
+"*EU Science Hub* +\n"
+"https://ec.europa.eu/jrc\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:16
+#, no-wrap
+msgid ""
+"*Cynefin Centre* +\n"
+"https://www.cynefincentre.com/\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:18
+msgid "JRC 123629"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:20
+msgid "EUR 30569 EN"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:22
+msgid "PDF ISBN 978-92-76-28844-2 ISSN 1831-9424 doi:10.2760/353"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:24
+msgid "Print ISBN 978-92-76-28843-5 ISSN 1018-5593 doi:10.2760/164392"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:26
+msgid "Luxembourg: Publications Office of the European Union, 2021"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:28
+msgid "© European Union, 2021"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:30
+msgid ""
+"The reuse policy of the European Commission is implemented by the Commission Decision 2011/833/EU of 12 December 2011 on the reuse of "
+"Commission documents (OJ L 330, 14.12.2011, p. 39). Except otherwise noted, the reuse of this document is authorised under the Creative "
+"Commons Attribution 4.0 International (CC BY 4.0) licence (https://creativecommons.org/licenses/by/4.0/). This means that reuse is allowed "
+"provided appropriate credit is given and any changes are indicated. For any use or reproduction of photos or other material that is not "
+"owned by the EU, permission must be sought directly from the copyright holders."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:32
+msgid ""
+"Cynefin® and SenseMaker® are registered trademarks of Cognitive Edge Pte Ltd and its subsidiary companies. SenseMaker® is registered in the "
+"United States of America. Cynefin® is registered in the United States of America, the European Union, Australia, Singapore, and New Zealand. "
+"For the purposes of ease of use, the Trademark TM and Registered ® symbols are not used in the body of this book, but still apply to "
+"registered trademarks."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:34
+msgid "All content © European Union, 2021"
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:35
+#, no-wrap
+msgid "Abstract"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:39
+msgid ""
+"This field guide helps to navigate in times of crisis using the Cynefin framework as a compass.  It proposes a four-stage approach through "
+"which we can:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:41
+msgid "assess the type of crisis and initiate a response;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:42
+msgid "adapt to the new pace and start building sensing networks to inform decisions;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:43
+msgid "repurpose existing structures and working methods to generate radical innovation;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:44
+msgid "transcend the crisis, formalise lessons learnt and increase resilience."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:46
+msgid ""
+"The guide stresses the importance of setting and managing boundaries, building informal structures, keeping options open, distributing "
+"engagement and keeping an ongoing assessment of the evolving landscape. Action items, real life examples and demonstrations complement the "
+"references to the developing theoretical framework."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:47
+#, no-wrap
+msgid "Acknowledgements"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:51
+msgid ""
+"The authors would like to thank, for their contribution to this field book: Pierpaolo Andriani, Kedge Business school; Anne Caspari, Cynefin "
+"Centre; Beth Smith, Cynefin Centre; Eleanor Snowden, Cynefin Centre; Vera Winthagen, Joint Research Centre, European Commission."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:53
+msgid ""
+"In the course of producing this guide we benefited from early review of the structure and content from a wide range of people from four "
+"continents who had experience in the use of the Cynefin Framework."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:56
+msgid ""
+"We would like to acknowledge their contributions: Anthony Waddell, Barclay Rae, Barry M O’Reilly, Boudewijn Bertsch, Bruno Baketarić, Carl "
+"Davies, Chantal Woltring, Christopher Bramley, David Williams, Derek Masselink, Emma Jones, Henrik Mårtensson, Jacqueline Conway, Jimmy "
+"Sjölund, Jules André-Brown, Jules Yim, Mario López de Ávila Muñoz, Mark Williams, Mary E Boone, Matteo Carella, Michael Cheveldave, Oli’ "
+"Kopp, Patrick Hollingworth, Rolf F. Katzenberger, Simone Jo Moore, Sinan Si Alhir, Sonja Blignaut, Staffan Nöteberg, Stefan Knecht, Zhen Goh"
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:57
+#, no-wrap
+msgid "Authors"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:62
+#, no-wrap
+msgid ""
+"*Dave Snowden* +\n"
+"University of Hull, Stellenbosch University Professor, complexity practitioner\n"
+"Creator of the Cynefin framework\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:64
+msgid ""
+"The Cynefin framework grew out of my starting to develop the field of naturalising sense-making. The naturalising element links to the need "
+"to use natural science in understanding how humans interact with systems and with each other."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:66
+msgid ""
+"Sense-making is defined as how do I make sense of the world so that I can act in it. For practice to be informed by good science is critical "
+"in the growing turbulence of the world we live in and I hope that the framework, and this book make some small contribution to that goal."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:70
+#, no-wrap
+msgid ""
+"*Alessandro Rancati* +\n"
+"Joint Research Centre, European Commission\n"
+"Architect, designer\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:72
+msgid ""
+"The Cynefin framework made me realise how design, in what I consider its most valuable expression, ritually creates moments of crisis, "
+"tapping into chaos to propose profound paradigmatic changes. In this book we make reference to the role of design and design practices in "
+"mapping crisis and in moving out of uncertainty. We suggest how synthesizing our experiences within crisis into visual landscapes is a "
+"precondition to start coherent action. In the illustrations, I tried to express how sometimes crisis transforms our most solid structures "
+"into beautiful new entities."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:73
+#, no-wrap
+msgid "Foreword"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:76
+msgid ""
+"More often than not, what works in normal times won’t work in a crisis. We need to think and act differently. This field guide provides a "
+"framework to help decision-makers to do this. Inspired by the Cynefin framework, it describes methods and practices that can help decision-"
+"makers to navigate complexity and chaos, respond effectively to crisis, and deepen organisational resilience."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:78
+msgid ""
+"I first encountered Dave Snowden and his work on the Cynefin framework at an internal European Commission training event in early 2010. "
+"Dave’s presentation was both inspiring and challenging. Inspiring because full of fresh ideas and provocations for my established way of "
+"seeing things. Challenging, because my initial conclusion was: this sounds great, but how to do it? I had difficulty seeing how I could make "
+"use of these ideas and concepts in the “normality” of public administration."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:80
+msgid ""
+"In the subsequent months and years, I spent quite some time listening to Dave’s podcasts, reading his blog and trying to feel my way towards "
+"making good use of these concepts in my job. It seemed obvious to me that I should, yet I struggled to work out how. I went on an Cynefin "
+"training course, to try to get a better understanding of the concepts, and I increasingly found myself using elements of Cynefin language to "
+"frame my decision-making. For example, I found that asking whether this was a simple, a complicated or a complex problem helped me to "
+"categorise things and adapt my responses accordingly. But I remained conscious that this was a very superficial use of a far more "
+"sophisticated toolkit."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:82
+msgid ""
+"When I was asked to lead the Commission’s IT Department in 2013, I reached out to Dave and got one step further forward, running an internal "
+"pilot using Cynefin techniques to map customer stories in relation to IT. The stories we captured were relevant and did help us to shape the "
+"strategy to improve customer solutions, yet we did not embed this more deeply into our way of doing things. Dave came to speak at our annual "
+"IT conference in 2013 and got very positive responses, but overall my efforts to help “spread the word” remained an interesting side project."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:84
+msgid ""
+"In 2016 I moved again, to run tax and customs, and my personal Cynefin path went a bit cold. I was still using the language to guide my "
+"thinking, but not in an integrated way. During this period I did, however, have the opportunity to start working with Alessandro Rancati in "
+"the Joint Research Centre’s EU Policy Lab, using design methods to map out my vision for the future development of the department. "
+"Serendipitously, when I was asked to take on the leadership of the Joint Research Centre in early 2020, this connection created the path to "
+"reconnect with Cynefin. I arrived as the pandemic was raging, and one of the very first conversations I had was with Alessandro and Dave, "
+"who were already working together on this field guide."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:86
+msgid ""
+"One of the positive effects of the crisis is that it has forced policy makers to “think anew”. It has forced us to understand that we need "
+"to adopt more robust responses to managing complexity in times of crisis. And, I hope, it has helped to create the conditions for a broader "
+"understanding and uptake of the usefulness of frameworks such as Cynefin in making sense of things. I wish I had had such a guide back in "
+"2010, and I am delighted that it now exists."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:88
+msgid ""
+"In the Joint Research Centre, we will continue to explore how we can best make use of this framework to support policy design and delivery "
+"in the European Commission. The COVID pandemic has demonstrated that we need to find new and better ways of acting and reacting. This field "
+"guide offers important, powerful and practical tips on how. I believe that if decision-makers are able to embed the practices and methods "
+"set out in this field guide in their organisations, it will enhance resilience and the ability to respond effectively to future crises. Not "
+"only will the starting point be better next time around – so will the response. I very much hope you find it useful."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:92
+msgid "Stephen Quest + Director General + European Commission - Joint Research Centre"
+msgstr ""
+
+#. type: Table
+#: en.adoc:135
+#, no-wrap
+msgid ""
+"| stages\n"
+"| *Assess*\n"
+"| *Adapt*\n"
+"| *[<>]*\n"
+"| *Exapt*\n"
+"| *Transcend*\n"
+"\n"
+"| crisis level\n"
+"| chaos\n"
+"| chaos\n"
+"| pivot\n"
+"| emergent stability\n"
+"| stability\n"
+"\n"
+"| risks\n"
+"| lack of future preparedness\n"
+"\n"
+"contingency plans are missing\n"
+"\n"
+"old approaches are still relevant\n"
+"| normal pace stays in effect\n"
+"\n"
+"weak signals are not spotted or ignored\n"
+"| over-commitment, too early on\n"
+"| centralised decisions\n"
+"\n"
+"rigid structures\n"
+"\n"
+"long term cycles\n"
+"| late stocktaking\n"
+"\n"
+"biased stocktaking\n"
+"\n"
+"| likely state of mind\n"
+"| *surprised, overwhelmed*\n"
+"| *puzzled*\n"
+"| *reactive*\n"
+"| *resolute*\n"
+"| *confident*\n"
+"\n"
+msgstr ""
+
+#. type: Block title
+#: en.adoc:135
+#, no-wrap
+msgid "2+| ideal disposition"
+msgstr ""
+
+#. type: Table
+#: en.adoc:164
+msgid ""
+"| *reflective* verify if the situation is novel and if contingency plans exist, start journaling | *empowering* centralise coherence (not "
+"decisions!), coordinate interventions, delegate decision, ensure divergent contributions | *aporetic* focus on making sense of all input, "
+"build coherence, spot opportunities, challenges and dispositions | *radical* open to radically repurpose existing processes and tools | "
+"*systematic* formalising experiences and lessons learnt | *draconian* set clear boundaries to gain time to think | *transparent* communicate "
+"by engagement, map dispositions | | *explorative* open to set up parallel coherent experiements to address key issues |"
+msgstr ""
+
+#. type: Block title
+#: en.adoc:164
+#, no-wrap
+msgid "4+| actions"
+msgstr ""
+
+#. type: Table
+#: en.adoc:218
+msgid ""
+"| *set draconian constraints* Constraints are not bad per se; without them there would be no evolution. Constraints are also a key enabler "
+"of creativity. Set unquestionable constraints early to gain time.  | *manage constraints* Monitor dispositions and manage constraints to "
+"detect beneficial behavioural patterns.  | *landscapes from experiences* Narratives give insights on the disposition of an rganisation. They "
+"also identify agents, drivers of change, explicit and hidden boundaries, informal processes, challenges and opportunites.  | *repurpose* The "
+"most efficient way to address crisis is through exaptation, or radical repurposing of available assets.  | *manage cadence and control* At "
+"this point we should have several units operating in ways that are novel for the organisation: maintain cadence and control. If we lose "
+"coherence, we may quickly spiral back into chaos.  | *start a journal* Journaling creates precious learning material across the entire "
+"crisis. Start early and sketch as much as possible. Visual journaling provides thick data, synthesises more information in a smaller space "
+"and allows for both quick scanning and detailed recall.  | *reduce granularity* Fragment information, capture rich data. Increase "
+"communication and awareness: embrace repetition, be as transparent as the situation allows with a bias towards overtransparency.  | "
+"*discover opportunities* The response to a challenge varies depending on its nature and on its context. Lack of time, resources or knowledge "
+"may turn a clear decision into chaos.  | *extreme repurposing* Unexpected events brought us unintentionally into chaotic processes that can "
+"have catastrophic consequences on us and on out context.  | *ritualise learning* We learn more from failures than success, and the learnings "
+"are more reliable if the leassons are recorde and formalised when they are still fresh.  | *activate human sensor networks* Ask cognitively, "
+"culturally and experientially diverse groups of people to assess the situation independently of each other without the chance of cross "
+"connection.  | *create specialised crews* We can't afford for everyone to be involved in everything (it wasn't a good idea even in normal "
+"times). Old forms of consensus are going to have to go out of the window fast.  | | *design radical innovation* Enter deliberately in chaos "
+"by removin conceptual boundaries and fixations; push the envelope, explore unreasonable ideas. Reframe the problem space, challenge the "
+"norm.  | | | *distribute engagement* We need distributed sensor networks and fast feedback loops to detext and manage weak signals.  | | "
+"*design strategic interventions* Challenge the interactions between agents to inform strategic decisions. It is more effective than pre-"
+"determining an objective.  |"
+msgstr ""
+
+#. type: Title =
+#: en.adoc:220
+#, no-wrap
+msgid "Assess"
+msgstr ""
+
+#. type: Block title
+#: en.adoc:222
+#, no-wrap
+msgid "Addressing chaos"
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:225
+msgid "In chaos, we need to quickly stabilize the situation setting drastic constraints to make time for assessment."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:227
+msgid "Once a relatively stable situation has been reached, we can start to adapt to the new context."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:230
+msgid "In times of crisis our context changes to the point of creating an emotional or cognitive shock and a state of confusion."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:232
+#, no-wrap
+msgid "*Set draconian constraints:* The first immediate action is to create hard boundaries that allow us to gain time while observing and mapping what is coming at us, to identify what response strategies need to be adopted.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:233
+#, no-wrap
+msgid "*Check for contingency plans:* If the situation was foreseen or expected and there are contingency plans, then we address the crisis according to plan.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:234
+#, no-wrap
+msgid "*Start assessing:* If the situation caught us unprepared, we need to quickly create small, informal groups that will dive into chaos to understand how the crisis changed the landscape.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:236
+msgid "The first and most fundamental question in crisis is: are we ready for this? In other words:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:238
+#, no-wrap
+msgid "*Was it possible or plausible* for us that this event could happen?\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:239
+#, no-wrap
+msgid "*Do we have contingency plans* in place for this crisis and are we sure we are correctly assessing it?\n"
+msgstr ""
+
+#. type: Block title
+#: en.adoc:240
+#, no-wrap
+msgid "If the answer to both is YES!"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:243
+msgid ""
+"Then we can implement our planned process. If the response was unknowable in advance but, after an initial assessment, decisions are clear, "
+"then our system is resilient, has a degree of redundancy and will allow us to address the crisis. + Still, we need to pay attention to two "
+"aspects that can have major consequences. We need to *constantly monitor for outliers* that question whether our initial assessment might be "
+"wrong. We also need to *create clear boundaries around the start and end of the crisis*. Avoiding drift is key and ritualising boundary "
+"transitions is important."
+msgstr ""
+
+#. type: Block title
+#: en.adoc:244
+#, no-wrap
+msgid "If the answer to either is NO!"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:246
+msgid ""
+"Then we are in a far more serious situation and planned processes and old ways of working have to be treated with care. We urgently need to "
+"initiate a radical change in the way we work, we need to adapt very quickly to changed circumstances."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:248
+msgid ""
+"Most organisations have learnt to plan for unexpected threats and surprises, the now notorious black swan events. Contingency and scenario "
+"planning, cone of possibilities and many other techniques have emerged over the years. But every now and then something comes along which "
+"falls outside the range of our planning and creates a level of shock that we find difficult to manage."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:250
+msgid ""
+"Chaos and catastrophe by their very definition do not repeat but it is important to realise that there are different types and levels of "
+"uncertainty that we need to be aware of. It is not always about being rational or having a process in place: being aware of our limits in "
+"what we are able to see and comprehend as possibilities is as important as planning. Indeed, in some contexts, planning may make us more "
+"vulnerable than improvising, as it exposes us to inattentional bias."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:252
+#, no-wrap
+msgid "Inattentional bias"
+msgstr ""
+
+#. type: Block title
+#: en.adoc:254
+#, no-wrap
+msgid "Inattentional bias and the 17%"
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:257
+msgid "24 radiologists were asked to perform a familiar lung nodule detection in a set of radiographies."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:259
+msgid ""
+"A picture of a gorilla, 48 times larger than the average nodule, was inserted in the last case, but 83% of radiologists did not see it. Eye-"
+"tracking showed that the majority of the those who missed the gorilla looked directly at it."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:261
+msgid ""
+"The 17% who had seen the gorilla changed their minds after talking to the 83%. In crisis it is important to identify the 17% in our "
+"organization and let them share what they see before they are influenced by the 83%."
+msgstr ""
+
+#. type: Block title
+#: en.adoc:263
+#, no-wrap
+msgid "Comprehension and decision"
+msgstr ""
+
+#. type: Table
+#: en.adoc:273
+#, no-wrap
+msgid ""
+"| | unknowable | knowable | known\n"
+"\n"
+"| *feasible* it will happen | design for resilience & redundancy | rapid response and deployment | planned response\n"
+"\n"
+"| *plausible* but unlikely | serendipity | rapid repurposing | contingency planning\n"
+"\n"
+"| *unimaginable* but possible | sacrifice | seize the day | reality strikes back\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:277
+msgid ""
+"In making a decision it is in human nature to quickly carry out a partial data scan and then filter it through multiple fragmented memories "
+"for a ‘first fit’ (vs. a ‘best fit’) pattern match. This makes us see first what we remember or what we expect. This limitation is a part of "
+"what, as decision makers, we need to work with. + *Our ability to comprehend* ranges from the totally expected, where (like a squirrel) we "
+"can marshal and prepare resources for hard times, to a combination of the unexpected black swans with the elephant in the room. The recent "
+"COVID-19 crisis and climate change being two good examples of this. In these cases inattention comes from our feeling of being unable to do "
+"something: we ignore the issue in the hope that it might pass."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:279
+#, no-wrap
+msgid "*Our ability to respond* is a question for knowledge management. It ranges from known through knowable to unknowable. At one extreme we are fully aware that something can happen and have a more or less automatic process which comes into play when the trigger event occurs. At the other extreme we are faced with something that we simply couldn’t comprehend and we have no idea or process able to handle it. We have to accept that some major sacrifice or sacrifices will be needed to survive, if survival is possible. A key part of our planning is to recognise these differences and reflect them in our strategy. The green areas in the diagram are those for which conventional planning is possible, the orange (and in large part the white) require to both think and act in radically different ways. Once we have established that the current situation was either not considered plausible, was unimaginable or we have no plans and little idea of what to do, we need to again double check and really be sure, as from now on our entire focus is going to be on how to rethink our organisational structure in terms of disentanglement.\n"
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:280
+#, no-wrap
+msgid "Disentanglement"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:283
+msgid ""
+"During moments of stability, when bureaucracy and conservative interests tend to grow in importance, organisations evolve into a deeply "
+"entangled complex system, like bramble bushes in a thicket or the root system of a mangrove swamp. In a crisis, much of this entanglement "
+"can and should be surrendered to the moment. There is a real chance to *sense, see and actuate new forms of simplicity* to increase the "
+"overall agility and resilience of the organisation. Chaos places us in a very fluid context: first we have to gain some form of control, "
+"then we need to empower informal networks through light organisational structures. Resources need to be radically and, possibly, permanently "
+"reallocated. Life is not going to be the same again, even if we escape unscathed from the situation. We can’t predict outcomes, so we need "
+"to shift and move at speed and be open to new possibilities on the journey; manage the risk as well as the possibilities. The only thing we "
+"know for certain is that there will be unintended consequences: we must be prepared for those too."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:284
+#, no-wrap
+msgid "Immediate priorities"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:287
+msgid ""
+"We start by *setting constraints*, and this may need an authoritarian act to keep options open as long as possible. This approach is likely "
+"to be accepted in the early days of crisis, but less so as things progress. By creating constraints we gain some control over a chaotic "
+"environment and give ourselves time to shift gears for the organisation as a whole. Contraints must be providing enough structure while "
+"staying flexible enough to let people react and adapt to the new context. Too rigid constraints will only resist for a short time and will "
+"break catastrophically."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:289
+msgid ""
+"It is then critical to *identify any immediate short term action* which will hold as many options open for the future as possible. We might "
+"be tempted to seek evidence that points us to \"the\" right thing do, however, in a crisis situations unravel rapidly, and we need to "
+"practice the delicate dance between seeking confirmation and taking decisive action. We have to demonstrate action, whilst maintaining space "
+"for the emergence for as yet unknowable changes."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:292
+msgid ""
+"After this initial set of decisions, the modus operandi changes. From now on the essence of ‘command’ is to *co-ordinate while delegating "
+"decision making*. We keep an eye on managing the bigger picture and reserve energy to scan across a wider range of activities. + The sheer "
+"volume of decisions demand the need for intimate knowledge of local context. Leadership needs to assume the role of a grand conductor - "
+"coordinating and creating space for local experts to make decisions for their contextual needs. The organisation has the opportunity to "
+"enter in a co-design mode, with the intent of questioning its scope and re-designing its practices in a collaborative way. A further "
+"argument in support of suspending top-down decisions is the cost of un-doing. When we over-commit, we reduce our ability to change course if "
+"the situation evolves exposing unexpected threats."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:294
+msgid ""
+"We need to keep options open as long as possible and *avoid premature convergence*. A human sensor network increases the resilience of "
+"decisions and responses. If our employees are part of it, and they should, then the network will serve a double purpose, as our engaging "
+"them as a support for decisions will also give reasons for deeper motivation and engagement. This is how we *communicate through "
+"engagement*, pull as well as push."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:295
+#, no-wrap
+msgid "Assess in chaos - Set draconian constraints"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:298
+msgid ""
+"Without constraints there would be no evolution. They are also a key enabler of creativity. Set unquestionable constraints early to gain "
+"time and increase downstream options:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:299
+msgid "no exceptions;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:300
+msgid "avoid constraints that are too rigid or last for too long;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:301
+msgid "keep communication open and extremely frequent."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:303
+#, no-wrap
+msgid "*Limit chaos** by immediately setting draconian constraints.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:306
+#, no-wrap
+msgid ""
+"*Several forms of constraints are possible:* connecting or containing, resilient or robust. rigid or flexible, permeable, changing, \"dark\", etc. Each has advantages and disadvantages: rigid and flexible break catastrophically, permeable clog, changing and dark may not be perceived or respected.\n"
+"We set constraints by defining and enforcing governance systems, decision making processes, spaces and methods for interaction, physical infrastructures, and by accepting behaviours, rituals, needs, etc.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:310
+#, no-wrap
+msgid ""
+"*Set enabling constraints.* Two examples are rituals, which allow the creation of informal networks, and heuristics, very simple principles that reduce noise and create a common ground, a sort of pre-conditions for consensus, to allow for quick decision making. A ritual could be to organise a daily breakfast with all members of a unit to foster the spontaneous exchange of knowledge. It is crucial to seek the exchange of knowledge as an indirect result of rituals. In our example, it would be an error to set \"thematic\" breakfasts with the explicit purpose of collecting knowledge. This \"rigid thematic boundary\" would either fail quickly or require too much energy to be kept alive. +\n"
+"Examples of heuristics are very common in nature. For example, the set of principles that govern the flight of a flock (and unregulated or pedestrian traffic): match speed, avoid collision, move to the centre. They allow individual decision making within shared boundaries. +\n"
+"In organisational terms, heuristics are often recognisable in overarching, informal governance principles.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:312
+msgid ""
+"In more general terms, an enabling constraint has a low lwvel of granularity and fixes either the why or the what or the how, but not the "
+"three at the same time. It should also have a certain degree of flexibility to adjust to the changing context."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:314
+msgid ""
+"After setting constraints, we need to assess if the system is stabilising and/or if we can start to detect coherent patterns of response. It "
+"is essential to maintain communication with stakeholders and personnel."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:315
+#, no-wrap
+msgid "Setting constraints in COVID-19"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:318
+msgid "COVID-19 demonstrated how good we are at creating boundaries to gain control."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:320
+#, no-wrap
+msgid "*Confinement* is the most evident form of rigid constraint introduced as first response. Limiting personal movement gave relief to overloaded sanitary systems and was the key response to \"flatten the curve\" or contain transmission. *Closing national borders* is a further example of a rigid, impermeable boundary being set up. Both constraints cannot be enforced indefinitely without an adverse reaction. Some European states introduced *curfew* as a more flexible constraint than total confinement.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:322
+#, no-wrap
+msgid "*Social distancing* is the name chosen to describe an increase in minimum physical distance between two persons. This is a form of more flexible, permeable, enabling, \"dark\" or invisible constraint. It allows people to perform all key vital activities while creating an invisible boundary. The boundary became visible in many places as soon as shops started to mark distances on the pavement outside their business, or on walls.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:325
+#, no-wrap
+msgid ""
+"*Masks*, *gloves* and to an extent even *hand sanitizers* can be seen as further physical, (im)permeable boundary introduced to prevent the transmission of the virus. Most services and commercial activities open to the public adopted *transparent partitions* as a physical boundary between employees and clients. +\n"
+"COVID-19 also showed us that several organisations had to remove some limiting *legal, procedural or cultural* boundaries to allow business continuity. This opened up the opportunity for radical innovation.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:327
+#, no-wrap
+msgid "*Remote working* removed the very rigid constraint of working from a designated space in a designated time frame. It also removed the boundary between personal, family life and work life.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:329
+#, no-wrap
+msgid "*Teleworking* removed the constraints created by physical distance. Ideally, people were \"closer\" to each other, they could \"meet\" more frequently irrespective of their physical location. At the same time, it introduced a very rigid boundary that did not allow personal contact.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:331
+msgid ""
+"Several boundaries and constraints were not considered or changed. For example, *no constraints were set or modified to regulate the "
+"movement of goods*. Trade was impacted only when limitations to the movement of persons affected a component of the production/distribution "
+"system, or when the goods were deemed of strategic importance."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:332
+#, no-wrap
+msgid "Communication in COVID-19"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:335
+msgid ""
+"During the crisis, several concepts dominated mainstream communication and acted as \"catalysts\" or attractors to create a particular "
+"disposition in the public."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:337
+#, no-wrap
+msgid "*Flatten the curve* was a very powerful concept, useful to reinforce legitimacy of confinement and social distancing. *Figures* of new ill cases and deaths reinforced the urgency of compliance.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:340
+msgid ""
+"Experts opinions overlapped and supported contrasting positions.  Decision makers adopted distinct strategies and forms of communication "
+"with civil society. Some opened formal, direct communication channels for local assessment and ideation of solutions, others opted for a "
+"more top-down approach."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:342
+#, no-wrap
+msgid "Assess - Types of constraints"
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:344
+#, no-wrap
+msgid "Governing/enabling"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:347
+msgid ""
+"Laws, rules and codes create governing constraints. They give a sense of stability but are sensitive to change. Heuristics and principles, "
+"on the other side, provide guidance while allowing for distributed decision making. Mining the organisation's narratives for examples of "
+"heuristics that have evolved over time, based on expertise and experience, is a key audit process. They are then consolidated, codified in "
+"memorable form and associated with teaching stories for rapid distribution. Measurability of compliance and a focus on concrete are key, "
+"abstract platitudes don’t work."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:348
+#, no-wrap
+msgid "Internal/external"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:351
+msgid ""
+"Insects have exo-skeletons which limit the size to which they can grow but provide a clearly visible structure; mammals have an endo-"
+"skeleton which makes them all self-similar but with wider variety and fewer limitations on growth. Organisation design tends to focus on "
+"creating a skeleton, or scaffolding, and ‘points of coherence’ around which unities interact with each other and with the scaffoling itself. "
+"This is the case of ritualised meetings, performance evaluations, career assessments, etc. As far as external boundaries, think markets, "
+"resources, social foundations and environmental ceilings."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:352
+#, no-wrap
+msgid "Connecting/containing"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:357
+msgid ""
+"Connections, like hashtags in knowledge management and links in networks, provide a flexible and adaptive structure but at the cost of "
+"visibility and control.  Containers, like categories, spreadsheets cells and departments, provide clear, reassuring boundary conditions. + "
+"Changing connections between people and organisational units is less costly than trying to restructre or re-organise departments. As new "
+"connections start to provide new ways of dealing with issues, then the constraints can be tightened and eventually formalised into new units "
+"and departments."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:358
+#, no-wrap
+msgid "Rigid/flexible/permeable"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:362
+msgid ""
+"Deadlines are an example of constraints that are usually intended to be rigid. Flexi-time is a malleable way to manage attendance at work. "
+"Rigid structures resist until their design conditions are exceeded at which point they break catastrophically. + In contrast, flexible "
+"structures adapt to stress and conditions of constant change. Rigid and flexible boundaries increase their resilience with permeability, or "
+"special conditions that allow for exceptions, but permeability brings the possibility of clogs, i.e. too many people applying for or "
+"expecting exceptions."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:363
+#, no-wrap
+msgid "Dark constraints"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:366
+msgid ""
+"A reference to dark energy or dark matter: we can see the effect of a constraint but we don’t know the cause. Dark constraints are like the "
+"several hidden meanings a term can assume for different people. When we mention a term and we see different reactions, we see dark "
+"constraints at work. Narratives are a powerful antidotes againsts dark constraints. We can also get a sense of the risk going forward by "
+"modelling how much of the past we can explain by the constraints we are aware of. The more we can’t explain the less we can monitor, the "
+"more likely unexpected and potentially catastrophic surprise."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:367
+#, no-wrap
+msgid "Methods for assessment - Start journaling"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:370
+msgid ""
+"Journaling creates precious learning material across the entire crisis. Start early and sketch as much as possible. Visual journaling "
+"provides thick data, synthesises more information in a smaller space and allows for quick scanning and detailed recall:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:372
+msgid "start sketching, basic shapes will do;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:373
+msgid "if a concept is too complicated, use words. Avoid long paragraphs;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:374
+msgid "use the space to cluster and connect. Focus on relationships."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:375
+#, no-wrap
+msgid "Gestalt principles"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:380
+msgid ""
+"The way our brain processes visual information is the result of an evolutionary process that filters and reduces information to a bandwidth "
+"we can assimilate (we covered attentional bias earlier in this guide), while associating automatic response patterns to what we see. The "
+"main purpose of all this is to help us navigate reality and react quickly to unforseen situations.  In the early 1900's a group of "
+"psychologists researched these response patterns and formulated a series of principles of human perception, which were further explored by "
+"artists, architects and designers at the Bauhaus.  Those basic laws are still used today in communication, branding and advertising to "
+"capture our attention, generate emotions and elicit a response. They will help us sketch more effectively."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:381
+#, no-wrap
+msgid "Founding principle"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:384
+msgid "All the gestalt principles that we will discover in the next examples stem from a basic one, formulated by Kurt Koffka as:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:387
+msgid "The whole is other than the sum of the parts."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:389
+msgid "Note how he says \"other\", not \"more\"."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:390
+#, no-wrap
+msgid "Past experience & people"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:393
+msgid ""
+"If we are taking notes about our organisation, we will inevitably need to draw a human figure. In most cases a circle for head and an "
+"additional almost random shape will do. Our brain's past experience will tend to transform the doodle into a person."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:394
+#, no-wrap
+msgid "Figure/ground"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:397
+msgid ""
+"Our brain divides the elements of an image into background and foreground, and sees the foreground first. This allows us to guide the "
+"reader's eye by placing in the foreground what we want to emphasize. Size often matters."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:398
+#, no-wrap
+msgid "Focal point"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:401
+msgid ""
+"We tend to see first and focus on any element that breaks a pattern or that is clearly distinct from the rest of elements in a uniform "
+"distribution. We can use this principle to guide the attention of the reader and influence the reading order."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:402
+#, no-wrap
+msgid "Proximity"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:405
+msgid ""
+"Elements clustered together are automagically seen as one entity. Clustering is a common exercise in visual reasoning. It allows us to "
+"create a synthetic view of several contributions without losing detail. Clustering often helps to create rhythm and harmony."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:406
+#, no-wrap
+msgid "Similarity"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:410
+msgid ""
+"We tend to group together signs that look similar, and to think that they share the same properties. + We can use this principle to assign "
+"properties to signs. We may need a legend to help the reader identify the properties of each sign."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:411
+#, no-wrap
+msgid "Common region"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:414
+msgid ""
+"If individual elements are contained into regions, we identify clusters or regions first, then we notice the properties of the individual "
+"items. We can use this principle to create relationships among items, even when they look dissimilar."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:415
+#, no-wrap
+msgid "Continuity"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:418
+msgid ""
+"We tend to perceive elements in a continuous flow, coherent with basic shapes or with the natural motion of objects in nature. Even when the "
+"flow is interrupted, we often \"close the gap\", by projecting a trajectory or by privileging simplest forms."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:419
+#, no-wrap
+msgid "Closure & past experience"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:422
+msgid ""
+"Our brain tends to generate closed shapes by recreating the missing parts of an image. We can work elegantly with empty spaces knowing we "
+"will compensate by scanning through the patterns that we have memorized in our previous experiences."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:423
+#, no-wrap
+msgid "Symmetry"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:426
+msgid ""
+"Our mind tends to recognise objects as symmetrical forms around a centre or an axis. Symmetrical lines will then be perceived as boundaries "
+"of a shape. Shapes with symmetrical properties will be clustered into a more complex, unified object."
+msgstr ""
+
+#. type: Title =
+#: en.adoc:427
+#, no-wrap
+msgid "Adapt"
+msgstr ""
+
+#. type: Block title
+#: en.adoc:429
+#, no-wrap
+msgid "Adapt in complexity"
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:432
+msgid ""
+"In a complex adaptive system we manage the evolutionary possibilities of the present; we start journeys rather than seeking to achieve "
+"goals. Goal based behaviour implies the inability to develop the opportunities that emerge along the way and which we could not anticipate. "
+"We need to resist the temptation to narrow our perspective by anticipating or projecting the future from our understanding of the past. We "
+"keep our options open, and *cast around* to see what is possible: we side-cast, rather than back-cast or fore-cast."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:435
+msgid ""
+"In lack of a contingency plan, we must reallocate resources and re-design processes to empower the emergence of small, informal teams and "
+"networks that will help us make sense of the new, changing landscape."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:437
+#, no-wrap
+msgid "**Manage constraints:** We reduce hard organisational constraints and introduce flexible boundaries that allow to gain control of chaos and buy time for an organisational shift.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:438
+#, no-wrap
+msgid "**Coordinate, do not decide:** distribute decisions to informal networks, centralise coordination.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:439
+#, no-wrap
+msgid "**Communicate by engagement:** create informal employee networks to help assess the situation and to contribute to taking decisions.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:440
+#, no-wrap
+msgid "**Avoid premature convergence:** keep options open as long as possible.\n"
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:441
+#, no-wrap
+msgid "Adapt in complexity - Manage (or manege) constraints"
+msgstr ""
+
+#. type: Block title
+#: en.adoc:443
+#, no-wrap
+msgid "Manege"
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:446
+msgid ""
+"The English verb “to manage” was originally derived from the Italian maneggiare, meaning to handle and train horses. In this earlier meaning "
+"the emphasis is on learning with, abiding with, adapting to, respecting, and working with another complex entity: the horse and rider as "
+"coevolving brambles in a wider thicket of social traditions surrounding beauty and form."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:448
+msgid ""
+"Around the early 18th century, this original meaning merged with the French term menage, or household, making it easier to adapt the meaning "
+"of the combined term manage to the metaphor of the obedient machine, to the corridors of power, and to the actions of controlling and "
+"directing."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:450
+msgid ""
+"The naturalistic approach we have advocated, in effect a return to manege rather than manage, is the most effective way to achieve results "
+"in organisations made up of real people.”"
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:453
+msgid "Kurtz & Snowden + “Like Bramble Bushes in a thicket”"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:456
+msgid "Monitor dispositions and manage constraints to detect beneficial behavioural patterns."
+msgstr ""
+
+#. type: Block title
+#: en.adoc:457
+#, no-wrap
+msgid "Monitor:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:459
+msgid "dispositional states;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:460
+msgid "propensities;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:461
+msgid "identities;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:462
+msgid "attractors;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:463
+msgid "attitudes;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:464
+msgid "weak signals;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:465
+msgid "coherence."
+msgstr ""
+
+#. type: Block title
+#: en.adoc:466
+#, no-wrap
+msgid "Manage:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:468
+msgid "constraints;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:469
+msgid "connections/linkages;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:470
+msgid "roles and rituals;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:471
+msgid "catalysts;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:472
+msgid "granularity;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:473
+msgid "diversity and dissent;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:474
+msgid "cadence."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:476
+msgid "Continuously mapping and updating constraints within a system is key in complexity approaches."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:479
+msgid ""
+"In organisational terms, we set boundaries and constraints every time we assemble a business \"unit\" or define its roles and prescribe what "
+"may, should and must do. \"May\", \"should\" and \"must\" being obviously an example of different degrees of rigidity. We also set "
+"boundaries when we combine several units and decide the protocols for their communication, including frequency, tone and information "
+"channels. Formalised processes, timeframes and milestones are boundaries. Policies that govern the exchange of information and knowlege "
+"across the organisation are also forms of boundaries. Beliefs, biases, fixations, subjective and/or collective a-critical assumptions are "
+"further types of powerful and sometimes \"dark\" boundaries among which definitions, categories and classifications as \"the\" example of "
+"the most explicit, rigid (and contextually fragile) form of constraint. Of equal if not even more importance are those boundaries that may "
+"have not been set explicitly but that are equally perceived or expressed through *routines and habits*. Crisis may force us to remove, "
+"change or introduce many of such boundaries. It also gives us the opportunity to enter proactively in a deliberate design phase and use the "
+"new context as an alternative frame to question the status quo. In the next pages this is identified as a stage of *dispositional "
+"exaptation*, or a state where we willingly re-frame the problem space and prototype several different ideas in order to improve our "
+"organisational setting and/or the quality of our outputs. Re-framing is common practice, beyond crisis, in strategic design and in design "
+"labs, where ad-hoc methods promote a form of open, critical observation of the present. They represent a \"natural science's\" approach to "
+"understand a context by mapping the landscape of agents and their observable interactions beyond expectations, regulations, guidelines, and "
+"norms. + Here, the problem space is rarely given for granted and is allowed to co-evolve when known and unexpected challenges start to "
+"emerge."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:481
+msgid ""
+"Assessing the current situation \"as is\" in terms of existing and changing boundaries provides ideas for new organisational practices that "
+"may be more beneficial from an economical, societal or environmental perspective. Effective constraint management and redesign is all about "
+"trying out several options starting from the current assessment. From here, we seek to enable the emergence of resilient solutions with a "
+"low level of risk (high informality) and energy (high spontaneity). If we haven’t produced a map during the initial assessment then it's now "
+"time to do it; the section on mapping landscapes provides some useful tips."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:483
+msgid "Once we have a map, we can ask ourselves three key questions:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:485
+msgid "What are the issues and the opportunities in the context we just mapped? *What can we change of the current situation*?"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:486
+msgid "Out of the things that we can change *how can we monitor the impact* of that change?"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:487
+msgid "Out of the things that we can change and monitor *how can we rapidly amplify success* or mitigate the impact of failure?"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:490
+msgid ""
+"To introduce safe to fail changes, we can, for example, add informality to a very rigid process (which is how we transform a fixed "
+"constraint into flexible), change the connections among people, establish rituals, reinforce identities, change (preferably shorten) time "
+"horizons. In all cases we monitor what happens, ready to quickly revert the experiments that go wrong. Carrying out safe to fail experiments "
+"\"playing\" with constraints and with motivational attractors (known as catalytic probes), is one way to always seeking out the unseen "
+"possibilities. We call *side-casting* this form of \"casting around\" to see what is possible. The technique, coupled with *abductive "
+"research*, or seeking patterns in the tails of distributions, is also know as *weak signal detection*. Abductive research opens up the range "
+"of experiments and prevents us from jumping too quickly to conclusions, which is very risky in conditions of complete novelty. Finally, "
+"opportunities rarely come around again: we need to seize the day. + A good practice to spot such opportunities in crisis is to keep special "
+"attention to the odd ones out of the average consensus, especially if they manifest some form of deep criticism."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:491
+#, no-wrap
+msgid "Managing constraints in COVID-19"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:494
+msgid ""
+"We saw earlier some example of boundaries and constraints set during COVID-19. Can you spell out which of those constraints was changed in "
+"the progression of the crisis in your country? Which were relaxed, made transparent or permeable? Which ones were made more rigid or re-"
+"implemented?"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:496
+msgid ""
+"If you had to evaluate the management of constraints by your organisation or by the public administration in your region, what would your "
+"assessment be?"
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:497
+#, no-wrap
+msgid "Adapt in complexity - Reduce granularity"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:500
+msgid ""
+"Fragment information, capture rich data. Increase communication and awareness: embrace repetition, be as transparent as the situation allows "
+"with a bias towards overtransparency:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:502
+msgid "build crews with the 5/15/150 heuristics in mind;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:503
+msgid "keep objectives tight and real. Do not pursue over-aspirational visions. Provide empathy and direction;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:504
+msgid "immediately shorten operating cadences: years>quarters, quarters>months, months>weeks, weeks>days;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:505
+msgid "promote fragmented, self-directed learning vs. directive learning."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:508
+msgid ""
+"Organisations designed for stability rarely survive the transit into unstable, unpredictable times as long term objectives and planning "
+"cycles are unable to respond to sustained change. Smaller ‘units’ can combine and recombine in different ways and are more dynamic and agile "
+"in nature. + The readjustment is necessary as soon as we detect a crisis: waiting can be very costly or catastrophic."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:509
+#, no-wrap
+msgid "Organisational units (5/15/150)"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:512
+msgid "There are some natural numbers which come into operation here."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:515
+#, no-wrap
+msgid ""
+"*Five* is a cognitive limit and the deep knowledge to manage a crisis means that command teams or deployed units of less than five are more effective.\n"
+"Breaking down traditional silos to this level of granularity and adding overlapping members gives us the flexibility we need. Committee of 20+ people need to be reduced to crews of 4/5 mission-oriented players (missions orientate teams across silos).\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:517
+#, no-wrap
+msgid "*Five-teen* is a natural limit for deep trust and this is naturally present in informal networks and associations but difficult to create in a formal system in short order.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:519
+#, no-wrap
+msgid "*One hundred and fifty* is a natural acquaint limit for humans; in a clan (that is the structure we evolved from) there are rarely more than that number. This size allows us to know the capabilities of the rest of the clan and to operate more cohesively as a result. In practice this means breaking down the organisation in coherent groups of less than a hundred, as our employees have also relationships to maintain outside of work.\n"
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:520
+#, no-wrap
+msgid "Crews"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:523
+msgid ""
+"A crew is a diverse group able to focus and act without preparation. It is based on clear roles and identities: we need to secure at least "
+"an expert, a naive and an operational role. We can use a Belbin test to detect the primary and secondary traits of each partcipant."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:526
+msgid ""
+"To turn generic groups into effective crews we must ritualize interactions, to help members of a crew to enter in their role and maintain it "
+"or shift it when needed. + We should also run social network stimulation exercises, decribed later on, at least on an annual basis."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:527
+#, no-wrap
+msgid "Goals and missions"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:530
+msgid ""
+"We need *short(er) term goals* distributed over different crews. We may even need to probe for the unexpected using contradictory objectives "
+"to ensure resilience in our actions. Activity should be sustaineded in sprints with those short term, clear objectives in mind. Reporting "
+"cycles also need to be short and anyone with a relevant message or key insight should have direct access to the centre."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:532
+msgid ""
+"Mission teams should focus initially on short term stabilisation, then on medium term change. The idea of a mission allows us to bring in "
+"tools and techniques to convey what is known as *commanders intent* which allows for adjustment on the fly."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:534
+msgid ""
+"All and any objectives or missions should *focus on the adjacent (short term) possibles* and should be rapidly adjusted and reset as needed."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:535
+#, no-wrap
+msgid "Information"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:542
+msgid ""
+"Anyone familiar with social media will know that small information units get picked up and amplified more than long documents and papers. "
+"Narrative or micro-stories can convey more context and meaning than structured text. Thay act as a mediator between highly codified and "
+"structured information and deep craft skills. + Rapid communication that can be absorbed quickly requires a different way of thinking. "
+"Social media blogs, peer to peer learning journals all provide this type of fragmented learning and knowledge transfer/creation. The time "
+"for formal documents is after the crisis is over. + It is worth remembering that text is not the only vehicle for communication: "
+"photographs, brief videos and cartoons are also valuable. Techniques using archetypal characters and persona also draw attention and can "
+"often convey more complex meaning than a written page. + Diverse perspectives, not only “more stories like mine” but also “stories that "
+"contradict mine” and ‘surprise me’ queries are also useful. + During a crisis people’s natural tendency (if they are not personally "
+"threatened) is to seek out novelty - we should exploit this."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:543
+#, no-wrap
+msgid "Learning"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:546
+msgid "Learning is more effective if it is embedded in real time, critical tasks. Learning by doing is almost an imperative during crisis."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:548
+msgid ""
+"As much as possible, turn any activity led by an expert practitioner into a learning opportunity for the other members of the crew. Use "
+"screen casts or shadowing techniques to show the operational choices."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:550
+msgid "Periodic, high frequency reporting is a further opportunity for spot learning."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:552
+msgid "This approach fragments learning into self-contained, practical capsules that are coherent with the flow of priorities."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:553
+#, no-wrap
+msgid "Adapt in complexity - Create specialised crews"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:556
+msgid ""
+"We can’t afford for everyone to be involved in everything (it wasn't a good idea even in normal times). Old forms of consensus are going to "
+"have to go out of the window fast:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:558
+msgid "assemble specialised units, responsible for local decisions;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:559
+msgid "set a reporting method to create awareness across crews;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:560
+msgid "weave their findings."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:562
+msgid "Specialisation does not equal internal uniformity: vary the composition and skills of each crew."
+msgstr ""
+
+#. type: Block title
+#: en.adoc:563
+#, no-wrap
+msgid "Unintended consequences"
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:566
+msgid ""
+"Rolling the successful use of the Cane Toad to eat beetles threatening the sugarcane plantations of Puerto Rico, 102 Toads were introduced "
+"into Australia in 1935."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:568
+msgid "It not only failed to reduce the grey-backed cane beetles but had a massive negative impact on Australian diversity."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:570
+msgid "It represents a case study in unintended consequences."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:573
+msgid ""
+"The following are all permanent and focused crews. They need a cadence of reporting, more frequent at the start, then different patterns of "
+"reporting will become self-evident."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:575
+msgid ""
+"Reporting will always be a balancing act between providing access to the centre (necessary for coordination and motivation) and preventing "
+"the centre’s diaries being filled up with time consuming reports."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:577
+msgid ""
+"It is a good idea to train junior staff to record visually what is happening in each group and have periodic summaries with them as a "
+"reporting and synthesis exercise. We can meet all crews at the end of the day in an informal setting."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:578
+#, no-wrap
+msgid "The probing crew"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:581
+msgid ""
+"Members of this crew include lateral thinkers (strategic designers, user experience designers, service designers, artists), business "
+"correspondants, sotware engineers and the organisation's most creative old foxes. This crew has a special talent in *creating people-centred "
+"scenarios* to explore novel concepts with the intention of transforming them into usable, tangible proposals and prototypes. They will need "
+"to engage frequently with the centre to update their thinking with the latest strategic developments."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:583
+msgid "A probing crew is essential for radical repurposing."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:584
+#, no-wrap
+msgid "The wrecking crew"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:587
+msgid "The only predictable aspects of a complex system is that whatever you do will have *unintended consequences*."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:589
+msgid ""
+"The unit is often comprised of mavericks and trouble makers. It is there to *\"war game\" decisions* looking for possible unintended "
+"consequences, and then monitor for both the expected and unexpected occurrences. They then create recommendations to mitigate any negative "
+"effects, but also to rapidly amplify unexpected positive results that might otherwise be missed."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:590
+#, no-wrap
+msgid "The journaling crew"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:593
+msgid ""
+"Any retrospective learning is deeply suspect, as hindsight is always mediated by selective memory and by the political needs of the present."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:595
+msgid ""
+"So at the commencement of the crisis if we haven’t already got systems in place for real time capture of lessons as they are learnt, "
+"together with ideas for innovation, we need to get them in place fast. If the key actors are too busy to record, then we can appoint "
+"apprentices or trainees."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:597
+msgid ""
+"Micro learning is critical and also provides an evidence based protection for key decisions made without time for full evidence to be "
+"gathered."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:599
+msgid "This applies at *all* levels of the organisation; the central decision makers need to *ritualise journal keeping*."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:601
+msgid "It can be very useful to include knowledge asset mapping into this as well as morning and evening reflections."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:603
+msgid ""
+"Making this data available for peer to peer information flows during the crisis is also critical. It is a part of distributed decision "
+"making to create such flows."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:604
+#, no-wrap
+msgid "The continuity crew"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:607
+msgid ""
+"While the crisis is consuming the attention of our key decision makers this is the time for their deputies or for the more experienced "
+"members of the crew to *take over the day to day business* of the organisation in so far as it continues. Rapid transfer of authority "
+"coupled with checks to make sure that key decisions are not inhibited by past practice is the order of the day."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:608
+#, no-wrap
+msgid "The data analytics crew"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:611
+#, no-wrap
+msgid "*Data informed decisions* are key in a crisis but conventional departments need to keep day to day operations running.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:613
+msgid ""
+"We need to cherry pick a mixture of bright young people as well as some experienced people, some academics and some strategic designers and "
+"get them working fast."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:615
+msgid "They can also *activate and synthesise weak signal detection using human sensor networks."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:616
+#, no-wrap
+msgid "The healing crew"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:619
+msgid ""
+"Again not the conventional group here but a crew with *organisational development and personal health specialists* that include some of the "
+"cynics from the organisation to help."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:621
+msgid ""
+"The cynics in any group are the ones who care enough to speak truth unto power and we have never needed them more. Attitudinal pulses and "
+"organisational horizon scanning carried out by this crew will allow us to create a powerful decision support capability but will also allow "
+"us to carry our employees with us on what will be a difficult journey."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:622
+#, no-wrap
+msgid "Adapt in complexity - Distribute engagement"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:625
+msgid "We need distributed sensor networks and fast feedback loops to detect and manage weak signals:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:627
+msgid "collect the experiences of staff and stakeholders as the crisis unfolds;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:628
+msgid "visualise the dispositional state of the organisation analysing the experiences;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:629
+msgid "detect opportunities to increase the number of stories that get us closer to a beneficial transition."
+msgstr ""
+
+#. type: Block title
+#: en.adoc:630
+#, no-wrap
+msgid "Distributed human sensors networks"
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:633
+msgid ""
+"Cognitively, culturally and experientially diverse groups of people to whom we have direct access, assessing the situation independently of "
+"each other without the chance of cross connection."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:635
+msgid ""
+"Technology can be used to make those networks available in real time to provide both situational assessment, option identification & "
+"evaluation together with micro-scenarios planning. We will see more on this topic in the next chapter."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:638
+msgid ""
+"The manner and timeliness by which we engage with the organisation and its stakeholders requires substantial change from the periods of more "
+"stability. Reporting cycles are usually too slow and formalised to cope with fast paced events."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:640
+msgid ""
+"This means that we need to distribute the perception and accelerate the exchange of information and knowledge, focusing on early detection "
+"of weak signals. Then, we will make sense of all the observations using an abductive approach to find patterns of coherence and ideas for "
+"intervention."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:642
+msgid ""
+"A contrast is often made between big data (algorithms) and thick data (ethnographic studies). The former working of high volumes with basic "
+"but not deep meaning, the latter working with lower volumes but with deeper meaning emerging over longer periods of time. By making "
+"employees ethnographers to their own environment we create rich data, quantitative in nature, that can support sophisticated learning and "
+"decision making at all levels of the organisation."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:644
+msgid ""
+"Visualising the dispositional state of the experiences of employees through their own stories, anecdotal observations and perspectives, "
+"based on real time data is not only possible but is proven in practice and provides a quantitative approach in what is traditionally a "
+"qualitative domain."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:645
+#, no-wrap
+msgid "Consultation fatigue"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:650
+msgid ""
+"Most members of any modern organisation are subject to consultation fatigue. What is key to ensure a good level of participation is not only "
+"the perceived value of surveys but most importantly the ability of the respondents to access the results for their own sense-making. + "
+"People are not per se motivated by providing information to other people or to the organisation, they need a return in terms of insights and "
+"knowledge. This can be achieved by giving participants the ability to access the pool of experiences. + Using the micro-narrative approach "
+"proposed here we can create ‘narrative packs’ that provide local utility but which de facto add participants (with their consent) into a "
+"human sensor network of considerable power. This provides valuable material for decision support and create more objectivity when making "
+"decisions under conditions of high uncertainty. By using the wisdom of a crowd that is already engaged in policy we can increase our ability "
+"to identify outliers and bring novelty to the attention of senior decision makers."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:652
+msgid "We have several options to engage the crowd in distributed exercises."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:653
+#, no-wrap
+msgid "MassSense"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:656
+msgid ""
+"In this mass situational assessment a network of human agents receives and interprets (signify) a set of infographics, text, video, etc. "
+"creating descriptive micro-narratives of their assessment. Optionally respondents can contribute their own micro-scenarios describing their "
+"own perspective of potential futures."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:657
+#, no-wrap
+msgid "Journalism and journal keeping"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:660
+msgid ""
+"Here a designated sample of the population keeps a daily, weekly or similar journal relating to a topic and also act as journalists by "
+"interviewing other people they know. Some of the most pioneering applications of this technique have been to engage young people, working "
+"through schools, sports clubs, churches and the like as ethnographers to their own communities. Once such a network of employees journalists "
+"have been established, it can be used as a human sensor network to provide fast feedback to questions by responding to MassSense "
+"interventions as described above."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:661
+#, no-wrap
+msgid "Attitudinal mapping"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:664
+msgid ""
+"This is an alternative to the traditional survey and works on the basis of asking respondents a question (ideally without any hypothesis) to "
+"generate a micro-narrative which is then self signified by the respondent directly. Material so gathered can also be re-signified by other "
+"designated parties. Data results can be presented to decision makers (and to respondents) in real time to show patterns for sense-making "
+"along with various analytics."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:665
+#, no-wrap
+msgid "Navigating complexity"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:668
+msgid ""
+"Vector theory of change evolved from complexity theory and measures direction and speed of travel, or intensity of effort from where we are."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:670
+msgid ""
+"Vector measures and fractal engagement pick up the idea of starting journeys with a sense of direction vs having a pre-defined end-point. "
+"The visualisation of data from the three capture methods above allows for a simple question to be asked: \"What can we do tomorrow to create "
+"more stories like these and fewer like those?\" This question can be asked of anyone regardless of educational level and is non-pejorative "
+"in nature as well as highly concrete and pragmatic."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:672
+msgid ""
+"In the figure below an attitudinal map, created in SenseMaker, a specialised application, shows how the concentration of dots (each "
+"representing coherent clusters of stories or observations) indicates a need to shift from the alpha state to omega, but the distance of that "
+"shift is great and the risk high. An alternative is to shift to an adjacent possible beta state before moving to gamma and then to omega. "
+"For each move the decision maker and the supporting group are able to click on the visualisation, see the underlying micro-narratives and "
+"then ask the question outlined above. By continuously updating the database with new stories resulting from the decisions taken, it is "
+"possible to immediately visualise the new concentrations and automatically adjust course, or correct without significant cost."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:674
+msgid ""
+"Using these maps we can define vector measures (direction, velocity, energy) which can act as KPIs for complex environments. The addition of "
+"explanatory narratives to statistically valid data provides explanations and a more ready means for change."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:675
+#, no-wrap
+msgid "Fractal engagement"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:678
+msgid ""
+"The previous example shows one layer of engagement. From the same source data we could represent the dispositional landscape of an entire "
+"organisation, which would allow senior decision makers and cabinets to ask “What can we do to create ….” and identify options for the "
+"generation of new policy. We could also use only a part of that same dataset to enable for example different departments, or different "
+"competence groups, to ask the same question to their member. One question, different contexts."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:680
+msgid ""
+"This contextual alignment is key to cultural change and avoids the homogenising effect of treating the whole system as single homogenous "
+"entity."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:681
+#, no-wrap
+msgid "Advanced analytics & alerts"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:685
+msgid ""
+"The tools used to support these exercises should provide an open API structure so that the results can be embedded in other tools. We should "
+"also be able to export data for combination with big data material to create richer sources of evidence. + The software should contain "
+"analytic and reporting tools that can be used at a global and community level. The use of real world narratives can create more effective "
+"communication and instant narrative-based responses to negative tropes and “fake news”. These may be emerging risks, or opportunities, but "
+"the key value of these alerts are making decisions makers aware of when they need to pay attention; advanced weak signal detection."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:686
+#, no-wrap
+msgid "Examples"
+msgstr ""
+
+#. type: Title ====
+#: en.adoc:688
+#, no-wrap
+msgid "City of Malmö"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:691
+msgid ""
+"Malmö Municipal Government Executive Office commissioned a city wide horizons scanning inquiry. It administered the approach through "
+"collaborating with a youth organization who worked with the Cynefin Centre to design a collection tool (app/website), train and coordinate "
+"40 young people on work placement to collect stories from across the city."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:694
+msgid ""
+"In year one the scanning addressed the biggest challenges and opportunities facing the future of the city, mapping such issues against "
+"social, economic and environmental aspects, as well as equality and inclusion. Over a 3 month period a significant volume of micro-"
+"narratives were collected from a variety of citizens. + In year two which is currently ongoing the center has further developed the "
+"questions and has been sponsored by the municipal government executive department in collaboration with the department for planning. The "
+"stories and data collected will be used as a baseline and form part of a longitudinal study of citywide horizons scanning and planning. "
+"Within the first 2 months over 5,000 stories have been collected."
+msgstr ""
+
+#. type: Title ====
+#: en.adoc:695
+#, no-wrap
+msgid "Future Generations Commissioner for Wales ‘The People’s Platform’"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:698
+msgid ""
+"The people’s platform is a participatory initiative from the Future Generations Commissioner of Wales, seeking to engage the people of Wales "
+"to better understand and tackle:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:700
+msgid "the biggest challenge facing the immediate future of Wales;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:701
+msgid "the biggest challenge facing the longer term future (25 years +)."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:704
+msgid ""
+"It was designed to understand issues, crowd source potential actions and interventions, as well as acting as a barometer on perceived "
+"responsibility of business, communities, governments and public services.  It is used for horizon scanning, planning and citizen involvement "
+"in priority setting. Insights and recommendations from the People’s Platform have been integrated throughout."
+msgstr ""
+
+#. type: Title ====
+#: en.adoc:705
+#, no-wrap
+msgid "Valleys Stories"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:708
+msgid ""
+"Stories of the Valleys is all about bringing to light the everyday, yet important, conversations that occur in communities, schools, "
+"colleges, the workplace, sports clubs and beyond to encourage people to explore and understand key issues in their community, including new "
+"ways of addressing these issues together."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:710
+msgid "Live at https://valleysstories.com/en"
+msgstr ""
+
+#. type: Title ====
+#: en.adoc:711
+#, no-wrap
+msgid "The Social Economy Diaries"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:714
+msgid ""
+"The diaries are a compilation of stories about the impact of social economy in Europe and beyond. The exercise intends to show, through the "
+"voice of practitioners, how a resilient, regenerative form of economy is not only possible, it is actually a reality. Partecipants are asked "
+"to tell a story about their experience and position it in a signification framerwork that will offer insights on the specific needs of this "
+"economic ecosystem. The project is run by the European Commission's Directorate General Joint Research Centre in collaboration with "
+"Directorate General for Internal Market, Industry, Entrepreneurship and SMEs."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:716
+msgid "Live at: https://europa.eu/!xb89vD"
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:717
+#, no-wrap
+msgid "Adapt in complexity - Create a human sensor network"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:720
+msgid "Formal and informal networks developed in times of stability can be activated for extraordinary needs:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:722
+msgid "equip your organisation with networks of people that have a special interest in observing their context;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:723
+msgid "merge their journals with data collected using traditional tools like social media analysis, data analysis, surveys and polls;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:724
+msgid "design customised journaling programmes and embed the activity in the organisation's routine."
+msgstr ""
+
+#. type: Block title
+#: en.adoc:725
+#, no-wrap
+msgid "Human perception and risk management"
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:728
+msgid ""
+"Both risk and opportunity emerge at the edges of human perception and bringing the attention of decision makers to those weak signals is key."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:730
+msgid ""
+"The SEE-ATTEND-ACT framing argues that seeing the data, paying attention to the data acting on it are separate processes. Given that we do "
+"not see what we expect to see, this is a problem. Also the myriad of weak signals presented to decision makers daily impacts on their "
+"ability to pay attention, and even if they do pay attention, the willingness to act is another matter. To give a real example, authorising "
+"military aircraft to intervene against a hijacked civilian aircraft is an easy to decision to make after the tragic events of 911, but "
+"before? The context then is one of tragic accidents, not terrorism thwarted."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:732
+msgid ""
+"Creating a culturally, experientially and educationally diverse sense-network provides confidence in decision making and increases the "
+"probability of identifying outliers, or weak signals that will later prove significant. Critically it also, of it nature, hardbacks advocacy "
+"into evidence. The process of citizen engagement in distributed decision making reduces the risk for political decision makers. The "
+"corollary also applies in industry and the wider public sector."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:736
+msgid ""
+"The purpose of a human sensor network is to create an opportunity for leaders and the wider organisation to gain real time situational "
+"assessment, to evaluate options and to create, test and monitor micro-scenarios. The SenseMaker approach to himan sensors networks, of which "
+"we saw an example earlier, was developed for counter terrorism in DARPA projects before and after the tragic events of 9/11. In that "
+"context, one of the requirements was to create an objective approach to decision making where only adductive logic -the logic of hunches - "
+"is appropriate. It drew on ideas popularly known as the _wisdom of the crowds_, in which a cognitively, culturally and experientially "
+"diverse network of respondents looks at a problem in parallel without knowledge of each others choices. + This aids in identifying outlier "
+"behaviour, giving voice to the 17% (see page 10)."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:738
+msgid ""
+"While such a network can be set up quickly in a crisis, it is preferable to proactively have it in use for ordinary pourposes, so that "
+"agents in the network become familiar with its function. Familiarity reduces learning and adoption time; continuous use, and patterns in "
+"use, allow decision makers to detect bias and enable anticipatoryawareness and triggering."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:740
+msgid "Two other related approaches can be used, yet with some drawbacks."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:742
+#, no-wrap
+msgid "*Social media monitoring, data analysis, sentiment analysis* and the like are part and parcel of understanding a market or citizen response. But _anything that an algorithm can interpret and algorithm can create_. There are dangers, for example, for social media to become an unbuffered, easily manipulated feedback loop and as such to tend to perversion. However such approaches have a necessary, even if not sufficient part in understanding what is going on.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:744
+#, no-wrap
+msgid "*Polling and surveying a network with direct questions* have high utility but capture ostensive or surface response and are subject to gaming. They fail to capture nuances, reducing their ability to detect weak signals. They are also less good at sentiment analysis and at understanding underlying attitudes where choices are not binary but complex in nature. For these we need the high abstraction signification of a sense-making approach as discussed earlier.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:746
+msgid ""
+"The good news is that all organisations have the capacity, when aided, to work with human sensor networks. This can be done most easily by "
+"designing a work programme, for example, with Governments wishing to work collaboratively with their citizens to create asymmetric advantage "
+"in the face of threat."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:748
+msgid ""
+"The general approach is to provide people with tools they can use, and find utility in, under day-to-day circumstances. These same tools in "
+"turn enable capacity across the organisation to generate insights and take action."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:751
+msgid ""
+"There are many types of programmes to increase the number of human sensors available in a network - either as conscripts or volunteers. To "
+"varying degrees they apply to industry and government alike, but only government would realistically have access to some of them.  The list "
+"is by no means exhaustive but presents some examples to illustrate how these programmes might work in practice."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:753
+#, no-wrap
+msgid "*Learning journals for new employees* during their induction period and ideally for three to six months. In addition, they could perform weekly or monthly interviews to senior staff and gain insight and experience into the organisations' own history, to look specifically at possible futures. This is also a way of getting access to senior staff who would not participate in a consultancy process. A variation uses *programmes such as bring your daughter to work and schools work experience*. Here the children are assigned similar interviewing or observation tasks. Finally, executives or managers on leadership development programmes could mix learning journals with interviews for the duration of their programmes.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:755
+#, no-wrap
+msgid "*Replacing and augmenting traditional workbooks with continuous journaling*. This approach was experimented with military personnel in Afghanistan where company commanders replaced patrol reports with journals in the field. There was no shortage of volunteers and the distributed human sensor network combined with military sensors (drones, satellite scanning, ground sensors, etc.) was extremely efficient to give real-time feedback. - no more waiting for patrol reports to be collected and synthesised. Variations were to *employ countries' commercial embassy staff* to record details of activities and meetings in return for not writing reports. The same applies to sales staff.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:757
+msgid ""
+"Many *schools have a requirement to teach research techniques and statistical analysis along with community engagement*, in fact it is a key "
+"part of the baccalauréat. By providing resource packs to teachers for pupils to engage as citizen journalists in their communities as part "
+"of a school year project, governments can very quickly gain access to the street stories of local communities. This network can be activated "
+"in the event of a crisis for feedback or communication. In a very real sense this also allows to understand the current and future state of "
+"a community through the eyes of a future generation. Similar programmes can be run for sports clubs, community centres, church groups, scout "
+"groups and the like. All of them have a need to understand why their various members engage, and make them a part of a network. The approach "
+"can also be deployed in citizen assemblies, juries and entire workforces or citizen groups for distributed budgeting. It provides a more "
+"balanced selection than simple demographics, and produces wider attitudinal maps."
+msgstr ""
+
+#. type: Title =
+#: en.adoc:758
+#, no-wrap
+msgid "[<>] or the aporetic turn"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:761
+msgid ""
+"Even if we have followed the recommendations in the previous phases, at this stage we still may not know what to do and we may not have "
+"committed to hard choices."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:763
+msgid ""
+"We know that we are in a state of voluntary suspension, while the elements for an informed decision are brewing and a sense of somehow "
+"optimistic urgency is building up."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:765
+msgid "We are mapping the context and building evidence to get ready to move out of confusion."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:766
+#, no-wrap
+msgid "The aporetic turn - Map landscapes from experiences"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:769
+msgid ""
+"Narratives give insights on the disposition of the organisation. They also help identify agents, drivers of change, explicit and hidden "
+"boundaries, informal processes, challenges and opportunities:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:770
+msgid "use narratives and micro-observations to identify agents, boundaries, roles and processes;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:771
+msgid "map the landscape by visualising relations, proximity, size, quantity;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:772
+msgid "position challenges and opportunities on the landscape. Take a step back and observe."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:774
+#, no-wrap
+msgid "*Gather information*: in crisis we need a map (not a written report!) of the current state (not of the future!). A map of the landscape informs decision making with situational assessments and offers insights on the immediate possible.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:776
+#, no-wrap
+msgid "*Experiences, not just data*: in complex systems it's not just about facts and data. It is also (and maybe more importantly) how those facts are interpreted by people and how they become thick experiences. Evidence needs to be read through the filter of several personal interpretations, expectations, projections to give insights of people's dispositions. The stories collected in mass sense exercises are the ideal start.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:778
+#, no-wrap
+msgid "*Engage the organisation*: to capture weak signals of human attitudes and dispositions we should start to produce narrative-based journals with the team, to collect day-to-day stories. If not possible, we should organise periodic work sessions to listen to their experience. We can then map this into visual landscapes.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:780
+#, no-wrap
+msgid "*Maintain heterogeneity*: we need to entangle narratives as told by executives, technical and operative staff, stakeholders. Multiple perspectives keep us open minded on the crisis and give insights for action.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:782
+#, no-wrap
+msgid "*Retrospective coherence*: when the crisis is over, everyone will create narratives to explain what happened. We need to be ware of retrospective coherence as it is based on faulty, selective memory and creates a false sense of security towards the future.\n"
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:783
+#, no-wrap
+msgid "How to visualise a system"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:786
+msgid ""
+"The first step is to compile a list of key agents and lay them out on paper freely, or following a framework of reference (i.e. see Wardley "
+"maps and REA value flows models). To reduce bias and oversimplification, we should avoid to draw the list of agents from theoretical "
+"knowledge or solely from experts' opinions and interpretations: we want to *build the system from real life experiences*."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:790
+msgid ""
+"Real life experiences place anecdotical facts in a rich context, providing multiple layers of meaning and bringing to life one of the key "
+"principles of management in complexity: *disintermediation*. This approach is common practice in service design, where user experience "
+"matters more than ideal, preferred or prescribed end results.  We should also engage with groups of heterogeneous participants, while a "
+"proper balance between abstraction and detail can be achieved by a well designed choreography.  A landscape is a necessary starting point to:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:791
+msgid "map the current state and the key challenges and opportunities, or what we can change;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:792
+msgid "identify ideas for action and decide what impacts we want to produce and how to monitor them;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:793
+msgid "start pilot actions with the intent of amplifying the beneficial ones and suppressing those who are failing."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:794
+#, no-wrap
+msgid "Hidden trap: feedback loops"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:797
+msgid ""
+"A common practice in systems thinking is to look for positive and negative feedback loops among agents. While the idea in itself makes "
+"sense, often feedback loops are infered from past experience or from theory abstracted from a specific context. We need to avoid the "
+"temptation to automatically determine the existence and/or the direction of any feedback loop. The only loops we should include in our "
+"landscape are those that we can observe in the current context and time frame."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:798
+#, no-wrap
+msgid "Governance"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:802
+msgid ""
+"A non-trivial question with deep implications is: who decides what we can change, how we monitor change and what change we deem beneficial? "
+"If we are managing well a complexity-informed method, the answers emerge from the same group who is researching and acting in the landscape. "
+"This implies that *leadership is expressed through engagement and empowerment* rather than prescription and direction."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:804
+msgid ""
+"In this context, leaders become \"strategic observers\" and intervene to provide a meta-level of coherence and clarity to facilitate action "
+"and the exchange of knowledge."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:805
+#, no-wrap
+msgid "Representativeness"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:809
+msgid ""
+"A common objection to this method, often raised by scientists and academics, is how representative a low number of experiences may be. How "
+"many experiences are enough experiences? How can we base decision on incomplete data? When addressing complexity, \"enough\" is \"all is "
+"needed to identify emerging coherence\"."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:811
+msgid ""
+"Crisis management and more in general design activities, when understood as discovery of emerging practices, are necessarily *local, ongoing "
+"and experimental*. They must enable short term parallel, independent design prototypes using available, incomplete knowledge, not provide a "
+"long term panacea based on extensive evdence."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:812
+#, no-wrap
+msgid "Implications"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:815
+msgid ""
+"This suggests that public and private organisations that span several different regions need to establish meaningful processes of "
+"stakeholder engagement beyond user research to make sense of local experiences and build whole ecosystems from the bottom-up."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:817
+msgid ""
+"When these practices are in place, the role of organisations naturally shifts from \"holder of the solution\" to \"facilitator of coherent, "
+"heterogeneous practices\" with obvious beneficial fallbacks in terms of trust, transparency and cooperation."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:818
+#, no-wrap
+msgid "The aporetic turn - Demo: map a simple story"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:821
+msgid "A very simple exercise to deconstruct an experience and build a micro landscape."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:822 en.adoc:890
+#, no-wrap
+msgid "Materials"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:825 en.adoc:893
+msgid "A whiteboard or a large piece of paper."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:826 en.adoc:894
+msgid "Markers and stickers."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:827 en.adoc:895
+msgid "Phone or camera to document the final results with pictures."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:828 en.adoc:896
+msgid "Whiteboard and stickers can be replaced with an online whiteboard."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:829 en.adoc:898
+#, no-wrap
+msgid "How to"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:832
+msgid "Ask your employees to *share several personal experiences* about the crisis. Extend to beneficiaries and stakeholders when possible."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:834
+msgid ""
+"Use the stories to *identify agents and contexts or places*; be specific (i.e. better \"local supermarket\" than \"retail\", or \"faulty "
+"data on victims\" rather than \"fake news\"). Do not forget that, in complex systems, narratives are agents: map them."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:836
+msgid "Place agents inside/outside/across places on the whiteboard. *Link agents and stories*."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:838
+#, no-wrap
+msgid "*Mark boundaries and constraints*: hierarchies, rules, groups, physical obstacles, etc.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:840
+#, no-wrap
+msgid "*Mark flows and relationships*. Avoid assuming strict cause and effect, look for potential feedback loops. (i.e. more/less of this will cause more/less of that).\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:843
+msgid ""
+"More stories give a better rendering of the situation.  If you plan to collect a lot of stories, you should *ask experts for help and use "
+"dedicated software*, such as Sensemaker."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:844 en.adoc:907
+#, no-wrap
+msgid "What to look for"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:847
+msgid ""
+"Look for the essential components of a system: roles, narratives, boundaries, resources and processes. For sake of simplicity, in this demo, "
+"agents are persons in a specific role. In reality any entity that interacts with and changes the state of a system is considered an agent. "
+"For example in human systems ideas and narratives are powerful agents. Deconstruct a story looking for all agents, focus on their "
+"interaction and identfy all the boundaries and relationships that emerge."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:851
+msgid ""
+"Do not simplify stories for fear of \"complicating\" the picture too much. At this stage we need a high level of detail. Also, avoid the "
+"temptation to categorise and to fit everything into matrixes. Categories and matrixes are good to formalise results, not to explore a fuzzy "
+"context.  As much as possible, perform a \"detached\", open observation from several perspectives. We don't want only the picture painted by "
+"the 83%.  If you feel uncomfortable in keeping things \"messy\" at the beginning, ask for help from strategic or service designers."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:852
+#, no-wrap
+msgid "Deconstructing the story"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:855
+msgid "The experience above is deconstructed in:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:856
+#, no-wrap
+msgid "*roles*: patients, medical staff;\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:857
+#, no-wrap
+msgid "*resources*: rooms, beds, masks, ventilators, respirators;\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:858
+#, no-wrap
+msgid "*boundaries*: number of patients per medical staff, minimal distance between staff and patients, minimal distance between patients, number of patients per bed, number of beds per room, number of masks available, number of uses per mask, etc.;\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:859
+#, no-wrap
+msgid "*processes*: work shifts, patient examination, restocking of supplies, purchase of equipment.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:863
+msgid ""
+"Combining several experiences would give depth to the landscape. If we were interested in deepening specific parts of the landscape, we "
+"could go back to the author with a draft illustration and further questions or even tap into our own experience.  Once the story has been "
+"mapped out, we can then experiment ways to manage or modify boundaries and ask the storytellers for feedback.  They will give insights on "
+"the feasibility of the changes we propose and on the dispositions that they may generate."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:864
+#, no-wrap
+msgid "The landscape"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:867
+msgid "We can now build a visual landscape starting from the deconstructed experiences."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:869
+msgid ""
+"This helps to anchor any conversation to the whole, no matter how fine the level of detail we are dealing with. Layers will help to break "
+"down thick data into manageable overlays."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:871
+msgid ""
+"The first drafts will be very \"messy\" and hard to read: this is normal. The process of refining the representation by iterating several "
+"different solutions is a reflective activity that produces mental clarity, its value goes beyond the visual quality of the final result. "
+"This routine is most useful if performed with senior managers, as it helps to materialise \"invisible\" patterns. It also provides a "
+"holistic opportunity to discover new relationships, flows, insights."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:873
+msgid ""
+"For this exercise, we prioritize abstraction versus figurative approaches. We are more interested in the essence of the context and its "
+"challenges than in a detailed but confusing illustration. The final product will inform and coordinate the activity of independent crews and "
+"will provide a base to collect the result of their work."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:874
+#, no-wrap
+msgid "The challenges"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:877
+msgid "Once the landscape is fixed, we can use it to highlight contextual disruptions, challenges, opportunities."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:879
+msgid "The challenges can be infered from the facts presented butalso from the tone ofthe story."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:881
+msgid ""
+"A well defined challenge is an ideal starting point to form mission-based crews. Placing a challenge on the map helps the crews to focus on "
+"a problem while considering peripheral elements that could otherwise be ignored and/or go unnoticed."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:883
+msgid ""
+"It is worth remembering that a particular challenge may accept solutions of very different nature, some of which may be clear and apparent, "
+"some more complicated and others complex, each requiring a different set of skills, resouces and timeframes. The next method helps to "
+"identify the nature of distinct potential solutions to the same challenge."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:884
+#, no-wrap
+msgid "The aporetic turn - Discover opportunities for change"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:887
+msgid ""
+"The response to a challenge varies depending on its nature and on its context. Lack of time, resources or knowledge may turn an otherwise "
+"clear decision into a battle against chaos:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:888
+msgid "identify the nature of challenges in a given context as a precondition for action;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:889
+msgid "use the exercise described below to define potential responses."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:897
+msgid ""
+"This exercise can be run retrospectively to understand how a set of challenges was addressed in previous occasions and reflect if the "
+"decision was the most appropriate, given the context."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:901
+msgid ""
+"Source a flipchart or a large piece of paper. Copy the four corners of the diagram on the right (Clear, Complicated, Complex and Chaotic) "
+"and place \"Confused\" in the centre."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:902
+msgid "Place the challenge in \"Confused\"."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:903
+msgid ""
+"Ask the crew to brainstorm individually on potential decisions/solutions that could address the challenge. Time this step and assign a "
+"maximum of 10 minutes."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:904
+msgid ""
+"Bring the crew in a plenary session and ask in turn to each member to list her decisions/solutions. Discuss with the rest of the group where "
+"to place the descision/solution. You can assign a maximum time limit to each intervention."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:905
+msgid "Ask the crew to vote on the decisions and solutions that seem most realistic."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:906
+msgid ""
+"Commit the resources needed to start action on the most voted solution. Keep your options open to test other solutions or run solutions in "
+"parallel."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:910
+msgid ""
+"We loook for alternative ways to address an issue, tapping into novel, emerging and existing practices. If we are in crisis, clear and "
+"complicated solutions may not be realistic or possible."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:912
+msgid ""
+"The formalised processes necessary for *clear* solutions may have been disrupted and we may not have the time to conduct the studies we need "
+"to solve *complicated* issues. But it is still worth a shot to keep these options on the map, in case conditions change."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:914
+msgid ""
+"A solution is *complex* if we cannot guarantee in advance its beneficial effects. We will need several experiments and monitoring systems to "
+"detect the option with the most beneficial impacts."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:916
+msgid ""
+"In *chaotic* solutions it's not just the impact to be unknown: the response itself is novel and it may fail badly. We will most likely try "
+"to use any available resource, creating the conditions for radical repurposing. Solutions that originate in this quadrant have high "
+"innovative potential but will be expensive and may fail at any time."
+msgstr ""
+
+#. type: Title =
+#: en.adoc:917
+#, no-wrap
+msgid "Exapt"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:920
+msgid "The time for action has come. Yet, we have still too much uncertainty for an elaborate plan, we need to exapt."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:922
+msgid ""
+"Exaptation in evolutionary biology indicates the repurposing of an artifact, a trait or a module developed through natural selection. "
+"Feathers, for example, were initially intended as a form of communication before they were used for flight."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:924
+msgid ""
+"In organisational terms, exaptation indicates a process of radical repurposing of roles, processes, paradigms, values. It is a state of "
+"action that emerges after critically observing the present while (sometimes frantically) creating the structures and the conditions for the "
+"organisation to adapt."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:925
+#, no-wrap
+msgid "Exapt - Repurpose"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:928
+msgid "The most efficient way to address crisis is through exaptation (radical repurposing) of available assets:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:930
+msgid "use the material produced by the sensing networks to inform design briefs and missions;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:931
+msgid "complement design briefs with a scan of current assets to spot what can be repurposed."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:933
+msgid ""
+"The repurposing process in itself will generate additional learnings. Integrate them with the knowledge provided by the sensing networks and "
+"build a base for transitioning out of crisis."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:935
+#, no-wrap
+msgid "*Exaptation in biology* is the suggestion that a trait which has adapted in time for one function can, under different conditions, exapt for a different purpose. The idea itself is not new having been contemplated by Darwin. It has also been known as pre-adaptation but the idea that this implied some teleological process was in part responsible for Gould and Vrba coining the neologism in 1982. They use it to define two types of “cooptation”. Quoting them directly:\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:937
+msgid "a chapter, previously shaped by natural selection for a particular function (an adaptation), is coopted for a new use;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:938
+msgid "a chapter whose origin cannot be ascribed to the direct action of natural selection (a nonaptation) is coopted for a current use."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:941
+msgid ""
+"There is an implication that following exaptation the trait will then adapt to changing needs. The trait may not be fully suited to to its "
+"new use and will therefore adapt as a secondary process. + The development was important in evolutionary biology as it explained how new "
+"traits could emerge more quickly than would be possible in a linear way. The often quoted example is the evolution of feathers for "
+"temperature regulation and display, which were then repurposed for flight. Speculation as to how this happened includes fast running ground "
+"reptiles, where their feathers provided lift, or gliding between trees."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:944
+msgid ""
+"Once the exaptive shift is made we get sophisticated adaption, for example the “silencers” that evolved in the wings of owls and the use of "
+"feathers for trapping insects in other species. + Another example of exaptation is the cerebellum which adapted for fine grained "
+"manipulation of muscles linked to feeding, but then exapted to manage the sophistication of grammar in human language; something that would "
+"be too big a switch for an adaptive process."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:946
+msgid "This is not just a biological phenomena, there are many examples of *exaptation in industry and tehnology*."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:948
+msgid ""
+"IBM famously re-purposed an 18th century invention, punched cards, to create the ‘IBM Card’ with rectangular holes for easier patenting and "
+"machine readability which was one of the major factors giving it leadership in the early days of data processing."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:950
+msgid ""
+"Another very famous case occurred in 1945 when Percy Spencer, a Raytheon engineer noticed that a chocolate bar in his pocket started to melt "
+"in proximity to an active radar set. He realised that the short wave radiation arising from the cavity magnetron in the set, if confined to "
+"a metal box, would cook food. From this repurposing we get the micro-wave oven. The 1989 discovery of Viagra by Pfizer came from a programme "
+"looking for a treatment for heart-related chest pain. Realising the significance of a curious side effect created a blockbuster drug."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:953
+#, no-wrap
+msgid ""
+"*In organisations*, radical repurposing is efficient in terms of time, reducing significantly time to market as well as to find solutions in a crisis. The ability to rapidly repurpose existing capability, knowledge and connectivity is also critical in crisis management and post-crisis recovery. It is strongly linked to the idea of entanglement in complexity science. +\n"
+"At the right level of granularity, if we are able to see its potential, *combinations of existing knowledge with new or previously unarticulated needs* provide a significant opportunity. The growing understanding of this and its application to social systems as well as physical products is critical to understanding innovation and post-crisis recovery.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:955
+msgid ""
+"The use of exaptation as a means of exploiting new opportunities generated by commoditisation or significant ecological shifts is a "
+"developing theory in management. The common saying is that we should interpret crisis as an opportunity to evolve and innovate. In crisis, "
+"old patterns are destroyed and spaces for novel practice open up; the ability to exploit those spaces ensures resilience and creates spaces "
+"for disruptive innovation."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:956
+#, no-wrap
+msgid "Types of exaptation in organisations"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:959
+msgid ""
+"In organisations, exaptation is a process that repurposes or redesigns existing resources. If the process is unexpected and forced by crisis "
+"and chaos, we call it *stress-based exaptation*; if it is a voluntary excursion in chaos, we call it *stimulated exaptation*. Finally, if it "
+"is a consolidated practice we call it *dispositional exaptation*."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:961
+msgid "We will discover more about these states in the next pages."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:962
+#, no-wrap
+msgid "Stress-based exaptation - Extreme repurposing"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:965
+msgid ""
+"Unexpected events brought us unintentionally into chaotic processes that can have catastrophic consequences on us and on our context: "
+"repurpose whatever at hand to stabilise the situation and, if possible, to limit catastrophic effects."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:967
+msgid "This corresponds to the area of accidental chaos in the Cynefin framework and it is the most likely to occur in crisis."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:969
+msgid ""
+"This happens naturally in any human system under conditions of stress. In a real crisis humans are very good at simply grabbing something "
+"(which can be an idea as well as a material object) and rapidly using it to fix (or throwing it to) an issue or problem."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:972
+msgid ""
+"This human inventiveness is something we can depend on but its results can be haphazarduous and are not without casualties. + There is also "
+"the danger of the resulting pattern of solutions becoming entrained beyond usefulness. We can reduce the inevitable high failure rate by "
+"employing a crew that is very well trained in lateral thinking. This is the ideal job for the probing crew we set up earlier."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:973
+#, no-wrap
+msgid "Extreme repurposing in COVID-19"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:976
+msgid ""
+"In the firts phases of the COVID-19 crisis we had several cases of radical repurposing initiated by informal groups of scientists, doctors, "
+"engineers and designers to cope with the shortage of medical items."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:978
+msgid ""
+"The successful examples of extreme repurposing often made it to national and international news. From the 3D printed adaptor that repurposed "
+"a scuba diving mask to the 3D printed valve that duplicated the capacity of a respirator. Many businesses even stepped up and repurposed "
+"their manufacturing lines to produce items that were hard to source. As to be expected, some of the solutions broke existing legislative "
+"boundaries and, for example, challenged existing intellectual property and licensing rights."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:980
+msgid ""
+"In most cases, these radically innovative products were ideated and produced by the joint efforts of coordinated, informal networks that "
+"emerged spontaneously, supported by online connectivity."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:982
+msgid "Spontaneous networks also emerged to share practices and knowledge on online platforms."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:984
+msgid ""
+"It is worth noting how *no economic instrument or expected income* was sponsoring or supporting these purpose-driven movements and is most "
+"likely at the root of their success and diffusion."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:985
+#, no-wrap
+msgid "Stimulated exaptation - Design radical innovation"
+msgstr ""
+
+#. type: Block title
+#: en.adoc:987
+#, no-wrap
+msgid "Boundary objects"
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:990
+msgid ""
+"We create strong emotional bonds with objects that are part of our day to day routine when they connect us to special experiences, memories "
+"or people. They become the symbol of that experience, or person."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:992
+msgid ""
+"Other objects have deep impact on our emotions because they were passed on to us through generations and became material symbols of the "
+"values of our culture. Think of any religious object, for example."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:994
+msgid "Boundary objects challenge the symbolic meaning of an object by giving it an unexpected function or by de-contextualising it."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:996
+msgid "In extreme cases, the new function or the new context becomes an insult to the object and to ourselves. We went \"too far\"."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:998
+msgid ""
+"In other cases, and these are the interesting ones, the object is placed within acceptable boundaries. It becomes a provocation but also and "
+"an opportunity to reconsider normality."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:1000
+msgid ""
+"Often, artists and designers use these boundary objects as statements. An example is one of the works of Curro Claret, a spanish product "
+"designer, who proposed a church bench that can be easily disassembled and transformed into a bed for the homeless."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:1002
+msgid ""
+"Other times, designers use boundary objects to understand people's dispositions towards certain scenarios and to inform their ideation "
+"porocesses."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1005
+msgid ""
+"This is a design approach that deeply questions fundamental paradigms: needs and knowledge are independently mapped and then entangled to "
+"create novel combinations. We need to think in concepts and metaphors, move the reflection from the material immediate to a level of "
+"abstract signification which opens us to more disruptive insights. In this sense, this is more a competence to be nurtured, discovered or "
+"imported in the organisation, rather than a set of methods and tools to adopt or apply."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1009
+msgid ""
+"Concrete experiences and anecdotes about the unfolding crisis are the raw material that feeds this design approach. They facilitate the "
+"generation of insights by enriching with thick data the design and decision making process, while keeping the reflection grounded on the "
+"present. + Experiences can be collected directly from our organisation and/or its beneficiaries and analysed with specialised software. "
+"Here, the level of abstraction is achieved by the signification framework which which taps into the symbolic side of the stories. + In "
+"speculative design approaches, conceptual prototypes materialise in a tangible object or organisational structure a potential but concrete "
+"experience that challenges our preconceptions, paradigms and assumptions. Their role is not to serve as functional prototypes of a concrete "
+"solution, they are a tool for exploring the invisible adjacent possible. They generate a \"feedback experience\" that is realistic enough to "
+"detect dispositions and to inspire further decisions. The results of this exercises of voluntary exaptation open the door to radical, "
+"unbounded innovation which can find fertile ground when crisis itself pushes us to questions our fundamental paradigms."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:1010
+#, no-wrap
+msgid "Stimulated exaptation in COVID-19"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1013
+msgid ""
+"The COVID-19 crisis challenged our \"normal\" ways to understand work, entertainment, tourism, personal and social responsibility, etc. Some "
+"organisations and institutions transformed this unexpected incursion into chaos into a deliberate opportunity to (re)design their practices, "
+"for example embracing and experimenting with radical forms of teleworking."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:1014
+#, no-wrap
+msgid "Speculative design at the EU Policy Lab"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1017
+msgid ""
+"In the picture, a group of students from the École Supérieure d'Art et Design de Saint-Étienne present boundary objects to Policy Officer at "
+"the European Commission to reflect on the future of farmers."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1019
+msgid ""
+"The prototypes were used to broaden the understanding of policy implications of potential technological, social and environmental weak "
+"signals."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1021
+msgid ""
+"The exercise was tutored by Rodolphe Dogniaux, design professor at the École Supérieure d'Art et Design de Saint-Étienne in cooperation with "
+"Jennifer Rudkin, Anne-Katrin Bock and Maciej Krzysztofowicz from the European Commission's EU Policy Lab."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1023
+msgid "More information on this project at: https://europa.eu/!jw69nk"
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:1024
+#, no-wrap
+msgid "Dispositional exaptation - Design strategic interventions"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1028
+msgid "Challenge the interactions between agents to inform strategic decisions. It is more effective than pre-determining an objective:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1030
+msgid "use the material produced by the sensing networks to craft conceptual scaffoldings;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1031
+msgid "use the scaffoldings to challenge roles, question the problem space while maintaining coherence;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1032
+msgid "design harvesting methods and templates to collect knowledge and to inform strategic decisions."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1034
+msgid "This corresponds to the area of complexity in the Cynefin framework."
+msgstr ""
+
+#. type: Block title
+#: en.adoc:1035
+#, no-wrap
+msgid "Conceptual scaffoldings"
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:1038
+msgid ""
+"The most popular example of conceptual scaffoldings used in business are the so-colled canvases. They are a combination of pre-defined empty "
+"spaces that function as enabling boundaries."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:1040
+msgid ""
+"These templates help to collect the essential elements of a business and to think systematically to all its key contributors, beneficiaries, "
+"assets and liabilities. They are mostly used to inform abstract strategic thinking and concrete business plans."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:1042
+msgid ""
+"A new generation of conceptual scaffoldings is part of the ongoing design research at the EU Policy Lab. These are visual frameworks that "
+"position dimensions, agents, resources in a relational framework."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:1045
+msgid "They are highly contextual and the position of each component encapsulates dense, specific knowledge captured in action research."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:1047
+msgid ""
+"Like traditional canvases, they function as support for systematic and strategic thinking, but the emphasis on a visual approach unlocks "
+"possibilities to use them as dashboards or as synthetic snapshots of the status of complex entities."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:1049
+msgid ""
+"They are mostly used in contexts where it is impossible to categorise or define agents according to one key dimension because of their "
+"organic, ecosystemic nature."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1052
+msgid ""
+"Here we create organisational structures and processes that naturally create novel associations. This is a key feature of strategic design, "
+"beyond the linear and de-contextualised application of \"thinking\" methods and tools to *create spaces for co-generation and shared sense-"
+"making*. In this spaces, the exaptive role of design is to orchestrate multiple contributions in a coherent conversation, facilitate lateral "
+"thinking, harvest challenges, propose new actionable ideas and test them with proofs of concepts and prototypes."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1056
+msgid ""
+"In this process it is key to reduce blare, bluster and brawl. Conceptual scaffoldings, crafted choreographies and harvesting templates are "
+"of primary importance for this. + *Choreographies* ritualise the exchange of information and modulate the rythm of the interventions giving "
+"space to individual contributions, group work and plenary sense making and alignment. *Harvesting templates* anchor converations in "
+"actionable outputs, while *scaffoldings* help to maintain focus but keep the door open to weaving several perspectives. + Tree methods and "
+"approaches create the preconditions for strategic design:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1058
+#, no-wrap
+msgid "*Social network stimulation* allows a generative use of informal networks. It ensures that everyone in an organisation (and ideally its proximate networks) is within two/three degrees of separation based on a trusted common set of experiences. With a densely created network and proper design facilitation, ideas and associations will emerge organically.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1060
+#, no-wrap
+msgid "*Triads* are groups of three people from radically different backgrounds with no prior interaction. They are kept together by purpose and by well crafted choreographies which ritualise the exchange of knowledge and create trans-disciplinary possibilities. Harvesting templates catalyse the creation of actionable knowledge.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1062
+#, no-wrap
+msgid "*Staged, highly structured events* allow experts from many different backgrounds to interact with people who experience first hand the various current issues and problems. A series of action-based research experiments take problems and knowledge assets into easily understood ‘grains’ which are then associated to create novel ideas.\n"
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:1063
+#, no-wrap
+msgid "Scaffolding at the EU Policy Lab"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1066
+msgid ""
+"In the picture, a \"next generation\" canvas is used as scaffolding to identify and visually represent the identity of a social economy "
+"activity."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1068
+msgid ""
+"Social economy in Europe lacks a comprehensive definition and the intention here is to maintain a broad perspective to facilitate the "
+"development of inclusive policies. The team, composed by practitioners, designers and policy makers, opted to use a visual scaffolding "
+"structured in triads that provides an integrated view of 54 key dimensions."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1070
+msgid ""
+"This approach allows to immediately identify a company's priorities across the triple bottom line of social, environmental and economic "
+"regeneration (green triad) and compare it, for example, with local and regional priorities (red triad)."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1072
+msgid "More information on this project at: https://europa.eu/!jc88ph"
+msgstr ""
+
+#. type: Title =
+#: en.adoc:1073
+#, no-wrap
+msgid "Transcend"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1076
+msgid "In the path toward transcending the crisis, most of our initial structure may have dramatically changed or disappeared altogether."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1078
+msgid "It is time to ritualise and consolidate change, avoiding the temptation to return to practices that are now cearly obsolete."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1080
+msgid "But is it the end?"
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:1081
+#, no-wrap
+msgid "Manage cadence and control"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1085
+msgid "At this point we should have several units operating in ways that are novel for the organisation:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1087
+msgid "maintain cadence and control. If we lose coherence, we may quickly spiral back into chaos;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1088
+msgid "identify what novel activity should be part of the new normal and what should be reverted to previous practices;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1089
+msgid "ritualise the learnings, especially those that originate from failures, to ensure that we are ready for the next crisis."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:1090
+#, no-wrap
+msgid "Cadence"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1093
+msgid "Cadence matters more than velocity if we seek stability and endurance."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1098
+msgid ""
+"In management, review cycles are what create cadence. During conditions of high stability, cadence can be slow and the subjects reviewed are "
+"usually quite repetitive. In a crisis the pace will be fast, but there needs to be a rhythm to it, commonly understood between all actors. "
+"Priorities can be selected ad-hoc within small, tightly focused teams who can expect or enforce compliance. + *Daily or quasi-daily cycles* "
+"in small teams serve the purpose of addressing urgency and uncertainty, when a changing context generates constant shifts in priorities. A "
+"small number of participants allows more effective decision making, and all need to be present. + *Weekly feedback cycles* help to align "
+"several functions and will replace various forms of written reporting. Representatives of all functions should participate with a fairly "
+"relaxed approach to who turns up. Absent members will need to be kept up to speed so we need to evaluate how costly that is. + The ability "
+"to shift to *bi-weekly cycles* indicates that we have reached a certain level of stability. We are reducing the pace while activities keep "
+"moving fast. The ideal is to increase velocity while reducing cadence of review, which reduces the energy cost of management."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1103
+msgid ""
+"Regardless of its frequence, the critical thing is to *find a rhythm which allows for stability*. It is also crucial not to overlap "
+"uncoordinated sessions, as the punctuated information flows could add unmanageable noise or generate lack of awareness. If we consider this "
+"in terms of flow we are creating a cadence that prevents the flow from becoming turbulent. In a crisis, and recovery of a crisis, all key "
+"actors need to be aware of decisions and the reasons for those decisions, there isn’t time to read emails, check a project management Kanban "
+"board or similar: we just need to know. Information management is key and can’t be left to chance or mediated reports. + At Cognitive Edge, "
+"the management of cadence is helping to advance a major software release, while at the EU Policy Lab it is helping to provide fast response "
+"to very sensitive, high profile projects. + *The size of a unit* (a short hand that includes teams, crews, hierarchies and networks) has "
+"some natural limits; the Cynefin diagram at page 60 shows team size, membership criteria and temporality. + We need to be aware that crisis "
+"management teams tend to get very close to each other during the crisis itself. Peer support and extended walk-the-floor breaks are among "
+"the techniques we can use to avoid that they get completely isolated from reality. More importantly when the crisis is over the team needs "
+"to disband and that change has to be ritualised. Knowing when we have crossed the boundary from adaptation to recovery is important and it "
+"requires a rite of passage."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:1104
+#, no-wrap
+msgid "Control"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1108
+msgid ""
+"Crisis control should be relaxed. Most likely, there will be no loss of quality as the overall perception of risk changes. At the start of "
+"COVID in the UK authorisation for critical public projects were granted in days or hours where before it would have taken months. The "
+"fundamental steps of the control processes were still there but their use was accelerated and unnecessary steps removed. As the crisis "
+"receded, two things happened: a grass roots romanticism wanted to continue with the freedom provided, while those who would carry the can "
+"for the risk started to realise the potential implications of post-crisis audit and reverted to business as usual. Now both of these "
+"responses are wrong but the pendulum swing between crisis-induced freedom and the reimposition of bureaucratic controls is inevitable unless "
+"we address it."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1110
+msgid "Three devices come to help."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1112
+msgid ""
+"Key actors performing *continuous journaling*: realtime feedback loops and human sensor networks in which observers journal changes in "
+"process and carry out micro risk assessments. This is useful for operational management, weak signal detection and the like. Post-crisis, "
+"journaling gives an evidence base to work out what can be changed permanently and what should be returned to normal. We build expertise in "
+"this during the crisis with peer to peer narrative learning, for example."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1114
+msgid ""
+"Teams using the evidence from the journaling and other information sources to *look at reform* before we get to far away from the crisis. "
+"For example five or six crews each formed by an auditor, a frontline worker and a manager work on the problem in parallel to spot reform "
+"possibilities or to experiment with safe-to fail changes."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1116
+msgid ""
+"Identify the *human elements* involved in quality decision making. Some people are better at it than others, but it can also be a "
+"professional issue. For example there is a significant difference between hospitals run by professional managers and those run by former "
+"doctors trained in management. The latter have a broader knowledge of the implications of decisions and understand that it is a context "
+"specific matter."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1118
+msgid ""
+"A part of our change may be to define the boundary conditions within which autonomy can be permitted. That includes rules about expectations "
+"and heuristics to come into operation when rules are broken."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:1119
+#, no-wrap
+msgid "Transcend - Ritualise learning"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1122
+msgid ""
+"We learn more from failures than success, and the learnings are more reliable if lessons are recorded and formalised when they are still "
+"fresh:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1124
+msgid "simulate failures as a method to increase resilience;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1125
+msgid "de-personalise failure and avoid blame;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1126
+msgid "start a mass engagement process to ritualise learning."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1128
+msgid ""
+"Games have always had an adult purpose, from political simulation to war games. They provide a safe learning environment to test strategies "
+"and tactics with immediate feedback. Two examples will show how games can prepare us for crisis and train us to learn from our failures."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:1129
+#, no-wrap
+msgid "Anthro-simulation"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1135
+msgid ""
+"Anthro-simulation involves human game masters controlling an eco-system where whatever we do, we fail. We create parallel teams in an open "
+"space who are presented with a (crisis) situation for which they have to complete a situational assessment and come up with a next steps "
+"action plan. + Each work area has microphones so the game masters can hear the conversation, for two reasons: to monitor how the decisions "
+"are being made and to allow them to feed disruptive data in real-time. + After some time, which depends on the urgency that we want to give "
+"to the exercise, the teams are given a one hour break. When they come back they discover that whatever they did turns out to be a disaster. "
+"This is easily done by picking up a weak signal that they missed and extrapolating it. The cycle is repeated three times and after the "
+"second time everyone start to realise that they are doomed. + Because it is happening in parallel to other teams this is not personal and by "
+"the end of the process, the amount of data being scanned before a decision increases significantly. *Failure engenders more learning than "
+"success*. Through out the process all team members and observers journal their experience into a sense-making database. That creates a "
+"narrative learning environment of simulation failures that can be used as a knowledge repository."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:1136
+#, no-wrap
+msgid "Archetypes"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1139
+msgid ""
+"Linked to the idea of games is the displacement of confession into fictional story forms including the use of archetypes. Archetypal story "
+"forms historically have been used to distribute learning of failure without the need to admit personal. An example are the stories of the "
+"Mullah Nasrudin, the wise fool. In societies familiar with such stories, if we do something foolish we create a story about how the Mullah "
+"did it, and it then spreads without attribution of blame. In a lessons learned environment it is a powerful and easy-to-use technique, and "
+"more ethical than exhorting people to be open about failure. Hindsight often point to something we could have done differently. By "
+"displacing failures onto archetypal characters we effectively allow people to use an actual experience, a synthesis of experiences, or a "
+"just-so story to convey learning to the current and following generations. Lessons learned is not a drains up search for the truth, it is "
+"about creating learning, which can come from fiction as much as from fact."
+msgstr ""
+
+#. type: Title ===
+#: en.adoc:1140
+#, no-wrap
+msgid "Learning from crisis"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1143
+msgid ""
+"So how does all of this link to our theme of post-crisis recovery? Well first and foremost is that the trauma of the crisis will have "
+"generated *multiple learning opportunities* and we need to formalise them before they fade over time. So in our four-stage Assess-Adapt-"
+"Exapt-Transcend we need at the end to focus on learning, prepare for the next crisis, and ritualise that learning as a means of "
+"understanding that we have moved on. The initiation of a highly visible and mass engagement learning process is a way of signaling the end "
+"of a crisis and the need to move on."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1145
+msgid "Seven key possible uses of narratives here:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1151
+msgid ""
+"We save the *simulation stories with the real-time journaling*. Narrative databases disclose complex patterns of meaning over time and allow "
+"serendipitous encounters with material we didn’t expect to find. + We give our workforce access to the stories and *use narrative clusters "
+"to stimulate new stories* about how we could have done better. We also save those new stories and we link them to their originating "
+"material. The material can be used to review the rules we had put in place and to stimulate planning based on micro scenarios. + We *create "
+"scenarios from the anthro-simulation games* for key players (or ideally all the workforce) allowing the learning to be embedded while the "
+"need to learn is still front and centre. We don’t wait until everyone has forgotten what happened! + We *combine the situational stories "
+"with a narrative audit of existing capabilities and assets* to suggest ways in which we can radically repurpose things we are already "
+"competent in, for novel purpose. This will also provide opportunities to gain a competitive advantage of the novel situation that a post-"
+"crisis always brings. The artifacts of the crisis management process become a part of the strategic and tactical process thereafter. The "
+"*widest possible engagement is important* and that can extend to customers, citizens, retired employees as well as potential recruits still "
+"in college. The more perspectives we get, the better. + The material thus gathered creates training *datasets* that will allow anticipatory "
+"triggers for early signs of a future crisis; this is also known as weak signal detection and includes warning of excessive constraints which "
+"could bring our organisation to collapse into chaos. *Micro-narratives and mass participation* provide a more effective source of material "
+"for effective internal and external communication than carefully formulated statements. Similar control, but a lot more effective."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1153
+msgid ""
+"The process of managing and exiting from a crisis becomes now a process of creating a sense-making infra-structure that will sustain the "
+"organisation into the future."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:1154
+#, no-wrap
+msgid "The Cynefin framework"
+msgstr ""
+
+#. type: Block title
+#: en.adoc:1156 en.adoc:1218
+#, no-wrap
+msgid "Cynefin"
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:1159
+msgid ""
+"The practices and competences contained in this booklet are inspired by and reinforce a conceptual framework designed to manage anthro-"
+"complexity, or complexity in human systems."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1162
+msgid ""
+"Cynefin is a decision support framework. It is a way of determining what method or approach we should adopt while critically assessing when "
+"we should change it."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1164
+msgid ""
+"It is based on the principle of bounded applicability: there are few if any context-free solutions but many valid context-specific ones."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1166
+msgid ""
+"In crisis, the framework helps to generate a transitional path from a state of puzzlement, or aporia, to a state of adaptive reaction and "
+"finally to transcend, innovate and learn."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1168
+msgid ""
+"Cynefin is a key framework in what is known as naturalising sensemaking. The term naturalising relates to the use of natural science. Sense-"
+"making (with a hyphen) is defined as “how do we make sense of the world so we can act in it\". Cynefin is also part of a body of work "
+"looking at the correct balance between deductive, inductive and abductive sensemaking."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1170
+msgid "In summary the essence of the framework can be summarised as follows;"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1172
+msgid ""
+"At its heart there are three primary domains: _order_, _complexity_ and _chaos_ *defined by the type of constraint*, or absence thereof. "
+"_Order_ is constrained to the point where future outcomes are predictable as long as the constraints can be sustained, _Chaos_ is the "
+"absence of effective constraint while _complex_ is uncertain but has *enabling constraints*, many levels of entanglement that make it "
+"dispositional in nature with no linear material causality."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1174
+msgid ""
+"Most organisations are by nature complex adaptive systems where needs and requirements entangle with identities, cultural practices, "
+"personal preferences and values, challenging and interpreting even the most strict rules and procedures to give result to unpredictable "
+"outcomes."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1177
+msgid ""
+"The shifts between the primary domains are all phase shifts and need energy to happen. The best metaphor in science is *latent heat*: energy "
+"is required to achieve the phase shift from liquid to gas even though the temperature does not change. + In organisations, phase shifts "
+"translate to culture change: they need energy which is not used to expand or perform but to dramatically change the nature of internal "
+"relationships."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1179
+msgid ""
+"To accommodate the disconnect between reality, perception and knowledge in human systems, _order_ in Cynefin is divided into _clear_ and "
+"_complicated_. In _clear_ the relationship between cause and effect is self-evident and clear to any reasonable person; constraints are "
+"rigid or fixed. In _complicated_ cause and effect exist but it requires expertise or analysis to discover it; constraints are governing, "
+"giving confidence in the boundary of expertise."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1181
+msgid ""
+"Further we have the _confused_ domain, which is the state of not knowing which domain we are in and is frequently, but wrongly (sic) "
+"confused with _chaos_. This is the where we start from in most crisis: a confused state where the lines of action are not certain. "
+"_Confused_ is appreciated as _A/C_ (_aporetic_/_confused_) of which more in the next section."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1185
+msgid ""
+"The \"transitional\" or *liminal line* in Cynefin indicates possible paths of transition among domains. It is open at the top, closed at the "
+"bottom and intersects all domains, except _clear_. The boundary between _clear_ and _chaotic_ is a *catastrophic fold*, or cliff; a collapse "
+"where the liminality in _clear_ is not visible and it is all too easy to walk blindly off the cliff. In organisational terms, this relates "
+"to an excessive confidence in the applicability of existing rigid procedures and constraints which can easily bring to chaos when crisis "
+"occur. + The line creates *liminal states* in _complex_ (still uncertain but transiting to _complicated_), _chaos_ (the deliberate removal "
+"of effective constraints for decision support and/or innovation), _complicated_ (where the analysis method or type of expertise is in "
+"question) and _confusion_ itself which is the area of aporia. To be unknowingly in the _confused_ domain is not advisable and it is adjacent "
+"to the catastrophic fold for a reason. To be in a state of confusion authentically, with knowledge of the state means that *aporia* can be "
+"created to exit into any domain other than _clear_. + There are different types of practice in each of the Cynefin domains and liminal "
+"areas. In the _complex_ domain practice is *exaptive*, or focused on radical re-purposing of existing capability. In the _complicated_ "
+"domain we apply *good practice*, in _clear_ we have the only legitimate application of *best practice*."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1187
+msgid ""
+"In the liminal area between complex and complicated practice is iterative in nature, seeking to establish good practice through a phase "
+"shift and this will require energy."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1189
+msgid ""
+"In _chaos_ practice is generally *novel*, either by accident, or in the liminal area by design. In the liminal area of _confused_, practice "
+"is *aporetic*, the deliberate creation of paradox and puzzlement to get people to think differently. No type of practice is universal, the "
+"summary here is the main focus for action."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1191
+msgid ""
+"Cynefin is at its heart a *decision support framework* that is based on the principle of bounded applicability: there are few if any context "
+"free solutions but many valid context specific ones. As such Cynefin is a framework not a method, it is a way of determining what method or "
+"approach we should adopt and critically when we should change it."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1193
+msgid ""
+"Movement between domains can take many forms. The most stable is a *constant iteration between _complex_ and _complicated_* with some "
+"material being consigned to _clear_ when there is sufficient stability to warrant it and the shift is low risk. Occasionally there is a need "
+"to dip into the *aporetic liminal area* from _complicated_ if pattern entrainment has set in. The aporetic liminal area is the normal target "
+"for an exit from involuntary _chaos_. There is also a dynamic which constantly moves from _complexity_ through all liminal domains and then "
+"back again."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1195
+msgid "More on the Cynefin framework at: youtube.com/watch?v=N7oz366X0-8"
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:1196
+#, no-wrap
+msgid "The Cynefin framework in a flow"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1199
+msgid "A free-flow, organic interpretation of the Cynefin framework"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1201
+msgid "Chaos as the place with no constraints nor boundaries"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1202
+msgid "Serendipituous encounters and dark constraints give light to the first stable ideas."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1203
+msgid ""
+"Complexity as the place where several ideas interact in conversations that generate scaffoldings. We can observe agents interacting "
+"according to three paradigms: the triad (*3a*), the square (*3b*), the pentagon (*3c*)."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1204
+msgid ""
+"A paradigm (the triad in this case) becomes successful and creates a filter that, from now on, will condition and influence the creation of "
+"new structures."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1205
+msgid "Complication as the place where the paradigm is interpreted into several possible outputs, all respecting and reinforcing the triad."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1206
+msgid "Clarity, where a set of rules starts to dominate and becomes the only allowed structure."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1207
+msgid "Any living system has agents that still permeate the space but don't fit in the mainstream narrative and structures."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1208
+msgid ""
+"The more the structure self-replicate, the more it acts as a rigid, impermeable boundary. The increasing pressure on the structure will end "
+"up breaking it catastrophically. The system will fall back into chaos."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1209
+msgid ""
+"Keeping the structure flexible and consciously removing some of the more fixed and rigid boundaries allows us to drift back into complexity "
+"and rediscuss the paradigm."
+msgstr ""
+
+#. type: Title ==
+#: en.adoc:1210
+#, no-wrap
+msgid "Endnote"
+msgstr ""
+
+#. type: Positional ($2) AttributeList argument for style 'quote'
+#: en.adoc:1212
+#, no-wrap
+msgid "Abraham Lincoln"
+msgstr ""
+
+#. type: Positional ($3) AttributeList argument for style 'quote'
+#: en.adoc:1212
+#, no-wrap
+msgid "Annual Message to Congress December 1st 1862"
+msgstr ""
+
+#. type: quote
+#: en.adoc:1217
+msgid ""
+"We can succeed only by concert. It is not \"can any of us imagine better?\" but, \"can we all do better?\" The dogmas of the quiet past are "
+"inadequate to the stormy present. The occasion is piled high with difficulty and we must rise with the occasion. As our case is new, we must "
+"think anew and act anew."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:1243
+msgid ""
+"Cynefin (pronounced cun-ev-in) is a Welsh word with no direct equivalent in English. As a noun it is translated as habitat, as an adjective "
+"acquainted or familiar, but dictionary definitions fail to do it justice. A better, and more poetic, definition comes from the introduction "
+"to a collection of paintings by Kyffin Williams, an artist whose use of oils creates a new awareness of the mountains of his native land and "
+"their relationship to the spirituality of its people: “It describes that relationship: the place of your birth and of your upbringing, the "
+"environment in which you live and to which you are naturally acclimatised.” (Sinclair 1998). It differs from the Japanese concept of Ba, "
+"which is a “shared space for emerging relationships” (Nonaka & Konno 1998) in that it links a community into its shared history – or "
+"histories – in a way that paradoxically both limits the perception of that community while enabling an instinctive and intuitive ability to "
+"adapt to conditions of profound uncertainty.  In general, if a community is not physically, temporally and spiritually rooted, then it is "
+"alienated from its environment and will focus on survival rather than creativity and collaboration."
+msgstr ""
+
+#. type: delimited block *
+#: en.adoc:1247
+msgid "Dave Snowden + Cynefin a Sense of Time and Place + Knowledge Horizons"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1251
+msgid ""
+"The quote from Lincoln used above is one of his most famous and featured in Composer Copeland’s _American Portrait_. The speech was made one "
+"month before signing the Emancipation Proclamation. + It contains some key messages for anyone seeking to recover from a crisis at any "
+"level: _phia_ (wisdom) and _prognosis_ (foresight), contrasting theoretical knowledge with that obtained through practice, not to privilege "
+"one or the other but to require both."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1253
+#, no-wrap
+msgid "*The call is to both _think_ and to _act_ anew*. Any crisis involves a considerable focus on action, but reflection is also needed and that needs to be distributed into the wider community. In the Transcend section of this handbook we identified a series of short and long term actions that create a process of reflection within those involved in the crisis.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1255
+msgid ""
+"The need to *act in concert*, to work together, is key but that working together recognises what, from a complexity science perspective, we "
+"would call requisite diversity. We don’t want to homogenise but to *create coherent heterogeneity*, or the ability to come together in "
+"common need for common purpose without the loss of what made us distinctive in the first place. At a very prosaic level think how fierce "
+"rivalry between local sports clubs can be forgotten in the context of a national team."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1257
+msgid ""
+"It is *not about imagining a better future*, although there is nothing wrong in that per se, *but it is about doing better*. Far too many "
+"change initiatives in organisations and in governments end up with idealistic statements about a desired future state which inevitably end "
+"up in disappointment. *A vision of a future state should provide a sense of direction but not a deterministic goal*. Once we understand "
+"complexity we know that starting journeys with a sense of direction leaves us more open to discovering novelty on those journeys, "
+"opportunities and threats that we could not have imagined in advance."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1259
+#, no-wrap
+msgid "*Key is that we create an organisation that has high levels of resilience, defined here as the ability to survive with continuity of identity over time*. This is a quality of systems that come through failure stronger (called anti-fragile systems). However failure is not the only way in which resilience can be built. One way to understand this is to think about the difference between a sea wall and a salt marsh.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1261
+msgid ""
+"The sea wall is robust, it is a clear, rigid boundary that holds back the tides. It drains the landward side and allows us to use it "
+"productively. All is well and good until the design conditions are exceeded and the wall breaks catastrophically. A salt marsh in contrast "
+"is less efficient in its use of land but absorbs multiple indications flexing and changing over time. The landscape may change but the "
+"identity is the same. When the salt-marsh is saturated critically, it does not create a catastrophic release as is the case when the sea "
+"wall breaks."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1263
+#, no-wrap
+msgid "*During conditions of uncertainty we need more salt-marshes and fewer sea walls*; the idea of surviving with continuity of identity over time is key. We are changed by context but we are not constantly starting afresh. The sea wall is highly efficient, the salt-marsh is however more effective in extreme conditions. A focus on efficiency has high utility to the expense of variety and redundancy in the system and in consequence reduced adaptive capacity. A balance is a key part of leadership. Of course we may not be dealing with a single crisis, but a cascade or overlapping series of crises each of which can damage resilience. But *we may increase resilience if people can accept the often radical sacrifices needed by the current situation as a mean to also reduce the impact of a crisis yet to come*. The COVID crisis for example comes as the awareness of global warming is growing, albeit later than any scientists wanted. The sacrifices made for containing COVID demonstrate what is possible - it is the responsibility of leadership to make the links and not allow a return to what was considered normal.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1266
+msgid ""
+"While a crisis offers a real opportunity to make radical change, such a desire needs to be treated with a healthy dose of pragmatic realism. "
+"Behaviour in a crisis cannot sustain itself for long after the crisis, or even within it if it goes on for too long. + Sudden novelty means "
+"that humans will change behaviour in unexpected ways, but only for a period."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1268
+msgid ""
+"To take an example, in the COVID crisis governments world wide radically reduced or removed bureaucracy to allow rapid decision making. That "
+"reduction is not sustainable, but neither should we return to prior practice. Operational people have learnt that things can be done more "
+"effectively and faster but we should not seek to remove bureaucracy, rather to modify it and adapt. Instead of radical swings of the "
+"pendulum we need to allow a new stable position to emerge."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1270
+msgid ""
+"The realisation that *rules cannot cover all possible future states* is a common aspect of emerging from a crisis but few put it into "
+"action. One approach is to *define rules and when rules can be broken, but have a control process* when this is necessary. The US Marines "
+"have a simple policy. When the battlefield plan breaks down, soldiers follow three simple, easily memorable heuristics or rules of thumb: "
+"capture the high ground; stay in touch; keep moving. Such heuristics are measurable and provide a control framework while allowing "
+"flexibility of response in rapidly changing circumstances."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1272
+msgid ""
+"It mimics what we know about animal behaviour; the flocking behaviour or birds can also be simulated using three simple rules: follow the "
+"next bird, match speed, avoid collision. Add a further rule about leadership swapping on a time interval and we get the V-shape of geese "
+"flying. *Simple rules give rise to complex behaviour which can be managed and monitored in consequence*. Napoleon’s famous order march to "
+"the sound of the guns provided a self organising principle, but also one in which multiple commanders could predict the behaviour of others "
+"without the need for direct orders or communication lags. If all the other active agents are using a common set of heuristics then the "
+"system as a whole can align around a common purpose much faster."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1278
+msgid ""
+"It is also important to emphasise *the importance of boundaries and boundary crossing* for human decision. As a species we are not good at "
+"gradients, we tend to settle where we are most comfortable. + The boundary transition between rules and heuristics is a boundary between "
+"complicated and complex in Cynefin terms and the move across it needs to be ritualised to ensure the behaviour change. + Boundary rituals "
+"are important not just for the local decision maker, but for the wider community in which their action will be seen and judged. + "
+"*Capturing, codifying and linking the propagation of heuristics to teaching stories is a key way in which organisations can create "
+"resilience post crisis*. + This also links into another aspect of military learning that is insufficiently used in government and commercial "
+"organisations alike, namely the role of practice. Military units practice more than they fight. In the context of non-military "
+"organisations, while practice is possible, it is not viable at military levels. So instead we have to create operational capability and "
+"embedded networks that embody aspects of day to day organisation whose nature and use can rapidly be triggered as is into crisis management. "
+"This is a design issue and one that is not difficult to do, certainly easier to put in place in the immediate aftermath of a crisis when "
+"people can see the need."
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1281
+#, no-wrap
+msgid ""
+"*So for decision support we talk about creating networks for ordinary purposes that can be activated for extraordinary needs*. The section on how to create a human sensor network outlines some principles of how to do this. Having multiple perspectives available in real time to decision makers is key to decision making in a crisis but also has utility on a day to day basis. +\n"
+"Finally one key aspect of understanding *complexity is that it is path dependent*, we cannot forget our history even if we wish to transcend it. The basic framing of the word Cynefin in Welsh is a sense of living in a flow of meaning. It has been compared to the German Heimat and the Maori turangawaewae, meaning a place to stand. But the Welsh equivalent of those words, which have a sense of looking to a place is hiaeth, a feeling of longing for a home that ever was and a bond which persists over time Cynefin as a concept recognises the nature of the past, but does not seek to return to it, but to continue changed.\n"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1283
+msgid ""
+"Recognising that we are formed by our multiple pasts, but also by our imagined futures contains the idea of transcending through learning "
+"and education. In the aftermath of a crisis we have, almost uniquely a shared immediate past that can trigger change but we need to seize "
+"the day and avoid the danger of just falling back to the practices which allowed the crisis to emerge in the first place. Here we have to be "
+"very careful to, in the words of Lincoln combine words with actions. A final quote from T S Eilot summaries this well:"
+msgstr ""
+
+#. type: Plain text
+#: en.adoc:1291
+msgid ""
+"Nothing pleases people more than to go on thinking what they have always thought, and at the same time imagine that they are thinking "
+"something new and daring: it combines the advantage of security and the delight of adventure."
+msgstr ""
