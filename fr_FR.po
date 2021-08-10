@@ -4,7 +4,6 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2021-08-09 12:43+0200\n"
-"PO-Revision-Date: 2021-08-09 21:20+0200\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -709,7 +708,7 @@ msgstr ""
 #: en.adoc:295
 #, no-wrap
 msgid "Assess in chaos - Set draconian constraints"
-msgstr ""
+msgstr "Évaluer en temps de chaos - Fixer des contraintes draconiennes"
 
 #. type: Plain text
 #: en.adoc:298
@@ -717,27 +716,29 @@ msgid ""
 "Without constraints there would be no evolution. They are also a key enabler of creativity. Set unquestionable constraints early to gain "
 "time and increase downstream options:"
 msgstr ""
+"En l'absence de contraintes il n'y aurait pas d'évolution. Les contraintes sont également une source majeure de créativité. Fixez tôt des "
+"contraintes indiscutables afin de racheter du temps et augmenter le nombre d'options en aval :"
 
 #. type: Plain text
 #: en.adoc:299
 msgid "no exceptions;"
-msgstr ""
+msgstr "pas d'exceptions ;"
 
 #. type: Plain text
 #: en.adoc:300
 msgid "avoid constraints that are too rigid or last for too long;"
-msgstr ""
+msgstr "éviter des contraintes qui sont trop rigides ou qui durent trop longtemps ;"
 
 #. type: Plain text
 #: en.adoc:301
 msgid "keep communication open and extremely frequent."
-msgstr ""
+msgstr "garder une communication ouverte et très fréquente."
 
 #. type: Plain text
 #: en.adoc:303
 #, no-wrap
 msgid "*Limit chaos** by immediately setting draconian constraints.\n"
-msgstr ""
+msgstr "*Limiter le chaos* en fixant des contraintes draconiennes immédiatement.\n"
 
 #. type: Plain text
 #: en.adoc:306
