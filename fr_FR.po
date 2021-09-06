@@ -2198,7 +2198,7 @@ msgstr ""
 #. type: Plain text
 #: en.adoc:765
 msgid "We are mapping the context and building evidence to get ready to move out of confusion."
-msgstr "Nous établissons une carte du contexte et rassemblons des preuves pour nous préparer à sortir de la confusion."
+msgstr "Nous sommes en train de cartographier le contexte et de rassembler des preuves pour nous préparer à sortir de la confusion."
 
 #. type: Title ==
 #: en.adoc:766
