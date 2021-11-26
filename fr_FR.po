@@ -2175,7 +2175,7 @@ msgstr ""
 #: en.adoc:758
 #, no-wrap
 msgid "[<>] or the aporetic turn"
-msgstr ""
+msgstr "[<>] ou le virage aporétique"
 
 #. type: Plain text
 #: en.adoc:761
@@ -2183,6 +2183,8 @@ msgid ""
 "Even if we have followed the recommendations in the previous phases, at this stage we still may not know what to do and we may not have "
 "committed to hard choices."
 msgstr ""
+"Même en ayant suivi les recommandations des phases précédentes, à ce stade, nous ne savons peut-être toujours pas quoi faire et nous ne nous "
+"sommes pas forcément engagés dans l’adoption de choix difficiles."
 
 #. type: Plain text
 #: en.adoc:763
@@ -2190,11 +2192,13 @@ msgid ""
 "We know that we are in a state of voluntary suspension, while the elements for an informed decision are brewing and a sense of somehow "
 "optimistic urgency is building up."
 msgstr ""
+"Nous savons que nous sommes dans un état de suspension volontaire, tandis que se préparent les éléments d’une décision éclairée et tandis "
+"que se développe un sentiment d’urgence quelque peu optimiste."
 
 #. type: Plain text
 #: en.adoc:765
 msgid "We are mapping the context and building evidence to get ready to move out of confusion."
-msgstr ""
+msgstr "Nous sommes en train de cartographier le contexte et de rassembler des preuves pour nous préparer à sortir de la confusion."
 
 #. type: Title ==
 #: en.adoc:766
