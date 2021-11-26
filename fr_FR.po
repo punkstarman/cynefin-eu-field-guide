@@ -2245,7 +2245,7 @@ msgstr ""
 #: en.adoc:758
 #, no-wrap
 msgid "[<>] or the aporetic turn"
-msgstr ""
+msgstr "[<>] ou le virage aporétique"
 
 #. type: Plain text
 #: en.adoc:761
@@ -2253,6 +2253,8 @@ msgid ""
 "Even if we have followed the recommendations in the previous phases, at this stage we still may not know what to do and we may not have "
 "committed to hard choices."
 msgstr ""
+"Même en ayant suivi les recommandations des phases précédentes, à ce stade, nous ne savons peut-être toujours pas quoi faire et nous ne nous "
+"sommes pas forcément engagés dans l’adoption de choix difficiles."
 
 #. type: Plain text
 #: en.adoc:763
@@ -2260,17 +2262,19 @@ msgid ""
 "We know that we are in a state of voluntary suspension, while the elements for an informed decision are brewing and a sense of somehow "
 "optimistic urgency is building up."
 msgstr ""
+"Nous savons que nous sommes dans un état de suspension volontaire, tandis que se préparent les éléments d’une décision éclairée et tandis "
+"que se développe un sentiment d’urgence quelque peu optimiste."
 
 #. type: Plain text
 #: en.adoc:765
 msgid "We are mapping the context and building evidence to get ready to move out of confusion."
-msgstr ""
+msgstr "Nous sommes en train de cartographier le contexte et de rassembler des preuves pour nous préparer à sortir de la confusion."
 
 #. type: Title ==
 #: en.adoc:766
 #, no-wrap
 msgid "The aporetic turn - Map landscapes from experiences"
-msgstr ""
+msgstr "Le virage aporétique - Établir une carte de l’environnement à partir d’expériences"
 
 #. type: Plain text
 #: en.adoc:769
@@ -2278,57 +2282,59 @@ msgid ""
 "Narratives give insights on the disposition of the organisation. They also help identify agents, drivers of change, explicit and hidden "
 "boundaries, informal processes, challenges and opportunities:"
 msgstr ""
+"Les récits donnent des informations à propos des dispositions de l’organisation. Ils aident aussi à identifier les agents, les moteurs du "
+"changement, les limites explicites et cachées, les processus, les défis et les opportunités :"
 
 #. type: Plain text
 #: en.adoc:770
 msgid "use narratives and micro-observations to identify agents, boundaries, roles and processes;"
-msgstr ""
+msgstr "utiliser des récits et des micro-observations pour identifier les agents, les limites, les rôles et les processus;"
 
 #. type: Plain text
 #: en.adoc:771
 msgid "map the landscape by visualising relations, proximity, size, quantity;"
-msgstr ""
+msgstr "établir une carte de l’environnement en visualisant les relations entre les éléments, leur proximité, leur taille, leur quantité;"
 
 #. type: Plain text
 #: en.adoc:772
 msgid "position challenges and opportunities on the landscape. Take a step back and observe."
-msgstr ""
+msgstr "positionner les enjeux et opportunités sur la carte. Prenez du recul et observez."
 
 #. type: Plain text
 #: en.adoc:774
 #, no-wrap
 msgid "*Gather information*: in crisis we need a map (not a written report!) of the current state (not of the future!). A map of the landscape informs decision making with situational assessments and offers insights on the immediate possible.\n"
-msgstr ""
+msgstr "*Recueillir des informations*: en situation de crise, nous avons besoin d’une carte (pas d’un rapport écrit !) de l’état actuel (pas de celui du futur!). Une carte de l’environnement informe la prise de décision grâce à des évaluations de la situation et offre des informations sur ce qui est immédiatement possible.\n"
 
 #. type: Plain text
 #: en.adoc:776
 #, no-wrap
 msgid "*Experiences, not just data*: in complex systems it's not just about facts and data. It is also (and maybe more importantly) how those facts are interpreted by people and how they become thick experiences. Evidence needs to be read through the filter of several personal interpretations, expectations, projections to give insights of people's dispositions. The stories collected in mass sense exercises are the ideal start.\n"
-msgstr ""
+msgstr "*Des expériences, pas seulement des données*: dans les systèmes complexes, il ne s’agit pas seulement de faits et de données. Il s’agit aussi (et peut-être surtout) de la manière dont ces faits sont interprétés par les gens et comment ils deviennent des expériences denses. Les indices doivent être passés à travers le filtre de plusieurs interprétations, attentes et projections personnelles pour donner des informations sur les dispositions des gens. Les histoires recueillies de manière massive dans des exercices visant à produire du sens sont un point de départ idéal. \n"
 
 #. type: Plain text
 #: en.adoc:778
 #, no-wrap
 msgid "*Engage the organisation*: to capture weak signals of human attitudes and dispositions we should start to produce narrative-based journals with the team, to collect day-to-day stories. If not possible, we should organise periodic work sessions to listen to their experience. We can then map this into visual landscapes.\n"
-msgstr ""
+msgstr "*Engager l’organisation*: pour capter les signaux faibles des attitudes et des dispositions humaines, nous devrions commencer à produire des journaux narratifs avec les équipes, pour collecter des histoires du quotidien. Si ce n’est pas possible, nous devrions organiser des séances de travail périodiques pour écouter leurs expériences. Nous pourrons ensuite établir une carte visuelle de l’environnement à partir de ces dernières.\n"
 
 #. type: Plain text
 #: en.adoc:780
 #, no-wrap
 msgid "*Maintain heterogeneity*: we need to entangle narratives as told by executives, technical and operative staff, stakeholders. Multiple perspectives keep us open minded on the crisis and give insights for action.\n"
-msgstr ""
+msgstr "*Maintenir l’hétérogénéité*: nous devons enchevêtrer les récits tels que racontés par les cadres, le personnel technique et opérationnel, ainsi que les parties prenantes. De multiples perspectives nous permettent de garder l’esprit ouvert sur la crise et nous informent sur des pistes d’action.\n"
 
 #. type: Plain text
 #: en.adoc:782
 #, no-wrap
 msgid "*Retrospective coherence*: when the crisis is over, everyone will create narratives to explain what happened. We need to be ware of retrospective coherence as it is based on faulty, selective memory and creates a false sense of security towards the future.\n"
-msgstr ""
+msgstr "*Cohérence rétrospective*: quand la crise sera passée, chacun créera des récits pour expliquer ce qui s’est passé. Il faut se méfier de la cohérence rétrospective, car elle repose sur une mémoire défaillante et sélective, et crée un faux sentiment de sécurité concernant l’avenir.\n"
 
 #. type: Title ===
 #: en.adoc:783
 #, no-wrap
 msgid "How to visualise a system"
-msgstr ""
+msgstr "Comment visualiser le système"
 
 #. type: Plain text
 #: en.adoc:786
@@ -2337,6 +2343,10 @@ msgid ""
 "maps and REA value flows models). To reduce bias and oversimplification, we should avoid to draw the list of agents from theoretical "
 "knowledge or solely from experts' opinions and interpretations: we want to *build the system from real life experiences*."
 msgstr ""
+"La première étape consiste à compiler une liste d’agents clés et à les exposer librement par écrit, ou en suivant un cadre conceptuel (voir "
+"Wardley maps et les modèles de flux de valeur REA). Pour réduire les biais et les simplifications excessives, il convient d’éviter de "
+"dresser la liste des agents à partir de connaissances théoriques ou uniquement à partir d’avis et d’interprétations d’experts : *nous "
+"voulons construire le système à partir d’expériences réelles*."
 
 #. type: Plain text
 #: en.adoc:790
@@ -2346,27 +2356,32 @@ msgid ""
 "matters more than ideal, preferred or prescribed end results.  We should also engage with groups of heterogeneous participants, while a "
 "proper balance between abstraction and detail can be achieved by a well designed choreography.  A landscape is a necessary starting point to:"
 msgstr ""
+"Les expériences de la vie réelle placent des faits anecdotiques dans un contexte riche, fournissant de multiples couches de sens et donnant "
+"vie à l’un des principes clés de la gestion de la complexité : la désintermédiation. Cette approche est une pratique courante dans la "
+"conception de services, où l’expérience utilisateur importe plus que les résultats finaux idéaux, préférés ou prescrits. Nous devrions "
+"également traiter avec des groupes de participants hétérogènes, tandis qu’un bon équilibre entre abstraction et détail peut être atteint par "
+"une chorégraphie bien conçue. Une carte est un point de départ nécessaire pour :"
 
 #. type: Plain text
 #: en.adoc:791
 msgid "map the current state and the key challenges and opportunities, or what we can change;"
-msgstr ""
+msgstr "établir une carte de l’état actuel et des principaux défis et opportunités, ou de ce que nous pouvons changer;"
 
 #. type: Plain text
 #: en.adoc:792
 msgid "identify ideas for action and decide what impacts we want to produce and how to monitor them;"
-msgstr ""
+msgstr "identifier des idées d’action et décider quels impacts nous souhaitons produire et comment les surveiller;"
 
 #. type: Plain text
 #: en.adoc:793
 msgid "start pilot actions with the intent of amplifying the beneficial ones and suppressing those who are failing."
-msgstr ""
+msgstr "lancer des actions pilotes dans le but d’amplifier les actions bénéfiques et de supprimer celles qui échouent."
 
 #. type: Title ===
 #: en.adoc:794
 #, no-wrap
 msgid "Hidden trap: feedback loops"
-msgstr ""
+msgstr "​​Piège caché : les boucles de rétroaction"
 
 #. type: Plain text
 #: en.adoc:797
@@ -2376,12 +2391,17 @@ msgid ""
 "temptation to automatically determine the existence and/or the direction of any feedback loop. The only loops we should include in our "
 "landscape are those that we can observe in the current context and time frame."
 msgstr ""
+"Une pratique courante dans la pensée systémique consiste à rechercher des boucles de rétroaction positives et négatives parmi les agents. "
+"Bien que l’idée en elle-même ait un sens, les boucles de rétroaction sont souvent déduites de l’expérience passée ou de la théorie abstraite "
+"d’un contexte spécifique. Nous devons éviter la tentation de déterminer automatiquement l’existence et/ou la direction de toute boucle de "
+"rétroaction. Les seules boucles que nous devrions inclure dans notre environnement sont celles que nous pouvons observer dans le contexte et "
+"la période actuels."
 
 #. type: Title ===
 #: en.adoc:798
 #, no-wrap
 msgid "Governance"
-msgstr ""
+msgstr "Gouvernance"
 
 #. type: Plain text
 #: en.adoc:802
@@ -2390,6 +2410,10 @@ msgid ""
 "If we are managing well a complexity-informed method, the answers emerge from the same group who is researching and acting in the landscape. "
 "This implies that *leadership is expressed through engagement and empowerment* rather than prescription and direction."
 msgstr ""
+"Une question non triviale aux implications profondes est : qui décide ce que nous pouvons changer, comment surveillons-nous le changement et "
+"quel changement jugeons-nous bénéfique? Si nous agissons bien selon une méthode informée par la complexité, les réponses émergent du même "
+"groupe qui recherche et qui agit dans l’environnement. Cela implique que le leadership s’exprime par l’engagement et l’autonomisation plutôt "
+"que par la prescription et la direction."
 
 #. type: Plain text
 #: en.adoc:804
@@ -2397,12 +2421,14 @@ msgid ""
 "In this context, leaders become \"strategic observers\" and intervene to provide a meta-level of coherence and clarity to facilitate action "
 "and the exchange of knowledge."
 msgstr ""
+"Dans ce contexte, les leaders deviennent des « observateurs stratégiques » et interviennent pour apporter un méta-niveau de cohérence et de "
+"clarté pour faciliter l’action et l’échange de connaissances."
 
 #. type: Title ===
 #: en.adoc:805
 #, no-wrap
 msgid "Representativeness"
-msgstr ""
+msgstr "Représentativité"
 
 #. type: Plain text
 #: en.adoc:809
@@ -2411,6 +2437,9 @@ msgid ""
 "many experiences are enough experiences? How can we base decision on incomplete data? When addressing complexity, \"enough\" is \"all is "
 "needed to identify emerging coherence\"."
 msgstr ""
+"Une objection courante à cette méthode, souvent soulevée par les scientifiques et les universitaires, est à quel point un faible nombre "
+"d’expériences peut être représentatif. Combien d’expériences sont suffisantes? Comment pouvons-nous fonder notre décision sur des données "
+"incomplètes? Lorsqu’on aborde la complexité, « assez » est « tout ce qui est nécessaire pour identifier la cohérence émergente »."
 
 #. type: Plain text
 #: en.adoc:811
@@ -2419,12 +2448,16 @@ msgid ""
 "and experimental*. They must enable short term parallel, independent design prototypes using available, incomplete knowledge, not provide a "
 "long term panacea based on extensive evdence."
 msgstr ""
+"La gestion de crise et plus généralement les activités impliquant de la conception, lorsqu’elles sont comprises comme la découverte de "
+"pratiques émergentes, sont nécessairement locales, continuelles et expérimentales. Elles doivent permettre la réalisation à court terme de "
+"prototypes de conception parallèles et indépendants, en utilisant des connaissances disponibles et incomplètes, sans fournir une solution "
+"universelle à long terme basée sur de nombreuses preuves."
 
 #. type: Title ===
 #: en.adoc:812
 #, no-wrap
 msgid "Implications"
-msgstr ""
+msgstr "Implications"
 
 #. type: Plain text
 #: en.adoc:815
@@ -2432,6 +2465,9 @@ msgid ""
 "This suggests that public and private organisations that span several different regions need to establish meaningful processes of "
 "stakeholder engagement beyond user research to make sense of local experiences and build whole ecosystems from the bottom-up."
 msgstr ""
+"Ceci implique que les organisations publiques et privées couvrant plusieurs régions doivent établir des processus significatifs d’engagement "
+"des parties prenantes, dépassant la recherche utilisateurs, pour faire sens des expériences locales et construire des écosystèmes entiers à "
+"partir de la base."
 
 #. type: Plain text
 #: en.adoc:817
@@ -2439,6 +2475,8 @@ msgid ""
 "When these practices are in place, the role of organisations naturally shifts from \"holder of the solution\" to \"facilitator of coherent, "
 "heterogeneous practices\" with obvious beneficial fallbacks in terms of trust, transparency and cooperation."
 msgstr ""
+"Lorsque ces pratiques sont en place, le rôle des organisations passe naturellement de « détenteur de la solution » à « facilitateur de "
+"pratiques cohérentes et hétérogènes » avec des conséquences bénéfiques évidentes en termes de confiance, de transparence et de coopération."
 
 #. type: Title ==
 #: en.adoc:818
