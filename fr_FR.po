@@ -12,6 +12,7 @@ msgstr ""
 "Last-Translator: \n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "Language: fr_FR\n"
+"PO-Revision-Date: \n"
 
 #. type: Title =
 #: en.adoc:3
@@ -784,24 +785,24 @@ msgstr ""
 #: en.adoc:315
 #, no-wrap
 msgid "Setting constraints in COVID-19"
-msgstr ""
+msgstr "Fixer des contraintes au temps de la COVID-19"
 
 #. type: Plain text
 #: en.adoc:318
 msgid "COVID-19 demonstrated how good we are at creating boundaries to gain control."
-msgstr ""
+msgstr "La COVID-19 a démontré à quel point nous sommes capables de fixer des limites pour reprendre le contrôle."
 
 #. type: Plain text
 #: en.adoc:320
 #, no-wrap
 msgid "*Confinement* is the most evident form of rigid constraint introduced as first response. Limiting personal movement gave relief to overloaded sanitary systems and was the key response to \"flatten the curve\" or contain transmission. *Closing national borders* is a further example of a rigid, impermeable boundary being set up. Both constraints cannot be enforced indefinitely without an adverse reaction. Some European states introduced *curfew* as a more flexible constraint than total confinement.\n"
-msgstr ""
+msgstr "Le *confinement* est l'exemple le plus flagrant d'une contrainte rigide introduite en tant que première réponse. Le fait de limiter le mouvement des personnes a donné du répit à des systèmes de santé surchargés et a été une intervention fondamentale pour « aplatir la courbe » ou maîtriser la transmission du virus. La fermeture des frontières nationales est un autre exemple de mise en place d'une limite rigide et imperméable. Aucune des deux contraintes ne pouvaient être appliquées indéfiniment sans réaction négative. Certains états européens ont instauré un couvre-feu comme contrainte plus flexible comparé à un confinement total.\n"
 
 #. type: Plain text
 #: en.adoc:322
 #, no-wrap
 msgid "*Social distancing* is the name chosen to describe an increase in minimum physical distance between two persons. This is a form of more flexible, permeable, enabling, \"dark\" or invisible constraint. It allows people to perform all key vital activities while creating an invisible boundary. The boundary became visible in many places as soon as shops started to mark distances on the pavement outside their business, or on walls.\n"
-msgstr ""
+msgstr "La *distanciation sociale* est le terme qui a été choisi pour décrire une limitation sur la distance physique entre deux personnes. Ceci est un exemple de contrainte plus flexible, perméable, habilitante et « sombre » (ou invisible). Elle a permet aux gens de vaquer à toutes leurs occupations vitales tout en créant une frontière invisible. Cette frontière devenait visible à beaucoup d'endroits dès lors que des magasins ont placé des marquages au sol près des entrées ou sur les murs.\n"
 
 #. type: Plain text
 #: en.adoc:325
@@ -810,18 +811,20 @@ msgid ""
 "*Masks*, *gloves* and to an extent even *hand sanitizers* can be seen as further physical, (im)permeable boundary introduced to prevent the transmission of the virus. Most services and commercial activities open to the public adopted *transparent partitions* as a physical boundary between employees and clients. +\n"
 "COVID-19 also showed us that several organisations had to remove some limiting *legal, procedural or cultural* boundaries to allow business continuity. This opened up the opportunity for radical innovation.\n"
 msgstr ""
+"Les *masques*, les *gants* et dans une certaine mesure le *gel hydroalcoolique* peuvent être vus comme des barrières physiques et (im)perméables supplémentaires instaurées pour la prévention de la transmission du virus. La plupart des services et activités commerciales ouverts au public ont adopté des *cloisons transparentes* pour servir de frontière physique entre les employés et les clients. +\n"
+"La COVID-19 nous a également montré que beaucoup d'organisations ont dû lever certaines limites *légales, procédurales ou culturelles* pour permettre la continuité d'activité. Cela a ouvert la voie à des innovations radicales.\n"
 
 #. type: Plain text
 #: en.adoc:327
 #, no-wrap
 msgid "*Remote working* removed the very rigid constraint of working from a designated space in a designated time frame. It also removed the boundary between personal, family life and work life.\n"
-msgstr ""
+msgstr "Le *travail à distance* a enlevé la contrainte très rigide de devoir travailler à un endroit bien précis et à des horaires fixés à l'avance. Cela a également brouillé la frontière entre la vie personnelle, familiale et professionnelle.\n"
 
 #. type: Plain text
 #: en.adoc:329
 #, no-wrap
 msgid "*Teleworking* removed the constraints created by physical distance. Ideally, people were \"closer\" to each other, they could \"meet\" more frequently irrespective of their physical location. At the same time, it introduced a very rigid boundary that did not allow personal contact.\n"
-msgstr ""
+msgstr "Le *télétravail* a supprimé les contraintes créées par la distance physique. Dans l'idéal, les gens sont devenus plus « proches » les uns aux autres et pouvaient donc se « rencontrer » plus régulièrement peu importe leur localisation physique. En même temps, cela a introduit une barrière très rigide qui ne permettait aucun contact personnel.\n"
 
 #. type: Plain text
 #: en.adoc:331
@@ -830,12 +833,16 @@ msgid ""
 "movement of goods*. Trade was impacted only when limitations to the movement of persons affected a component of the production/distribution "
 "system, or when the goods were deemed of strategic importance."
 msgstr ""
+"Certaines barrières et contraintes n'ont pas été envisagées ou changées. Par exemple, *aucune nouvelle contrainte n'a été fixée et aucune "
+"contrainte existante modifiée dans la réglementation de la circulation des biens*. Le commerce n'a été affecté que lorsque des limites sur "
+"la circulation des personnes ont impacté une partie du système de production/distribution ou lorsque les biens en question étaient jugés "
+"d'une importance stratégique."
 
 #. type: Title ===
 #: en.adoc:332
 #, no-wrap
 msgid "Communication in COVID-19"
-msgstr ""
+msgstr "Communication au temps de la COVID-19"
 
 #. type: Plain text
 #: en.adoc:335
@@ -843,12 +850,14 @@ msgid ""
 "During the crisis, several concepts dominated mainstream communication and acted as \"catalysts\" or attractors to create a particular "
 "disposition in the public."
 msgstr ""
+"Pendant la crise, plusieurs concepts ont dominé les discussions et ont joué le rôle de « catalyseur » ou d'attracteur faisant apparaître "
+"ainsi une tendance particulière dans la population générale."
 
 #. type: Plain text
 #: en.adoc:337
 #, no-wrap
 msgid "*Flatten the curve* was a very powerful concept, useful to reinforce legitimacy of confinement and social distancing. *Figures* of new ill cases and deaths reinforced the urgency of compliance.\n"
-msgstr ""
+msgstr "Le concept d'*aplatir la courbe* a été très puissant et utile pour renforcer la légitimité du confinement et de la distanciation sociale. Les chiffres des nouvelles infections et des nouveaux décès ont réaffirmé l'urgence de respecter les mesures.\n"
 
 #. type: Plain text
 #: en.adoc:340
@@ -857,6 +866,9 @@ msgid ""
 "with civil society. Some opened formal, direct communication channels for local assessment and ideation of solutions, others opted for a "
 "more top-down approach."
 msgstr ""
+"Les opinions des experts se sont superposés et défendaient des avis contrastés. Différents décideurs ont adopté des stratégies et des formes "
+"de communication distinctes pour s'adresser à la société civile. Certains ont ouvert des canaux de communication formelle et directe afin "
+"d'effectuer des évaluations locales et de recueillir des idées de solution. D'autres ont pris plutôt une approche descendante."
 
 #. type: Title ==
 #: en.adoc:342
