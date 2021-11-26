@@ -716,8 +716,8 @@ msgid ""
 "Without constraints there would be no evolution. They are also a key enabler of creativity. Set unquestionable constraints early to gain "
 "time and increase downstream options:"
 msgstr ""
-"En l'absence de contraintes il n'y aurait pas d'évolution. Les contraintes sont également une source majeure de créativité. Fixez tôt des "
-"contraintes indiscutables afin de racheter du temps et augmenter le nombre d'options en aval :"
+"En l'absence de contraintes il n'y aurait pas d'évolution. Les contraintes sont également une source majeure de créativité. Fixez rapidement "
+"des contraintes indiscutables afin de racheter du temps et augmenter le nombre d'options dont vous disposerez après :"
 
 #. type: Plain text
 #: en.adoc:299
@@ -738,7 +738,7 @@ msgstr "garder une communication ouverte et très fréquente."
 #: en.adoc:303
 #, no-wrap
 msgid "*Limit chaos** by immediately setting draconian constraints.\n"
-msgstr "*Limiter le chaos* en fixant des contraintes draconiennes immédiatement.\n"
+msgstr "*Limiter le chaos* en imposant des contraintes draconiennes immédiatement.\n"
 
 #. type: Plain text
 #: en.adoc:306
@@ -747,6 +747,8 @@ msgid ""
 "*Several forms of constraints are possible:* connecting or containing, resilient or robust. rigid or flexible, permeable, changing, \"dark\", etc. Each has advantages and disadvantages: rigid and flexible break catastrophically, permeable clog, changing and dark may not be perceived or respected.\n"
 "We set constraints by defining and enforcing governance systems, decision making processes, spaces and methods for interaction, physical infrastructures, and by accepting behaviours, rituals, needs, etc.\n"
 msgstr ""
+"**Plusieurs formes de contraintes sont possibles** : liant ou englobant, résiliente ou robuste, rigide ou flexible, perméable, changeante, « sombre », etc. Chacune a ses avantages et ses inconvénients : les rigides et flexibles se brisent de façon catastrophique, les perméables s'engorgent, les changeantes ou sombres peuvent passer inaperçues ou ne pas être respectées.\n"
+"Nous fixons des contraintes en définissant et en imposant des systèmes de gouvernance, des processus de prise de décision, des lieux et des méthodes d'interaction, des infrastructures physiques et en acceptant les comportements, rituels, besoins, etc.\n"
 
 #. type: Plain text
 #: en.adoc:310
@@ -756,6 +758,9 @@ msgid ""
 "Examples of heuristics are very common in nature. For example, the set of principles that govern the flight of a flock (and unregulated or pedestrian traffic): match speed, avoid collision, move to the centre. They allow individual decision making within shared boundaries. +\n"
 "In organisational terms, heuristics are often recognisable in overarching, informal governance principles.\n"
 msgstr ""
+"**Fixer des contraintes habilitantes.** Deux exemples sont les rituels, qui favorisent la création de réseaux informels, et les heuristiques, à savoir des principes très simples qui réduisent le bruit et créent un terrain d'entente, les prémices d'un consensus, permettant une prise de décision rapide. Un exemple de rituel serait d'organiser tous les jours le petit déjeuner avec tous les membres d'une unité pour susciter des échanges spontanés de la connaissance. Il est primordial que ces échanges soient le résultat indirect des rituels. Dans notre exemple, ce serait une erreur de fixer un thème à chaque petit déjeuner dans un but explicite de récolter la connaissance. Ce genre de « contrainte thématique rigide » échouerait rapidement, ou bien demanderait trop d'énergie à entretenir. +\n"
+"Les exemples d'heuristiques abondent dans la nature. Par exemple, le jeu de règles qui régit le vol d'un groupe d'oiseaux (et aussi le trafic non-régulé ou pédestre) : égaler la vitesse, éviter les collisions, rester groupés. Les heuristiques permettent une prise de décision individuelle à l'intérieur de limites partagées. +\n"
+"Dans les organisations, les heuristiques se retrouvent souvent dans des principes de gouvernance généraux et informels.\n"
 
 #. type: Plain text
 #: en.adoc:312
@@ -763,6 +768,8 @@ msgid ""
 "In more general terms, an enabling constraint has a low lwvel of granularity and fixes either the why or the what or the how, but not the "
 "three at the same time. It should also have a certain degree of flexibility to adjust to the changing context."
 msgstr ""
+"Plus généralement, une contrainte habilitante a un niveau de granularité très fine et fixe le pourquoi, le quoi ou le comment, mais pas les "
+"trois à la fois. Elle devrait également comporter une certaine souplesse pour pouvoir s'adapter à un contexte changeant."
 
 #. type: Plain text
 #: en.adoc:314
@@ -770,6 +777,8 @@ msgid ""
 "After setting constraints, we need to assess if the system is stabilising and/or if we can start to detect coherent patterns of response. It "
 "is essential to maintain communication with stakeholders and personnel."
 msgstr ""
+"Après avoir fixé les contraintes, nous devons voir si le système est en train de se stabiliser et/ou si nous pouvons déjà entrevoir des "
+"schémas de réponse cohérents."
 
 #. type: Title ===
 #: en.adoc:315
