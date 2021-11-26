@@ -989,7 +989,7 @@ msgstr ""
 #: en.adoc:367
 #, no-wrap
 msgid "Methods for assessment - Start journaling"
-msgstr ""
+msgstr "Méthodes d'évaluation - Commencer à tenir un journal"
 
 #. type: Plain text
 #: en.adoc:370
@@ -997,27 +997,30 @@ msgid ""
 "Journaling creates precious learning material across the entire crisis. Start early and sketch as much as possible. Visual journaling "
 "provides thick data, synthesises more information in a smaller space and allows for quick scanning and detailed recall:"
 msgstr ""
+"Un journal constitue une source d'apprentissage précieuse tout au long d'une crise. Démarrez au plus tôt et faites des schémas le plus "
+"possible. Un journal visuel apporte des données denses, synthétise plus d'informations en moins d'espace et se prête bien à un balayage "
+"rapide et une restitution détaillée :"
 
 #. type: Plain text
 #: en.adoc:372
 msgid "start sketching, basic shapes will do;"
-msgstr ""
+msgstr "commencez par faire des schémas, des formes basiques étant suffisantes ;"
 
 #. type: Plain text
 #: en.adoc:373
 msgid "if a concept is too complicated, use words. Avoid long paragraphs;"
-msgstr ""
+msgstr "si un concept est trop compliqué, utilisez des mots. Évitez de longs paragraphes ;"
 
 #. type: Plain text
 #: en.adoc:374
 msgid "use the space to cluster and connect. Focus on relationships."
-msgstr ""
+msgstr "utilisez l'espace pour faire des regroupements ou des liens. Mettez l'accent sur les relations."
 
 #. type: Title ===
 #: en.adoc:375
 #, no-wrap
 msgid "Gestalt principles"
-msgstr ""
+msgstr "Principes de la Gestalt"
 
 #. type: Plain text
 #: en.adoc:380
@@ -1029,33 +1032,42 @@ msgid ""
 "artists, architects and designers at the Bauhaus.  Those basic laws are still used today in communication, branding and advertising to "
 "capture our attention, generate emotions and elicit a response. They will help us sketch more effectively."
 msgstr ""
+"La façon dont notre cerveau traite des éléments visuels est le fruit d'un processus évolutif qui filtre et allège l'information pour le "
+"faire rentrer dans notre bande passante (nous avons abordé plus haut la cécité d'inattention dans ce guide) tout en faisant correspondre des "
+"réactions automatiques à ce que nous voyons. Tout ceci est dans le but de nous aider à faire face à la réalité et à réagir rapidement à des "
+"situations imprévues. Au début du 20e siècle un groupe de psychologues ont fait des recherches sur ces schémas de réponse et ont élaboré une "
+"série de principes expliquant la perception humaine, principes qui ont été approfondies par les artistes, architectes et concepteurs du "
+"Bauhaus. Ces principes de base sont encore utilisés aujourd'hui dans la communication, le marquage et la publicité pour capter notre "
+"attention, générer des émotions et susciter une réaction. Ils nous aideront à faire des schémas plus efficacement."
 
 #. type: Title ===
 #: en.adoc:381
 #, no-wrap
 msgid "Founding principle"
-msgstr ""
+msgstr "Principe fondamental"
 
 #. type: Plain text
 #: en.adoc:384
 msgid "All the gestalt principles that we will discover in the next examples stem from a basic one, formulated by Kurt Koffka as:"
 msgstr ""
+"Tous les principes de la Gestalt que nous découvrirons dans les prochains exemples découlent d'un principe de base que Kurt Koffka a exprimé "
+"ainsi :"
 
 #. type: Plain text
 #: en.adoc:387
 msgid "The whole is other than the sum of the parts."
-msgstr ""
+msgstr "Le tout est différent de la somme de ses parties."
 
 #. type: Plain text
 #: en.adoc:389
 msgid "Note how he says \"other\", not \"more\"."
-msgstr ""
+msgstr "Notez qu'il dit « différent », et non pas « plus »."
 
 #. type: Title ===
 #: en.adoc:390
 #, no-wrap
 msgid "Past experience & people"
-msgstr ""
+msgstr "Expérience passée & personnes"
 
 #. type: Plain text
 #: en.adoc:393
@@ -1063,12 +1075,15 @@ msgid ""
 "If we are taking notes about our organisation, we will inevitably need to draw a human figure. In most cases a circle for head and an "
 "additional almost random shape will do. Our brain's past experience will tend to transform the doodle into a person."
 msgstr ""
+"Si nous prenons des notes à propos de notre organisation, nous devrons forcément dessiner des petits bonshommes. La plupart du temps, un "
+"rond pour la tête plus n'importe qu'elle autre forme suffiront. L'expérience passée enregistrée dans notre cerveau aura tendance à "
+"transformer ce gribouillage en une personne."
 
 #. type: Title ===
 #: en.adoc:394
 #, no-wrap
 msgid "Figure/ground"
-msgstr ""
+msgstr "Figure/plan"
 
 #. type: Plain text
 #: en.adoc:397
@@ -1076,12 +1091,14 @@ msgid ""
 "Our brain divides the elements of an image into background and foreground, and sees the foreground first. This allows us to guide the "
 "reader's eye by placing in the foreground what we want to emphasize. Size often matters."
 msgstr ""
+"Notre cerveau répartit les éléments d'une image entre arrière-plan et premier-plan, et voit d'abord le premier-plan. Cela nous permet de "
+"guider le regard du lecteur en plaçant au premier-plan l'élément que nous voulons mettre en valeur. Souvent, la taille compte."
 
 #. type: Title ===
 #: en.adoc:398
 #, no-wrap
 msgid "Focal point"
-msgstr ""
+msgstr "Point focal"
 
 #. type: Plain text
 #: en.adoc:401
@@ -1089,12 +1106,15 @@ msgid ""
 "We tend to see first and focus on any element that breaks a pattern or that is clearly distinct from the rest of elements in a uniform "
 "distribution. We can use this principle to guide the attention of the reader and influence the reading order."
 msgstr ""
+"Nous avons tendance à voir en premier et à nous focaliser sur un élément s'il est en rupture avec un motif ou s'il est clairement distinct "
+"des autres éléments qui sont dans une distribution uniforme. Nous pouvons utiliser ce principe pour aiguiller l'attention du lecteur et "
+"influencer le sens de lecture."
 
 #. type: Title ===
 #: en.adoc:402
 #, no-wrap
 msgid "Proximity"
-msgstr ""
+msgstr "Proximité"
 
 #. type: Plain text
 #: en.adoc:405
@@ -1102,12 +1122,15 @@ msgid ""
 "Elements clustered together are automagically seen as one entity. Clustering is a common exercise in visual reasoning. It allows us to "
 "create a synthetic view of several contributions without losing detail. Clustering often helps to create rhythm and harmony."
 msgstr ""
+"Les éléments qui sont les plus proches les uns des autres sont perçus comme étant une seule entité. Le regroupement est une tâche "
+"fréquemment utilisée pour évaluer le raisonnement visuel. Ce principe nous aide à produire une vue synthétique de plusieurs éléments sans "
+"perdre en détail. Le regroupement aide parfois à créer un rythme et une harmonie."
 
 #. type: Title ===
 #: en.adoc:406
 #, no-wrap
 msgid "Similarity"
-msgstr ""
+msgstr "Similitude"
 
 #. type: Plain text
 #: en.adoc:410
@@ -1115,12 +1138,15 @@ msgid ""
 "We tend to group together signs that look similar, and to think that they share the same properties. + We can use this principle to assign "
 "properties to signs. We may need a legend to help the reader identify the properties of each sign."
 msgstr ""
+"Nous avons tendance à regrouper les symboles qui se ressemblent et à penser qu'ils partagent les mêmes caractéristiques. + Nous pouvons "
+"utiliser ce principe pour attribuer des propriétés à des symboles. Nous pouvons avoir besoin d'une légende pour aider le lecteur à "
+"identifier quelles sont les caractéristiques associées à chaque symbole."
 
 #. type: Title ===
 #: en.adoc:411
 #, no-wrap
 msgid "Common region"
-msgstr ""
+msgstr "Région commune"
 
 #. type: Plain text
 #: en.adoc:414
@@ -1128,12 +1154,15 @@ msgid ""
 "If individual elements are contained into regions, we identify clusters or regions first, then we notice the properties of the individual "
 "items. We can use this principle to create relationships among items, even when they look dissimilar."
 msgstr ""
+"Si des éléments différents sont mélangés dans différentes régions, nous identifions les groupes ou régions d'abord, puis nous identifions "
+"les caractéristiques de chaque élément individuellement. Nous pouvons utiliser ce principe pour mettre des éléments en relation, même "
+"lorsqu'ils ne se ressemblent pas."
 
 #. type: Title ===
 #: en.adoc:415
 #, no-wrap
 msgid "Continuity"
-msgstr ""
+msgstr "Continuité"
 
 #. type: Plain text
 #: en.adoc:418
@@ -1141,12 +1170,15 @@ msgid ""
 "We tend to perceive elements in a continuous flow, coherent with basic shapes or with the natural motion of objects in nature. Even when the "
 "flow is interrupted, we often \"close the gap\", by projecting a trajectory or by privileging simplest forms."
 msgstr ""
+"Nous avons tendance à percevoir les éléments comme étant dans un flux continu, ce qui est cohérent avec le mouvement habituel des objets "
+"dans la nature. Même lorsque le mouvement est interrompu, nous cherchons souvent à « combler le l'écart », en imaginant une trajectoire ou "
+"en privilégiant les formes les plus simples."
 
 #. type: Title ===
 #: en.adoc:419
 #, no-wrap
 msgid "Closure & past experience"
-msgstr ""
+msgstr "Clôture & expérience passée"
 
 #. type: Plain text
 #: en.adoc:422
@@ -1154,12 +1186,15 @@ msgid ""
 "Our brain tends to generate closed shapes by recreating the missing parts of an image. We can work elegantly with empty spaces knowing we "
 "will compensate by scanning through the patterns that we have memorized in our previous experiences."
 msgstr ""
+"Notre cerveau a tendance à générer des formes fermées en reconstruisant les parties manquantes de l'image. Nous pouvons épurer nos croquis "
+"en laissant des espaces vides tout en sachant que nous allons compenser le manque grâce aux formes que nous avons mémorisées lors de nos "
+"expériences passées."
 
 #. type: Title ===
 #: en.adoc:423
 #, no-wrap
 msgid "Symmetry"
-msgstr ""
+msgstr "Symétrie"
 
 #. type: Plain text
 #: en.adoc:426
@@ -1167,6 +1202,8 @@ msgid ""
 "Our mind tends to recognise objects as symmetrical forms around a centre or an axis. Symmetrical lines will then be perceived as boundaries "
 "of a shape. Shapes with symmetrical properties will be clustered into a more complex, unified object."
 msgstr ""
+"Notre cerveau a tendance à considérer chaque objet comme une forme symétrique selon un point ou un axe central. Des lignes symétriques sont "
+"perçues comme étant les contours d'une forme. Les formes avec des propriétés symétriques seront regroupées en un objet complexe unifié."
 
 #. type: Title =
 #: en.adoc:427
