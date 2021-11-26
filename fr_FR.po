@@ -874,13 +874,13 @@ msgstr ""
 #: en.adoc:342
 #, no-wrap
 msgid "Assess - Types of constraints"
-msgstr ""
+msgstr "Evaluation - Types de contraintes"
 
 #. type: Title ===
 #: en.adoc:344
 #, no-wrap
 msgid "Governing/enabling"
-msgstr ""
+msgstr "Gouvernante/habilitante"
 
 #. type: Plain text
 #: en.adoc:347
@@ -891,12 +891,18 @@ msgid ""
 "memorable form and associated with teaching stories for rapid distribution. Measurability of compliance and a focus on concrete are key, "
 "abstract platitudes don’t work."
 msgstr ""
+"Les lois, réglementations et codes forment des contraintes gouvernantes. Elles donnent une sensation de stabilité mais sont sensibles au "
+"changement. De l'autre côté, les heuristiques et les principes dressent des lignes directrices tout en permettant une prise de décision "
+"distribuée. Puiser dans les récits de l'organisation pour retrouver des exemples d'heuristiques qui ont évolué au fil du temps sur la base "
+"d'une expertise ou de l'expérience constitue un processus d'audit essentiel. Ces heuristiques peuvent ensuite être consolidées, codifiées "
+"sous une forme mémorable et associé à des récits pédagogiques pour faciliter une diffusion rapide. Il est fondamental de pouvoir mesurer le "
+"respect des heuristiques et de parler de choses concrètes. Les banalités abstraites ne fonctionnent pas."
 
 #. type: Title ===
 #: en.adoc:348
 #, no-wrap
 msgid "Internal/external"
-msgstr ""
+msgstr "Interne/externe"
 
 #. type: Plain text
 #: en.adoc:351
@@ -907,12 +913,18 @@ msgid ""
 "This is the case of ritualised meetings, performance evaluations, career assessments, etc. As far as external boundaries, think markets, "
 "resources, social foundations and environmental ceilings."
 msgstr ""
+"Les insectes ont un exosquelette qui limite leur croissance mais fournit une structure clairement visible ; les mammifères ont une "
+"endosquelette qui les rend auto-similaires mais permet une plus de variété et impose moins de limites sur la croissance. La conception d'une "
+"organisation a tendance à se focaliser sur la création d'un squelette, ou échafaudage, et des « points de cohérence », jonctions où les "
+"différents services interagissent entre eux et avec l'échafaudage lui-même. C'est le cas des réunions rituelles, des évaluations de "
+"performance ou de carrière, etc. En ce qui concerne les frontières externes, il faut penser aux marchés, aux ressources, aux fondations "
+"sociales et aux plafonds environnementaux."
 
 #. type: Title ===
 #: en.adoc:352
 #, no-wrap
 msgid "Connecting/containing"
-msgstr ""
+msgstr "Liant/englobant"
 
 #. type: Plain text
 #: en.adoc:357
@@ -923,12 +935,18 @@ msgid ""
 "connections start to provide new ways of dealing with issues, then the constraints can be tightened and eventually formalised into new units "
 "and departments."
 msgstr ""
+"Les liaisons, comme les hashtags dans la gestion de la connaissance et les liens dans un réseau, rendent une structure flexible et évolutive "
+"au prix d'une perte de visibilité et de contrôle. Les conteneurs, comme les catégories, les cellules d'une feuille de calcul ou les "
+"services, constituent des frontières claires qui rassurantes. + Changer les liaisons entre les gens et les unités organisationnelles est "
+"moins coûteux que d'essayer de restructurer ou de réorganiser les services. Lorsque des nouvelles liaisons commencent à fournir de nouvelles "
+"manières de faire face aux circonstances, ses contraintes peuvent être resserrées voire formalisées sous la forme de nouvelles unités ou "
+"services."
 
 #. type: Title ===
 #: en.adoc:358
 #, no-wrap
 msgid "Rigid/flexible/permeable"
-msgstr ""
+msgstr "Rigide/flexible/perméable"
 
 #. type: Plain text
 #: en.adoc:362
@@ -939,12 +957,17 @@ msgid ""
 "special conditions that allow for exceptions, but permeability brings the possibility of clogs, i.e. too many people applying for or "
 "expecting exceptions."
 msgstr ""
+"Les dates butoir sont un exemple de contrainte qui se veut généralement rigide. Les horaires flexibles sont une manière malléable de gérer "
+"la présence au travail. Les structures rigides résistent jusqu'au moment où l'on excède les conditions pour lesquelles elles ont été "
+"conçues, auquel cas elles cassent de façon catastrophique. Les limites rigides et flexibles peuvent gagner en résilience à l'aide de la "
+"perméabilité, à savoir des conditions spécifiques qui accordent des exceptions, mais avec la perméabilité vient aussi la possibilité "
+"d'engorgements, c'est-à-dire trop de gens qui demandent un traitement exceptionnel."
 
 #. type: Title ===
 #: en.adoc:363
 #, no-wrap
 msgid "Dark constraints"
-msgstr ""
+msgstr "Contraintes sombres"
 
 #. type: Plain text
 #: en.adoc:366
@@ -955,6 +978,12 @@ msgid ""
 "modelling how much of the past we can explain by the constraints we are aware of. The more we can’t explain the less we can monitor, the "
 "more likely unexpected and potentially catastrophic surprise."
 msgstr ""
+"Une référence à l'énergie sombre ou la matière sombre : nous apercevons l'effet d'une contrainte mais nous ne décelons pas la cause. Les "
+"contraintes sombres sont comme les différents sens cachés que peut prendre un même mot selon la personne. Lorsque nous employons un terme et "
+"que nous observons des réactions différentes, des contraintes sombres sont à l’œuvre. Les récits sont de puissants antidotes contre les "
+"contraintes sombres. Nous pouvons aussi nous faire une idée du risque futur en examinant à quel point nous arrivons à modéliser le passé "
+"grâce aux contraintes dont nous avons conscience. Plus il y a d'événements inexplicables, moins il y a de choses que nous pouvons observer, "
+"plus il y a de chance d'être surpris par quelque chose d'inattendu et potentiellement catastrophique."
 
 #. type: Title ==
 #: en.adoc:367
