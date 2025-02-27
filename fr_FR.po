@@ -4,26 +4,29 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2021-08-09 12:43+0200\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2025-02-27 13:41+0000\n"
+"Last-Translator: William Bartlett <bartlettstarman@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/"
+"cynefin-eu-field-guide/document/fr/>\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0\n"
-"Last-Translator: \n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Language: fr_FR\n"
-"PO-Revision-Date: \n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.10.2-dev\n"
 
 #. type: Title =
 #: en.adoc:3
 #, no-wrap
 msgid "Managing complexity (and chaos) in times of crisis: A field guide for decision makers inspired by the Cynefin framework"
-msgstr "Gestion de la complexité (et du chaos) en temps de crise: Un guide pratique pour les décideurs inspiré par le cadre conceptuel Cynefin"
+msgstr ""
+"Gestion de la complexité (et du chaos) en temps de crise : Un guide pratique "
+"pour les décideurs inspiré par le cadre conceptuel Cynefin"
 
 #. type: Plain text
 #: en.adoc:5
 msgid "Dave Snowden; Alessandro Rancati"
-msgstr "Dave Snowden; Alessandro Rancati"
+msgstr "Dave Snowden ; Alessandro Rancati"
 
 #. type: Plain text
 #: en.adoc:10
@@ -34,6 +37,17 @@ msgid ""
 "that might be made of this publication.  For information on the methodology and quality underlying the data used in this publication for "
 "which the source is neither Eurostat nor other Commission services, users should contact the referenced source."
 msgstr ""
+"Ce livre est un effort commun entre le Centre commun de recherche (CCR), le "
+"service de la Commission européenne pour la science et le savoir, et le "
+"Centre Cynefin. Il a pour objectif de fournir un soutien au sense-making "
+"pour les processus d'élaboration de politique.  Les orientations exprimées "
+"n'impliquent pas une prise de position de la Commission européenne. Ni la "
+"Commission européenne ni aucune personne agissant en son nom ne saurait être "
+"tenue responsable de l’utilisation qui pourrait être faite des informations "
+"suivantes.  Pour plus d'informations sur la méthodologie et la qualité des "
+"données utilisées dans cette publication dont la source est ni Eurostat ni "
+"aucun autre service de la Commission, les lecteurs sont invités à contacter "
+"la source référencée."
 
 #. type: Plain text
 #: en.adoc:13
@@ -42,6 +56,8 @@ msgid ""
 "*EU Science Hub* +\n"
 "https://ec.europa.eu/jrc\n"
 msgstr ""
+"*Plateforme scientifique de l'UE* +\n"
+"https://ec.europa.eu/jrc\n"
 
 #. type: Plain text
 #: en.adoc:16
@@ -50,36 +66,38 @@ msgid ""
 "*Cynefin Centre* +\n"
 "https://www.cynefincentre.com/\n"
 msgstr ""
+"*Centre Cynefin* +\n"
+"https://www.cynefincentre.com/\n"
 
 #. type: Plain text
 #: en.adoc:18
 msgid "JRC 123629"
-msgstr ""
+msgstr "JRC 123629"
 
 #. type: Plain text
 #: en.adoc:20
 msgid "EUR 30569 EN"
-msgstr ""
+msgstr "EUR 30569 EN"
 
 #. type: Plain text
 #: en.adoc:22
 msgid "PDF ISBN 978-92-76-28844-2 ISSN 1831-9424 doi:10.2760/353"
-msgstr ""
+msgstr "PDF ISBN 978-92-76-28844-2 ISSN 1831-9424 doi:10.2760/353"
 
 #. type: Plain text
 #: en.adoc:24
 msgid "Print ISBN 978-92-76-28843-5 ISSN 1018-5593 doi:10.2760/164392"
-msgstr ""
+msgstr "Print ISBN 978-92-76-28843-5 ISSN 1018-5593 doi:10.2760/164392"
 
 #. type: Plain text
 #: en.adoc:26
 msgid "Luxembourg: Publications Office of the European Union, 2021"
-msgstr ""
+msgstr "Luxembourg : Office des publications de l'Union européenne, 2021"
 
 #. type: Plain text
 #: en.adoc:28
 msgid "© European Union, 2021"
-msgstr ""
+msgstr "© Union européenne, 2021"
 
 #. type: Plain text
 #: en.adoc:30
@@ -99,17 +117,23 @@ msgid ""
 "For the purposes of ease of use, the Trademark TM and Registered ® symbols are not used in the body of this book, but still apply to "
 "registered trademarks."
 msgstr ""
+"Cynefin® et SenseMaker® sont des marques déposées de Cognitive Edge Pte Ltd "
+"et ses filiales. SenseMaker® est déposé aux Etats-Unis d'Amérique. Cynefin® "
+"est déposé aux Etats-Unis d'Amérique, dans l'Union européenne, en Australie, "
+"à Singapour et en Nouvelle Zélande. Par facilité, les signes de marque "
+"déposée TM et ® ne sont pas utilisés dans le corps de ce livre, mais "
+"s'appliquent tout de même aux marques déposées."
 
 #. type: Plain text
 #: en.adoc:34
 msgid "All content © European Union, 2021"
-msgstr ""
+msgstr "Tous contenus © Union européenne, 2021"
 
 #. type: Title ==
 #: en.adoc:35
 #, no-wrap
 msgid "Abstract"
-msgstr ""
+msgstr "Résumé"
 
 #. type: Plain text
 #: en.adoc:39
@@ -117,26 +141,35 @@ msgid ""
 "This field guide helps to navigate in times of crisis using the Cynefin framework as a compass.  It proposes a four-stage approach through "
 "which we can:"
 msgstr ""
+"Ce guide pratique aide à naviguer par temps de crise en utilisant le cadre "
+"Cynefin comme boussole.  Il propose une approche en quatre étapes avec "
+"laquelle nous pouvons :"
 
 #. type: Plain text
 #: en.adoc:41
 msgid "assess the type of crisis and initiate a response;"
-msgstr ""
+msgstr "évaluer le type de crise et entamer une réponse ;"
 
 #. type: Plain text
 #: en.adoc:42
 msgid "adapt to the new pace and start building sensing networks to inform decisions;"
 msgstr ""
+"s'adapter à un nouveau rythme et démarrer la construction de réseaux de "
+"capteurs afin d'éclairer les décisions ;"
 
 #. type: Plain text
 #: en.adoc:43
 msgid "repurpose existing structures and working methods to generate radical innovation;"
 msgstr ""
+"reconvertir des structure existantes et des méthodes fonctionnelles afin de "
+"stimuler des innovations radicales ;"
 
 #. type: Plain text
 #: en.adoc:44
 msgid "transcend the crisis, formalise lessons learnt and increase resilience."
 msgstr ""
+"transcender la crise, formaliser les leçons apprises et accroître la "
+"résilience."
 
 #. type: Plain text
 #: en.adoc:46
@@ -474,12 +507,15 @@ msgid ""
 "wrong. We also need to *create clear boundaries around the start and end of the crisis*. Avoiding drift is key and ritualising boundary "
 "transitions is important."
 msgstr ""
-"Alors nous pouvons mettre en œuvre le processus comme prévu. Si la réponse était inconnaissable à l'avance mais, après une évaluation "
-"initiale, les décisions sont claires, alors notre système est résilient, comporte un degré de redondance et nous permet de faire face à la "
-"crise. +\n"
-"Cependant, nous devons faire attention à deux aspects qui peuvent avoir un impact majeur. Nous devons *veiller en permanence pour repérer "
-"les cas marginaux* qui remettent en cause notre évaluation initiale. Nous devons aussi *délimiter clairement le début et la fin de la "
-"crise*. Il est important d'éviter une dérive et donc de ritualiser les transitions."
+"Alors nous pouvons mettre en œuvre le processus comme prévu. Si la réponse "
+"était inconnaissable à l'avance mais, après une évaluation initiale, les "
+"décisions sont claires, alors notre système est résilient, comporte un degré "
+"de redondance et nous permet de faire face à la crise. +Cependant, nous "
+"devons faire attention à deux aspects qui peuvent avoir un impact majeur. "
+"Nous devons *veiller en permanence pour repérer les cas marginaux* qui "
+"remettent en cause notre évaluation initiale. Nous devons aussi *délimiter "
+"clairement le début et la fin de la crise*. Il est important d'éviter une "
+"dérive et donc de ritualiser les transitions."
 
 #. type: Block title
 #: en.adoc:244
@@ -593,14 +629,19 @@ msgid ""
 "COVID-19 crisis and climate change being two good examples of this. In these cases inattention comes from our feeling of being unable to do "
 "something: we ignore the issue in the hope that it might pass."
 msgstr ""
-"Lors d'une prise de décision, la nature humaine est telle que nous faisons rapidement une analyse partielle des données puis nous les "
-"filtrons à travers de multiples fragments de souvenirs pour identifier une première (vs. la meilleure) correspondance. C'est pour cela que "
-"nous voyons d'abord ce qui correspond à nos souvenirs ou ce à quoi nous nous attendons. En tant que décideurs, nous devons composer avec "
-"cette limitation. +\n"
-"*Notre capacité à concevoir les éventualités* varie du prévu, où (comme un écureuil) nous pouvons rassembler et ménager nos ressources pour "
-"les temps difficiles, jusqu'à des croisements de « cygnes noirs » imprévus avec des éléphants dans la pièce. La crise récente de la COVID-19 "
-"et le changement climatique sont deux bons exemples de cela. Dans des cas comme cela, l'inattention vient de notre sentiment d'être "
-"incapable de faire quelque chose : nous faisons abstraction du problème dans l'espoir qu'il disparaîtra de lui-même."
+"Lors d'une prise de décision, la nature humaine est telle que nous faisons "
+"rapidement une analyse partielle des données puis nous les filtrons à "
+"travers de multiples fragments de souvenirs pour identifier une première ("
+"vs. la meilleure) correspondance. C'est pour cela que nous voyons d'abord ce "
+"qui correspond à nos souvenirs ou ce à quoi nous nous attendons. En tant que "
+"décideurs, nous devons composer avec cette limitation. +*Notre capacité à "
+"concevoir les éventualités* varie du prévu, où (comme un écureuil) nous "
+"pouvons rassembler et ménager nos ressources pour les temps difficiles, "
+"jusqu'à des croisements de « cygnes noirs » imprévus avec des éléphants dans "
+"la pièce. La crise récente de la COVID-19 et le changement climatique sont "
+"deux bons exemples de cela. Dans des cas comme cela, l'inattention vient de "
+"notre sentiment d'être incapable de faire quelque chose : nous faisons "
+"abstraction du problème dans l'espoir qu'il disparaîtra de lui-même."
 
 #. type: Plain text
 #: en.adoc:279
@@ -2376,12 +2417,16 @@ msgstr ""
 #. type: Plain text
 #: en.adoc:770
 msgid "use narratives and micro-observations to identify agents, boundaries, roles and processes;"
-msgstr "utiliser des récits et des micro-observations pour identifier les agents, les limites, les rôles et les processus;"
+msgstr ""
+"utiliser des récits et des micro-observations pour identifier les agents, "
+"les limites, les rôles et les processus ;"
 
 #. type: Plain text
 #: en.adoc:771
 msgid "map the landscape by visualising relations, proximity, size, quantity;"
-msgstr "établir une carte de l’environnement en visualisant les relations entre les éléments, leur proximité, leur taille, leur quantité;"
+msgstr ""
+"établir une carte de l’environnement en visualisant les relations entre les "
+"éléments, leur proximité, leur taille, leur quantité ;"
 
 #. type: Plain text
 #: en.adoc:772
@@ -2392,31 +2437,58 @@ msgstr "positionner les enjeux et opportunités sur la carte. Prenez du recul et
 #: en.adoc:774
 #, no-wrap
 msgid "*Gather information*: in crisis we need a map (not a written report!) of the current state (not of the future!). A map of the landscape informs decision making with situational assessments and offers insights on the immediate possible.\n"
-msgstr "*Recueillir des informations*: en situation de crise, nous avons besoin d’une carte (pas d’un rapport écrit !) de l’état actuel (pas de celui du futur!). Une carte de l’environnement informe la prise de décision grâce à des évaluations de la situation et offre des informations sur ce qui est immédiatement possible.\n"
+msgstr ""
+"*Recueillir des informations* : en situation de crise, nous avons besoin d’"
+"une carte (pas d’un rapport écrit !) de l’état actuel (pas de celui du futur "
+"!). Une carte de l’environnement informe la prise de décision grâce à des "
+"évaluations de la situation et offre des informations sur ce qui est "
+"immédiatement possible.\n"
 
 #. type: Plain text
 #: en.adoc:776
 #, no-wrap
 msgid "*Experiences, not just data*: in complex systems it's not just about facts and data. It is also (and maybe more importantly) how those facts are interpreted by people and how they become thick experiences. Evidence needs to be read through the filter of several personal interpretations, expectations, projections to give insights of people's dispositions. The stories collected in mass sense exercises are the ideal start.\n"
-msgstr "*Des expériences, pas seulement des données*: dans les systèmes complexes, il ne s’agit pas seulement de faits et de données. Il s’agit aussi (et peut-être surtout) de la manière dont ces faits sont interprétés par les gens et comment ils deviennent des expériences denses. Les indices doivent être passés à travers le filtre de plusieurs interprétations, attentes et projections personnelles pour donner des informations sur les dispositions des gens. Les histoires recueillies de manière massive dans des exercices visant à produire du sens sont un point de départ idéal. \n"
+msgstr ""
+"*Des expériences, pas seulement des données* : dans les systèmes complexes, "
+"il ne s’agit pas seulement de faits et de données. Il s’agit aussi (et peut-"
+"être surtout) de la manière dont ces faits sont interprétés par les gens et "
+"comment ils deviennent des expériences denses. Les indices doivent être "
+"passés à travers le filtre de plusieurs interprétations, attentes et "
+"projections personnelles pour donner des informations sur les dispositions "
+"des gens. Les histoires recueillies de manière massive dans des exercices "
+"visant à produire du sens sont un point de départ idéal.\n"
 
 #. type: Plain text
 #: en.adoc:778
 #, no-wrap
 msgid "*Engage the organisation*: to capture weak signals of human attitudes and dispositions we should start to produce narrative-based journals with the team, to collect day-to-day stories. If not possible, we should organise periodic work sessions to listen to their experience. We can then map this into visual landscapes.\n"
-msgstr "*Engager l’organisation*: pour capter les signaux faibles des attitudes et des dispositions humaines, nous devrions commencer à produire des journaux narratifs avec les équipes, pour collecter des histoires du quotidien. Si ce n’est pas possible, nous devrions organiser des séances de travail périodiques pour écouter leurs expériences. Nous pourrons ensuite établir une carte visuelle de l’environnement à partir de ces dernières.\n"
+msgstr ""
+"*Engager l’organisation* : pour capter les signaux faibles des attitudes et "
+"des dispositions humaines, nous devrions commencer à produire des journaux "
+"narratifs avec les équipes, pour collecter des histoires du quotidien. Si ce "
+"n’est pas possible, nous devrions organiser des séances de travail "
+"périodiques pour écouter leurs expériences. Nous pourrons ensuite établir "
+"une carte visuelle de l’environnement à partir de ces dernières.\n"
 
 #. type: Plain text
 #: en.adoc:780
 #, no-wrap
 msgid "*Maintain heterogeneity*: we need to entangle narratives as told by executives, technical and operative staff, stakeholders. Multiple perspectives keep us open minded on the crisis and give insights for action.\n"
-msgstr "*Maintenir l’hétérogénéité*: nous devons enchevêtrer les récits tels que racontés par les cadres, le personnel technique et opérationnel, ainsi que les parties prenantes. De multiples perspectives nous permettent de garder l’esprit ouvert sur la crise et nous informent sur des pistes d’action.\n"
+msgstr ""
+"*Maintenir l’hétérogénéité* : nous devons enchevêtrer les récits tels que "
+"racontés par les cadres, le personnel technique et opérationnel, ainsi que "
+"les parties prenantes. De multiples perspectives nous permettent de garder l’"
+"esprit ouvert sur la crise et nous informent sur des pistes d’action.\n"
 
 #. type: Plain text
 #: en.adoc:782
 #, no-wrap
 msgid "*Retrospective coherence*: when the crisis is over, everyone will create narratives to explain what happened. We need to be ware of retrospective coherence as it is based on faulty, selective memory and creates a false sense of security towards the future.\n"
-msgstr "*Cohérence rétrospective*: quand la crise sera passée, chacun créera des récits pour expliquer ce qui s’est passé. Il faut se méfier de la cohérence rétrospective, car elle repose sur une mémoire défaillante et sélective, et crée un faux sentiment de sécurité concernant l’avenir.\n"
+msgstr ""
+"*Cohérence rétrospective* : quand la crise sera passée, chacun créera des "
+"récits pour expliquer ce qui s’est passé. Il faut se méfier de la cohérence "
+"rétrospective, car elle repose sur une mémoire défaillante et sélective, et "
+"crée un faux sentiment de sécurité concernant l’avenir.\n"
 
 #. type: Title ===
 #: en.adoc:783
@@ -2453,12 +2525,16 @@ msgstr ""
 #. type: Plain text
 #: en.adoc:791
 msgid "map the current state and the key challenges and opportunities, or what we can change;"
-msgstr "établir une carte de l’état actuel et des principaux défis et opportunités, ou de ce que nous pouvons changer;"
+msgstr ""
+"établir une carte de l’état actuel et des principaux défis et opportunités, "
+"ou de ce que nous pouvons changer ;"
 
 #. type: Plain text
 #: en.adoc:792
 msgid "identify ideas for action and decide what impacts we want to produce and how to monitor them;"
-msgstr "identifier des idées d’action et décider quels impacts nous souhaitons produire et comment les surveiller;"
+msgstr ""
+"identifier des idées d’action et décider quels impacts nous souhaitons "
+"produire et comment les surveiller ;"
 
 #. type: Plain text
 #: en.adoc:793
@@ -2469,7 +2545,7 @@ msgstr "lancer des actions pilotes dans le but d’amplifier les actions bénéf
 #: en.adoc:794
 #, no-wrap
 msgid "Hidden trap: feedback loops"
-msgstr "​​Piège caché : les boucles de rétroaction"
+msgstr "Piège caché : les boucles de rétroaction"
 
 #. type: Plain text
 #: en.adoc:797
@@ -2498,10 +2574,13 @@ msgid ""
 "If we are managing well a complexity-informed method, the answers emerge from the same group who is researching and acting in the landscape. "
 "This implies that *leadership is expressed through engagement and empowerment* rather than prescription and direction."
 msgstr ""
-"Une question non triviale aux implications profondes est : qui décide ce que nous pouvons changer, comment surveillons-nous le changement et "
-"quel changement jugeons-nous bénéfique? Si nous agissons bien selon une méthode informée par la complexité, les réponses émergent du même "
-"groupe qui recherche et qui agit dans l’environnement. Cela implique que le leadership s’exprime par l’engagement et l’autonomisation plutôt "
-"que par la prescription et la direction."
+"Une question non triviale aux implications profondes est : qui décide ce que "
+"nous pouvons changer, comment surveillons-nous le changement et quel "
+"changement jugeons-nous bénéfique ? Si nous agissons bien selon une méthode "
+"informée par la complexité, les réponses émergent du même groupe qui "
+"recherche et qui agit dans l’environnement. Cela implique que le leadership "
+"s’exprime par l’engagement et l’autonomisation plutôt que par la "
+"prescription et la direction."
 
 #. type: Plain text
 #: en.adoc:804
@@ -2525,9 +2604,12 @@ msgid ""
 "many experiences are enough experiences? How can we base decision on incomplete data? When addressing complexity, \"enough\" is \"all is "
 "needed to identify emerging coherence\"."
 msgstr ""
-"Une objection courante à cette méthode, souvent soulevée par les scientifiques et les universitaires, est à quel point un faible nombre "
-"d’expériences peut être représentatif. Combien d’expériences sont suffisantes? Comment pouvons-nous fonder notre décision sur des données "
-"incomplètes? Lorsqu’on aborde la complexité, « assez » est « tout ce qui est nécessaire pour identifier la cohérence émergente »."
+"Une objection courante à cette méthode, souvent soulevée par les "
+"scientifiques et les universitaires, est à quel point un faible nombre d’"
+"expériences peut être représentatif. Combien d’expériences sont suffisantes "
+"? Comment pouvons-nous fonder notre décision sur des données incomplètes ? "
+"Lorsqu’on aborde la complexité, « assez » est « tout ce qui est nécessaire "
+"pour identifier la cohérence émergente »."
 
 #. type: Plain text
 #: en.adoc:811
@@ -2545,7 +2627,7 @@ msgstr ""
 #: en.adoc:812
 #, no-wrap
 msgid "Implications"
-msgstr "Implications"
+msgstr "Conséquences"
 
 #. type: Plain text
 #: en.adoc:815
@@ -2563,8 +2645,10 @@ msgid ""
 "When these practices are in place, the role of organisations naturally shifts from \"holder of the solution\" to \"facilitator of coherent, "
 "heterogeneous practices\" with obvious beneficial fallbacks in terms of trust, transparency and cooperation."
 msgstr ""
-"Lorsque ces pratiques sont en place, le rôle des organisations passe naturellement de « détenteur de la solution » à « facilitateur de "
-"pratiques cohérentes et hétérogènes » avec des conséquences bénéfiques évidentes en termes de confiance, de transparence et de coopération."
+"Lorsque ces pratiques sont en place, le rôle des organisations passe "
+"naturellement de « détenteur de la solution » à « facilitateur de pratiques "
+"cohérentes et hétérogènes » avec des conséquences bénéfiques évidentes en "
+"termes de confiance, de transparence et de coopération."
 
 #. type: Title ==
 #: en.adoc:818
