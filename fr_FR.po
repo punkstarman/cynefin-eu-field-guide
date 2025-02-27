@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2021-08-09 12:43+0200\n"
-"PO-Revision-Date: 2025-02-27 13:41+0000\n"
+"PO-Revision-Date: 2025-02-27 14:04+0000\n"
 "Last-Translator: William Bartlett <bartlettstarman@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/"
 "cynefin-eu-field-guide/document/fr/>\n"
@@ -444,59 +444,79 @@ msgstr "Affronter le chaos"
 #: en.adoc:225
 msgid "In chaos, we need to quickly stabilize the situation setting drastic constraints to make time for assessment."
 msgstr ""
-"En temps de chaos, nous devons stabiliser la situation rapidement en imposant des contraintes drastiques afin de racheter le temps "
-"nécessaire pour évaluer la situation."
+"En temps de chaos, nous devons stabiliser la situation rapidement en "
+"imposant des contraintes drastiques afin de racheter le temps nécessaire "
+"pour évaluer la situation."
 
 #. type: delimited block *
 #: en.adoc:227
 msgid "Once a relatively stable situation has been reached, we can start to adapt to the new context."
-msgstr "Une fois avoir atteint une situation relativement stable, nous pouvons commencer à nous adapter au nouveau contexte."
+msgstr ""
+"Une fois avoir atteint une situation relativement stable, nous pouvons "
+"commencer à nous adapter au nouveau contexte."
 
 #. type: Plain text
 #: en.adoc:230
 msgid "In times of crisis our context changes to the point of creating an emotional or cognitive shock and a state of confusion."
-msgstr "En temps de crise notre contexte change à un tel point que cela engendre un choc émotionnel ou cognitif et un état de confusion."
+msgstr ""
+"En temps de crise notre contexte change à un tel point que cela engendre un "
+"choc émotionnel ou cognitif et un état de confusion."
 
 #. type: Plain text
 #: en.adoc:232
 #, no-wrap
 msgid "*Set draconian constraints:* The first immediate action is to create hard boundaries that allow us to gain time while observing and mapping what is coming at us, to identify what response strategies need to be adopted.\n"
-msgstr "*Imposer des contraintes draconiennes :* La première action immédiate est de fixer des limites fortes qui nous permettent de racheter le temps pour mieux observer et cartographier ce qui nous arrive, afin d'identifier quelles stratégies doivent être adoptées en réponse.\n"
+msgstr ""
+"*Imposer des contraintes draconiennes :* La première action immédiate est de "
+"fixer des limites fortes qui nous permettent de racheter le temps pour mieux "
+"observer et cartographier ce qui nous arrive, afin d'identifier quelles "
+"stratégies doivent être adoptées en réponse.\n"
 
 #. type: Plain text
 #: en.adoc:233
 #, no-wrap
 msgid "*Check for contingency plans:* If the situation was foreseen or expected and there are contingency plans, then we address the crisis according to plan.\n"
-msgstr "*S'assurer qu'aucun plan d'urgence n'existe :* Si la situation était prévue ou attendue et qu'il existe des plans d'urgence, alors nous pouvons faire face à la crise comme prévu.\n"
+msgstr ""
+"*S'assurer qu'aucun plan d'urgence n'existe :* Si la situation était prévue "
+"ou attendue et qu'il existe des plans d'urgence, alors nous pouvons faire "
+"face à la crise comme prévu.\n"
 
 #. type: Plain text
 #: en.adoc:234
 #, no-wrap
 msgid "*Start assessing:* If the situation caught us unprepared, we need to quickly create small, informal groups that will dive into chaos to understand how the crisis changed the landscape.\n"
-msgstr "*Démarrer l'évaluation :* Si la situation nous a pris au dépourvu, nous devons rapidement créer des petits groupes informels qui se plongerons dans le chaos afin de comprendre comment la crise a transformé le paysage environnant.\n"
+msgstr ""
+"*Démarrer l'évaluation :* Si la situation nous a pris au dépourvu, nous "
+"devons rapidement créer des petits groupes informels qui se plongeront dans "
+"le chaos afin de comprendre comment la crise a transformé le paysage "
+"environnant.\n"
 
 #. type: Plain text
 #: en.adoc:236
 msgid "The first and most fundamental question in crisis is: are we ready for this? In other words:"
-msgstr "La question la plus fondamentale dans une crise est : Étions-nous préparés à cela ? En d'autres termes :"
+msgstr ""
+"La question la plus fondamentale dans une crise est : Étions-nous préparés à "
+"cela ? En d'autres termes :"
 
 #. type: Plain text
 #: en.adoc:238
 #, no-wrap
 msgid "*Was it possible or plausible* for us that this event could happen?\n"
-msgstr "l'événement était-il *possible ou plausible* ?\n"
+msgstr "l'événement était-il *possible ou plausible* ?\n"
 
 #. type: Plain text
 #: en.adoc:239
 #, no-wrap
 msgid "*Do we have contingency plans* in place for this crisis and are we sure we are correctly assessing it?\n"
-msgstr "*avons-nous des plans d'urgence* en place pour ce genre de crise et sommes-nous confiants dans notre évaluation de la situation ?\n"
+msgstr ""
+"*avons-nous des plans d'urgence* en place pour ce genre de crise et sommes-"
+"nous confiants dans notre évaluation de la situation ?\n"
 
 #. type: Block title
 #: en.adoc:240
 #, no-wrap
 msgid "If the answer to both is YES!"
-msgstr "Si la réponse aux deux questions est OUI !"
+msgstr "Si la réponse aux deux questions est OUI !"
 
 #. type: Plain text
 #: en.adoc:243
@@ -510,7 +530,7 @@ msgstr ""
 "Alors nous pouvons mettre en œuvre le processus comme prévu. Si la réponse "
 "était inconnaissable à l'avance mais, après une évaluation initiale, les "
 "décisions sont claires, alors notre système est résilient, comporte un degré "
-"de redondance et nous permet de faire face à la crise. +Cependant, nous "
+"de redondance et nous permet de faire face à la crise. + Cependant, nous "
 "devons faire attention à deux aspects qui peuvent avoir un impact majeur. "
 "Nous devons *veiller en permanence pour repérer les cas marginaux* qui "
 "remettent en cause notre évaluation initiale. Nous devons aussi *délimiter "
@@ -521,7 +541,7 @@ msgstr ""
 #: en.adoc:244
 #, no-wrap
 msgid "If the answer to either is NO!"
-msgstr "Si la réponse aux deux questions est NON !"
+msgstr "Si la réponse aux deux questions est NON !"
 
 #. type: Plain text
 #: en.adoc:246
@@ -529,9 +549,10 @@ msgid ""
 "Then we are in a far more serious situation and planned processes and old ways of working have to be treated with care. We urgently need to "
 "initiate a radical change in the way we work, we need to adapt very quickly to changed circumstances."
 msgstr ""
-"Dans ce cas la situation est bien plus grave et nous devons prendre avec des pincettes les processus prévus et les anciennes façons de "
-"faire. Nous devons de toute urgence initier un changement radical dans la manière de travailler et nous devons nous adapter très rapidement "
-"aux nouvelles circonstances."
+"Dans ce cas la situation est bien plus grave et nous devons prendre avec des "
+"pincettes les processus prévus et les anciennes façons de faire. Nous devons "
+"de toute urgence initier un changement radical dans la manière de travailler "
+"et nous devons nous adapter très rapidement aux nouvelles circonstances."
 
 #. type: Plain text
 #: en.adoc:248
@@ -540,9 +561,12 @@ msgid ""
 "planning, cone of possibilities and many other techniques have emerged over the years. But every now and then something comes along which "
 "falls outside the range of our planning and creates a level of shock that we find difficult to manage."
 msgstr ""
-"La plupart des organisations ont appris à gérer les menaces et les surprises, ces fameux événements de « cygne noir ». Les plans d'urgence, "
-"la planification de scénarios, le cône d'incertitude et bien d'autres techniques ont émergé au fil des années. Mais de temps en temps "
-"quelque chose surgit qui ne correspond à rien de ce qui était prévu et cela crée un état de choc qui est difficile à gérer."
+"La plupart des organisations ont appris à gérer les menaces et les "
+"surprises, ces fameux événements de « cygne noir ». Les plans d'urgence, la "
+"planification de scénarios, le cône d'incertitude et bien d'autres "
+"techniques ont émergé au fil des années. Mais de temps en temps quelque "
+"chose surgit qui ne correspond à rien de ce qui était prévu et cela crée un "
+"état de choc qui est difficile à gérer."
 
 #. type: Plain text
 #: en.adoc:250
@@ -552,11 +576,14 @@ msgid ""
 "what we are able to see and comprehend as possibilities is as important as planning. Indeed, in some contexts, planning may make us more "
 "vulnerable than improvising, as it exposes us to inattentional bias."
 msgstr ""
-"Par définition, le chaos et les catastrophes ne se reproduisent jamais à l'identique mais il est important de se rendre compte qu'il existe "
-"différents niveaux d'incertitude dont il faut être conscient. Ce n'est pas toujours une question de rationalité ou de processus : être "
-"conscient des limites sur les éventualités que nous sommes capables de concevoir, c'est aussi important que la planification. En effet, dans "
-"certains contextes, la planification peut nous rendre plus vulnérables que l'improvisation, puisque cela nous expose à la cécité "
-"d'inattention."
+"Par définition, le chaos et les catastrophes ne se reproduisent jamais à "
+"l'identique mais il est important de se rendre compte qu'il existe "
+"différents niveaux d'incertitude dont il faut être conscient. Ce n'est pas "
+"toujours une question de rationalité ou de processus : être conscient des "
+"limites sur les éventualités que nous sommes capables de concevoir, c'est "
+"aussi important que la planification. En effet, dans certains contextes, la "
+"planification peut nous rendre plus vulnérables que l'improvisation, puisque "
+"cela nous expose à la cécité d'inattention."
 
 #. type: Title ==
 #: en.adoc:252
@@ -573,7 +600,9 @@ msgstr "Cécité d'inattention et les 17%"
 #. type: delimited block *
 #: en.adoc:257
 msgid "24 radiologists were asked to perform a familiar lung nodule detection in a set of radiographies."
-msgstr "Il a été demandé à 24 radiologues de procéder à une détection routinière de nodule du poumon sur un jeu de radiographies."
+msgstr ""
+"Il a été demandé à 24 radiologues de procéder à une détection routinière de "
+"nodule du poumon sur un jeu de radiographies."
 
 #. type: delimited block *
 #: en.adoc:259
@@ -581,8 +610,10 @@ msgid ""
 "A picture of a gorilla, 48 times larger than the average nodule, was inserted in the last case, but 83% of radiologists did not see it. Eye-"
 "tracking showed that the majority of the those who missed the gorilla looked directly at it."
 msgstr ""
-"L'image d'un gorille ayant 48 fois la taille du nodule moyen a été insérée dans le dernier cas, mais 83% des radiologues ne le voient pas. "
-"L'oculométrie a révélée que la majorité de ceux qui n'avaient pas repéré le gorille l'avait pourtant regardé."
+"L'image d'un gorille ayant 48 fois la taille du nodule moyen a été insérée "
+"dans le dernier cas, mais 83% des radiologues ne le voient pas. "
+"L'oculométrie a révélée que la majorité de ceux qui n'avaient pas repéré le "
+"gorille l'avait pourtant regardé."
 
 #. type: delimited block *
 #: en.adoc:261
@@ -590,14 +621,16 @@ msgid ""
 "The 17% who had seen the gorilla changed their minds after talking to the 83%. In crisis it is important to identify the 17% in our "
 "organization and let them share what they see before they are influenced by the 83%."
 msgstr ""
-"Les 17% qui ont vu le gorille ont changé d'avis après avoir parlé au 83%. En temps de crise, il est important d'identifier les 17% dans "
-"notre organisation et de les laisser partager ce qu'ils voient avant qu'ils soient influencés par les 83%."
+"Les 17% qui ont vu le gorille ont changé d'avis après avoir parlé au 83%. En "
+"temps de crise, il est important d'identifier les 17% dans notre "
+"organisation et de les laisser partager ce qu'ils voient avant qu'ils soient "
+"influencés par les 83%."
 
 #. type: Block title
 #: en.adoc:263
 #, no-wrap
 msgid "Comprehension and decision"
-msgstr "Conception et décision"
+msgstr "Compréhension et décision"
 
 #. type: Table
 #: en.adoc:273
@@ -613,11 +646,14 @@ msgid ""
 msgstr ""
 "| | inconnaissable | connaissable | connu\n"
 "\n"
-"| *réalisable* ce qui arrivera | concevoir résilience & redondance | réaction et déploiement rapides | réponse prévue\n"
+"| *réalisable* ce qui arrivera | concevoir résilience & redondance | "
+"réaction et déploiement rapides | réponse prévue\n"
 "\n"
-"| *plausible* mais peu probable | sérendipité | reconversion rapide | plan d'urgence\n"
+"| *plausible* mais peu probable | sérendipité | reconversion rapide | plan d'"
+"urgence\n"
 "\n"
-"| *inimaginable* mais possible | sacrifice | saisir l'opportunité | la réalité contre-attaque\n"
+"| *inimaginable* mais possible | sacrifice | saisir l'opportunité | la "
+"réalité contre-attaque\n"
 
 #. type: Plain text
 #: en.adoc:277
@@ -637,7 +673,7 @@ msgstr ""
 "décideurs, nous devons composer avec cette limitation. +*Notre capacité à "
 "concevoir les éventualités* varie du prévu, où (comme un écureuil) nous "
 "pouvons rassembler et ménager nos ressources pour les temps difficiles, "
-"jusqu'à des croisements de « cygnes noirs » imprévus avec des éléphants dans "
+"jusqu'à des croisements de « cygnes noirs » imprévus avec des éléphants dans "
 "la pièce. La crise récente de la COVID-19 et le changement climatique sont "
 "deux bons exemples de cela. Dans des cas comme cela, l'inattention vient de "
 "notre sentiment d'être incapable de faire quelque chose : nous faisons "
@@ -647,7 +683,27 @@ msgstr ""
 #: en.adoc:279
 #, no-wrap
 msgid "*Our ability to respond* is a question for knowledge management. It ranges from known through knowable to unknowable. At one extreme we are fully aware that something can happen and have a more or less automatic process which comes into play when the trigger event occurs. At the other extreme we are faced with something that we simply couldn’t comprehend and we have no idea or process able to handle it. We have to accept that some major sacrifice or sacrifices will be needed to survive, if survival is possible. A key part of our planning is to recognise these differences and reflect them in our strategy. The green areas in the diagram are those for which conventional planning is possible, the orange (and in large part the white) require to both think and act in radically different ways. Once we have established that the current situation was either not considered plausible, was unimaginable or we have no plans and little idea of what to do, we need to again double check and really be sure, as from now on our entire focus is going to be on how to rethink our organisational structure in terms of disentanglement.\n"
-msgstr "*Notre capacité à faire face* au problème relève de la gestion des connaissances. Il existe différents niveaux de connaissance, allant de ce qui est connu à ce qui est connaissable jusqu'à ce qui est inconnaissable. À un extrême, nous sommes pleinement conscients qu'une certaine chose peut arriver et nous avons un processus plus ou moins automatique qui entre en jeu lorsque l'événement déclencheur arrive. À l'extrême inverse, nous sommes face à une situation qui nous était tout simplement inconcevable et nous sommes dépourvu d'idée et de processus qui permettrait d'y répondre. Nous devons accepter qu'il sera nécessaire de faire un ou plusieurs sacrifices majeurs, si tant est que la survie est même possible. Un élément clé de notre planification consiste à reconnaître la différence entre ces deux extrêmes et à l'intégrer dans notre stratégie. Les zones vertes dans le diagramme sont celles pour lesquelles la planification conventionnelle est possible, la zone orange (et en grande partie la blanche) nécessite une nouvelle manière de penser et d'agir qui est radicalement différente. Une fois que nous avons déterminé que la situation actuelle était auparavant invraisemblable ou inimaginable ou bien que nous n'avons ni plan ni idée de quoi faire, nous devons revérifier et en être certain puisque, à partir de ce moment, toute notre attention sera portée sur la manière de revoir la structure organisationnelle sous l'angle du désenchevêtrement.\n"
+msgstr ""
+"*Notre capacité à faire face* au problème relève de la gestion des "
+"connaissances. Il existe différents niveaux de connaissance, allant de ce "
+"qui est connu à ce qui est connaissable jusqu'à ce qui est inconnaissable. À "
+"un extrême, nous sommes pleinement conscients qu'une certaine chose peut "
+"arriver et nous avons un processus plus ou moins automatique qui entre en "
+"jeu lorsque l'événement déclencheur arrive. À l'extrême inverse, nous sommes "
+"face à une situation qui nous était tout simplement inconcevable et nous "
+"sommes dépourvu d'idée et de processus qui permettrait d'y répondre. Nous "
+"devons accepter qu'il sera nécessaire de faire un ou plusieurs sacrifices "
+"majeurs, si tant est que la survie est même possible. Un élément clé de "
+"notre planification consiste à reconnaître la différence entre ces deux "
+"extrêmes et à l'intégrer dans notre stratégie. Les zones vertes dans le "
+"diagramme sont celles pour lesquelles la planification conventionnelle est "
+"possible, la zone orange (et en grande partie la blanche) nécessite une "
+"nouvelle manière de penser et d'agir qui est radicalement différente. Une "
+"fois que nous avons déterminé que la situation actuelle était auparavant "
+"invraisemblable ou inimaginable ou bien que nous n'avons ni plan ni idée de "
+"quoi faire, nous devons revérifier et en être certain puisque, à partir de "
+"ce moment, toute notre attention sera portée sur la manière de revoir la "
+"structure organisationnelle sous l'angle du désenchevêtrement.\n"
 
 #. type: Title ==
 #: en.adoc:280
