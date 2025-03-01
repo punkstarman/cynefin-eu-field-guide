@@ -27,7 +27,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Build pages
         run: |
-          apt get -y po4a make asciidoctor
+          apt install -y po4a make asciidoctor
           make
       - name: Setup Pages
         uses: actions/configure-pages@v5
