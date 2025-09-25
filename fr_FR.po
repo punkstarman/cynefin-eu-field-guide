@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2021-08-09 12:43+0200\n"
-"PO-Revision-Date: 2025-02-28 15:02+0000\n"
+"PO-Revision-Date: 2025-09-26 09:30+0000\n"
 "Last-Translator: William Bartlett <bartlettstarman@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/"
 "cynefin-eu-field-guide/document/fr/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.10.3-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. type: Title =
 #: en.adoc:3
@@ -178,6 +178,11 @@ msgid ""
 "engagement and keeping an ongoing assessment of the evolving landscape. Action items, real life examples and demonstrations complement the "
 "references to the developing theoretical framework."
 msgstr ""
+"Le présent guide souligne l'importance de fixer des limites, de les gérer, "
+"de mettre en place des structures informelles, de garder les options "
+"ouvertes, d'impliquer les gens de façon distribuée et d'évaluer en continu "
+"le contexte qui évolue. En complément du cadre théorique, ce guide fournit "
+"des actions types, des exemples tirés de la vraie vie et des illustrations."
 
 #. type: Title ===
 #: en.adoc:47
@@ -203,6 +208,9 @@ msgid ""
 "In the course of producing this guide we benefited from early review of the structure and content from a wide range of people from four "
 "continents who had experience in the use of the Cynefin Framework."
 msgstr ""
+"Au cours de la rédaction de ce guide, nous avons bénéficié des relectures du "
+"fond et de la forme par un large éventail de personnes venant de quatre "
+"continents et qui ont de l'expérience dans l'utilisation du cadre Cynefin."
 
 #. type: Plain text
 #: en.adoc:56
@@ -212,12 +220,20 @@ msgid ""
 "Sjölund, Jules André-Brown, Jules Yim, Mario López de Ávila Muñoz, Mark Williams, Mary E Boone, Matteo Carella, Michael Cheveldave, Oli’ "
 "Kopp, Patrick Hollingworth, Rolf F. Katzenberger, Simone Jo Moore, Sinan Si Alhir, Sonja Blignaut, Staffan Nöteberg, Stefan Knecht, Zhen Goh"
 msgstr ""
+"Nous tenons à remercier les personnes suivantes pour leurs contributions : "
+"Anthony Waddell, Barclay Rae, Barry M O’Reilly, Boudewijn Bertsch, Bruno "
+"Baketarić, Carl Davies, Chantal Woltring, Christopher Bramley, David "
+"Williams, Derek Masselink, Emma Jones, Henrik Mårtensson, Jacqueline Conway, "
+"Jimmy Sjölund, Jules André-Brown, Jules Yim, Mario López de Ávila Muñoz, "
+"Mark Williams, Mary E Boone, Matteo Carella, Michael Cheveldave, Oli’ Kopp, "
+"Patrick Hollingworth, Rolf F. Katzenberger, Simone Jo Moore, Sinan Si Alhir, "
+"Sonja Blignaut, Staffan Nöteberg, Stefan Knecht, Zhen Goh"
 
 #. type: Title ===
 #: en.adoc:57
 #, no-wrap
 msgid "Authors"
-msgstr ""
+msgstr "Auteurs"
 
 #. type: Plain text
 #: en.adoc:62
@@ -227,6 +243,10 @@ msgid ""
 "University of Hull, Stellenbosch University Professor, complexity practitioner\n"
 "Creator of the Cynefin framework\n"
 msgstr ""
+"*Dave Snowden* +\n"
+"Université de Hull, Stellenbosch University Professor, praticien en "
+"complexité\n"
+"Créateur du cadre Cynefin\n"
 
 #. type: Plain text
 #: en.adoc:64
@@ -234,6 +254,10 @@ msgid ""
 "The Cynefin framework grew out of my starting to develop the field of naturalising sense-making. The naturalising element links to the need "
 "to use natural science in understanding how humans interact with systems and with each other."
 msgstr ""
+"Le cadre Cynefin est né de mon initiative de développer le domaine de la "
+"naturalisation du sense-making. Par naturalisation, on entend l'utilisation "
+"des sciences naturelles pour comprendre comment les humains interagissent "
+"entre eux et avec un système."
 
 #. type: Plain text
 #: en.adoc:66
@@ -241,6 +265,11 @@ msgid ""
 "Sense-making is defined as how do I make sense of the world so that I can act in it. For practice to be informed by good science is critical "
 "in the growing turbulence of the world we live in and I hope that the framework, and this book make some small contribution to that goal."
 msgstr ""
+"Le sense-making est défini comme étant la manière de donner du sens au monde "
+"afin de pouvoir agir dedans. Il est crucial dans le monde de plus en plus "
+"turbulent dans lequel nous vivons que les pratiques soient éclairées par une "
+"bonne science. J'ai l'espoir que le cadre et ce livre contribuent ne serait-"
+"ce que modestement à cet objectif."
 
 #. type: Plain text
 #: en.adoc:70
@@ -250,6 +279,9 @@ msgid ""
 "Joint Research Centre, European Commission\n"
 "Architect, designer\n"
 msgstr ""
+"*Alessandro Rancati* +\n"
+"Centre commun de recherche, Commission européenne\n"
+"Architecte, designer\n"
 
 #. type: Plain text
 #: en.adoc:72
@@ -260,12 +292,22 @@ msgid ""
 "precondition to start coherent action. In the illustrations, I tried to express how sometimes crisis transforms our most solid structures "
 "into beautiful new entities."
 msgstr ""
+"Le cadre Cynefin m'a fait comprendre combien le design, dans ce qui me "
+"semble être sa forme la plus utile, crée de façon rituelle des moments de "
+"crise, puisant dans le chaos pour proposer des changements profonds de "
+"paradigme. Dans ce livre, nous faisons référence au rôle du design et de ses "
+"pratiques dans la cartographie d'une crise et la sortie de la zone "
+"d'incertitude. Nous conseillons que la précondition à toute action cohérente "
+"soit la synthèse de ses expériences au sein d'une crise sous la forme de "
+"paysages visuels. Au travers des illustrations, j'ai tenté d'exprimer à quel "
+"point les crises transforment parfois nos structures les plus solides en de "
+"nouvelles entités magnifiques."
 
 #. type: Title ==
 #: en.adoc:73
 #, no-wrap
 msgid "Foreword"
-msgstr ""
+msgstr "Avant-propos"
 
 #. type: Plain text
 #: en.adoc:76
@@ -274,6 +316,13 @@ msgid ""
 "framework to help decision-makers to do this. Inspired by the Cynefin framework, it describes methods and practices that can help decision-"
 "makers to navigate complexity and chaos, respond effectively to crisis, and deepen organisational resilience."
 msgstr ""
+"La plupart du temps, ce qui fonctionne en temps normal ne fonctionne plus en "
+"temps de crise. Nous devons penser et agir différemment. Ce guide pratique "
+"offre un cadre pour aider les décideurs et décideuses à faire cela. Inspiré "
+"par le cadre Cynefin, ce guide décrit des méthodes et des pratiques qui "
+"peuvent aider à naviguer à travers la complexité et le chaos, à réagir de "
+"manière efficace face à une crise et à approfondir la résilience "
+"organisationnelle."
 
 #. type: Plain text
 #: en.adoc:78
@@ -1464,22 +1513,32 @@ msgstr ""
 #: en.adoc:427
 #, no-wrap
 msgid "Adapt"
-msgstr ""
+msgstr "S'adapter"
 
 #. type: Block title
 #: en.adoc:429
 #, no-wrap
 msgid "Adapt in complexity"
-msgstr ""
+msgstr "S'adapter dans la complexité"
 
 #. type: delimited block *
 #: en.adoc:432
+#, fuzzy
 msgid ""
 "In a complex adaptive system we manage the evolutionary possibilities of the present; we start journeys rather than seeking to achieve "
 "goals. Goal based behaviour implies the inability to develop the opportunities that emerge along the way and which we could not anticipate. "
 "We need to resist the temptation to narrow our perspective by anticipating or projecting the future from our understanding of the past. We "
 "keep our options open, and *cast around* to see what is possible: we side-cast, rather than back-cast or fore-cast."
 msgstr ""
+"Dans un système complexe adaptatif, nous pilotons les possibilités "
+"évolutionnaires du présent ; nous démarrons des expéditions plutôt que de "
+"chercher à atteindre des objectifs. Procéder par objectif nous rendrait "
+"incapables d'élaborer les opportunités qui émergeraient en cours de route et "
+"que nous ne pouvions pas anticiper. Nous devons résister à la tentation de "
+"réduire notre champ de vision en essayant d'anticiper ou de prévoir l'avenir "
+"à partir de notre compréhension du passé. Nous devons présever les options "
+"et *regarder autour* pour repérer ce qui est possible : nous regardons "
+"autour, au lieu de"
 
 #. type: Plain text
 #: en.adoc:435
