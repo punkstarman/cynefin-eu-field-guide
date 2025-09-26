@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2021-08-09 12:43+0200\n"
-"PO-Revision-Date: 2025-09-26 09:30+0000\n"
+"PO-Revision-Date: 2025-09-27 10:01+0000\n"
 "Last-Translator: William Bartlett <bartlettstarman@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/"
 "cynefin-eu-field-guide/document/fr/>\n"
@@ -332,6 +332,14 @@ msgid ""
 "seeing things. Challenging, because my initial conclusion was: this sounds great, but how to do it? I had difficulty seeing how I could make "
 "use of these ideas and concepts in the “normality” of public administration."
 msgstr ""
+"La première fois que j'ai fait la connaissance de Dave Snowden et de ses "
+"travaux sur le cadre Cynefin, c'était lors d'un stage de formation interne à "
+"la Commission européenne début 2010. La présentation de Dave était à la fois "
+"inspirante et difficile. Inspirante, car remplie d'idées nouvelles et de "
+"provocations de ma façon bien établie de voir les choses. Difficile, car mon "
+"appréciation initiale était : ça a l'air génial, mais comment on fait "
+"concrètement ? J'avais du mal à voir comment je pouvais me servir de ces "
+"idées et de ces concepts dans la « normalité » de l'administration publique."
 
 #. type: Plain text
 #: en.adoc:80
@@ -343,6 +351,17 @@ msgid ""
 "categorise things and adapt my responses accordingly. But I remained conscious that this was a very superficial use of a far more "
 "sophisticated toolkit."
 msgstr ""
+"Dans les mois et années qui ont suivi, j'ai passé pas mal de temps à écouter "
+"les podcasts de Dave, à lire son blog et à tâtonner pour trouver des "
+"manières de faire bon usage de ces concepts dans mon travail. Il me "
+"paraissait évident que je devais le faire, mais lutter pour trouver comment. "
+"J'ai suivi une formation sur Cynefin, afin de mieux comprendre les concepts, "
+"et je me suis retrouvé à employer certains éléments de langage de Cynefin "
+"pour structurer ma prise de décision. Par exemple, j'ai trouvé que le fait "
+"de demander si le problème était simple, compliqué ou complexe m'aidait à "
+"catégoriser les choses et à adapter mes réactions en conséquence. Mais je "
+"restais conscient que ce n'était qu'un usage superficiel d'une boîte à "
+"outils bien plus sophistiquée."
 
 #. type: Plain text
 #: en.adoc:82
@@ -352,6 +371,10 @@ msgid ""
 "strategy to improve customer solutions, yet we did not embed this more deeply into our way of doing things. Dave came to speak at our annual "
 "IT conference in 2013 and got very positive responses, but overall my efforts to help “spread the word” remained an interesting side project."
 msgstr ""
+"Quand il m'a été demandé de mener la DSI de la Commission en 2013, j'ai "
+"contacté Dave et j'ai fait un pas de plus, en lançant un projet pilote en "
+"interne qui utilisait les techniques de Cynefin pour cartographier les "
+"récits des clients en lien avec le service informatique."
 
 #. type: Plain text
 #: en.adoc:84
@@ -363,6 +386,18 @@ msgid ""
 "reconnect with Cynefin. I arrived as the pandemic was raging, and one of the very first conversations I had was with Alessandro and Dave, "
 "who were already working together on this field guide."
 msgstr ""
+"En 2016, j'ai encore bougé, cette fois-ci pour gérer le service des impôts "
+"et de la douane, et mon cheminement personnel avec Cynefin s'est refroidi. "
+"J'employais encore le langage pour guider ma pensée, mais pas de façon "
+"intégrée. Durant cette période, j'ai néanmoins eu l'opportunité de commencer "
+"à travailler avec Alessandra Rancati au Laboratoire de l'innovation "
+"politique du Centre commun de recherche, où nous avons utilisé des méthodes "
+"de design pour cartographier ma vision du développement futur du "
+"département. Par un heureux hasard, lorsqu'il m'a été demandé de prendre la "
+"direction du Centre commun de recherche début 2020, cette connexion a ouvert "
+"la voie pour renouer avec Cynefin. J'arrivai en pleine pandémie, et l'un de "
+"mes premiers échanges était avec Alessandra et Dave, qui travaillaient déjà "
+"à la rédaction de ce guide pratique."
 
 #. type: Plain text
 #: en.adoc:86
@@ -372,6 +407,13 @@ msgid ""
 "understanding and uptake of the usefulness of frameworks such as Cynefin in making sense of things. I wish I had had such a guide back in "
 "2010, and I am delighted that it now exists."
 msgstr ""
+"Un des effets positifs de la crise est que cela a forcé les décideurs "
+"politiques à « renouveler leur pensée ». Cela nous a forcé à comprendre le "
+"fait que nous devons adopter des interventions plus robustes pour gérer la "
+"complexité en temps de crise. Et, je l'espère, cela a favorisé la création "
+"des conditions d'une compréhension et d'une adoption plus large de cadres "
+"comme Cynefin pour donner du sens aux choses. J'aurais aimé avoir un tel "
+"guide en 2010, et je suis ravi qu'il existe désormais."
 
 #. type: Plain text
 #: en.adoc:88
@@ -382,11 +424,24 @@ msgid ""
 "set out in this field guide in their organisations, it will enhance resilience and the ability to respond effectively to future crises. Not "
 "only will the starting point be better next time around – so will the response. I very much hope you find it useful."
 msgstr ""
+"Au Centre commun de recherche, nous continuerons à explorer comment faire "
+"meilleur usage de ce cadre pour soutenir la conception et le déploiement des "
+"politiques au sein de la Commission européenne. La pandémie du COVID a "
+"montré que nous devons trouver de nouvelles et de meilleures manières d'agir "
+"et de réagir. Ce guide pratique offre des astuces pratiques, importantes et "
+"puissantes. Je crois que si les décideurs sont capables d'intégrer les "
+"pratiques et les méthodes décrites dans ce guide pratique à leurs "
+"organisations, cela augmentera la résilience et la capacité à répondre "
+"efficacement aux crises futures. Non seulement le point de départ sera "
+"meilleur, mais aussi la réaction. J'espère vraiment que vous trouverez ce "
+"guide utile."
 
 #. type: Plain text
 #: en.adoc:92
 msgid "Stephen Quest + Director General + European Commission - Joint Research Centre"
 msgstr ""
+"Stephen Quest + Directeur Général + Commission européenne - Centre commun de "
+"recherche"
 
 #. type: Table
 #: en.adoc:135
@@ -433,12 +488,52 @@ msgid ""
 "| *confident*\n"
 "\n"
 msgstr ""
+"| étapes\n"
+"| *Evaluer*\n"
+"| *S'adapter*\n"
+"| *[<>]*\n"
+"| *Exapter*\n"
+"| *Transcender*\n"
+"\n"
+"| niveau de crise\n"
+"| chaos\n"
+"| chaos\n"
+"| pivot\n"
+"| stabilité émergente\n"
+"| stabilité\n"
+"\n"
+"| risques\n"
+"| manque de préparation à l'avenir\n"
+"\n"
+"plans de contingence manquants\n"
+"\n"
+"les anciennes approches encore pertinentes\n"
+"| le rythme normal reste en vigueur\n"
+"\n"
+"les signaux faibles ne sont pas repérés ou sont ignorés\n"
+"| surengagement, trop tôt\n"
+"| décisions centralisées\n"
+"\n"
+"structures rigides\n"
+"\n"
+"cycles long terme\n"
+"| inventaire tardif\n"
+"\n"
+"inventaire biaisé\n"
+"\n"
+"| état d'esprit probable\n"
+"| *surpris(e), submergé(e)*\n"
+"| *perplexe*\n"
+"| *reactif(ve)*\n"
+"| *déterminé(e)*\n"
+"| *confiant(e)*\n"
+"\n"
 
 #. type: Block title
 #: en.adoc:135
 #, no-wrap
 msgid "2+| ideal disposition"
-msgstr ""
+msgstr "2+| disposition idéale"
 
 #. type: Table
 #: en.adoc:164
@@ -449,12 +544,24 @@ msgid ""
 "*systematic* formalising experiences and lessons learnt | *draconian* set clear boundaries to gain time to think | *transparent* communicate "
 "by engagement, map dispositions | | *explorative* open to set up parallel coherent experiements to address key issues |"
 msgstr ""
+"| *reflexive* vérifier si la situation est nouvelle et si des plans de "
+"contingence existent, commencer à journaliser | *autonomisante* centraliser "
+"la cohérence (et non les décisions !) coordonner les interventions, déléguer "
+"la prise de décision, assurer des contributions divergentes | *aporétique* "
+"prioriser l'élaboration de sens de toutes les données d'entrée, bâtir la "
+"cohérence, repérer les opportunités, les défis et les tendances | *radicale* "
+"prêt au réemploi radical des processus et des outils existants | "
+"*systematique* formaliser les expériences et les leçons apprises | "
+"*draconienne* fixer des limites claires pour gagner du temps pour la "
+"réflexion | *transparente* communiquer par l'implication, cartographier les "
+"tendances | | *exploratoire* prêt à mener en parallèle des expérimentations "
+"cohérentes pour répondre aux enjeux clés |"
 
 #. type: Block title
 #: en.adoc:164
 #, no-wrap
 msgid "4+| actions"
-msgstr ""
+msgstr "4+| actions"
 
 #. type: Table
 #: en.adoc:218
@@ -481,6 +588,51 @@ msgid ""
 "*design strategic interventions* Challenge the interactions between agents to inform strategic decisions. It is more effective than pre-"
 "determining an objective.  |"
 msgstr ""
+"| *fixer des contraintes draconiennes* Les contraintes ne sont pas mauvaises "
+"en soi ; sans elles, il n'y aurait jamais d'évolution. Les contraintes sont "
+"un moteur clé de créativité. Imposez rapidement des contraintes "
+"incontestables pour gagner du temps.  | *gérer les contraintes* Observez les "
+"tendances et gérez les contraintes afin de détecter des schémas de "
+"comportement bénéfiques.  | *paysages d'expériences* Les récits offrent un "
+"aperçu des tendances dans une organisation. De plus, ils permettent "
+"d'identifier les agents moteurs du changement, les frontières explicites et "
+"cachées, les processus informels, les défis et les opportunités.  | "
+"*réemploi* La manière la plus efficace de faire face à une crise est par "
+"l'exaptation, ou le réemploi radical des actifs disponibles.  | *piloter la "
+"cadence et le contrôle* A ce stade, plusieurs unités devraient être en train "
+"d'opérer selon des modèles qui sont inédits pour l'organisation. Si nous "
+"perdons la cohérence, nous risquons le revirement au chaos.  | *commencer un "
+"journal* La journalisation produit une source d'apprentissage précieuse tout "
+"au long de la crise. Démarrez rapidement et dessinez des schémas le plus "
+"possible. La journalisation graphique fournit des données denses, synthétise "
+"plus d'informations dans un espace plus petit et permet une recherche rapide "
+"et mémorisation détaillée.  | *réduire la granularité* Fragmentez "
+"l'information, capturez des données riches. Augmentez la communication et la "
+"sensibilisation : accueillez la redondance, soyez aussi transparent que la "
+"situation le permet en privilégiant l'excès de transparence  | *découvrir "
+"les opportunités* La réaction face au défi varie en fonction de sa nature et "
+"du contexte. Le manque de temps, de ressources ou de connaissances peut "
+"transformer une décision claire en une situation chaotique.  | *réemploi "
+"extrême* Des événements inattendus nous ont involontairement menés à des "
+"processus chaotiques qui peuvent avoir des conséquences catastrophiques pour "
+"nous et pour notre contexte.  | *ritualiser l'apprentissage* Nous apprenons "
+"plus d'échecs que de succès, et les leçons sont plus fiables lorsqu'elles "
+"sont enregistrées et formalisées tant qu'elles sont encore fraîches.  | *"
+"activer des réseaux de capteurs humains* Demandez à des groupes ayant une "
+"diversité cognitive, culturelle et expérientielle d'évaluer la situation de "
+"façon indépendante les uns des autres sans possibilité de contact.  | *créer "
+"des équipages spécialisés* Nous ne pouvons nous permettre d'impliquer tout "
+"le monde dans tout (ce n'était déjà pas une bonne idée en temps normal). "
+"Nous devons rapidement abandonner les anciennes formes de consensus.  | | *"
+"concevoir pour l'innovation radicale* Plongez délibérément dans le chaos en "
+"retirant certaines contraintes ; repoussez les limites, explorez des idées "
+"déraisonnables. Reformulez l'espace du problème, remettez les normes en "
+"question.  | | | *distribuer l'implication* Nous avons besoin de réseaux de "
+"capteurs distribués et des boucles de retour rapide afin de détecter et de "
+"gérer les signaux faibles.  | | *concevoir des interventions stratégiques* "
+"Remettez en cause les interactions entre les agents afin d'éclairer les "
+"décisions stratégiques. C'est plus efficace que de déterminer un objectif à "
+"l'avance.  |"
 
 #. type: Title =
 #: en.adoc:220
@@ -1546,42 +1698,57 @@ msgid ""
 "In lack of a contingency plan, we must reallocate resources and re-design processes to empower the emergence of small, informal teams and "
 "networks that will help us make sense of the new, changing landscape."
 msgstr ""
+"En l'absence d'un plan de contingence, nous devons réallouer les ressources "
+"et revoir les processus afin de favoriser l'émergence de petites équipes et "
+"de réseaux informels qui nous aideront à donner du sens au nouveau paysage "
+"mouvant."
 
 #. type: Plain text
 #: en.adoc:437
 #, no-wrap
 msgid "**Manage constraints:** We reduce hard organisational constraints and introduce flexible boundaries that allow to gain control of chaos and buy time for an organisational shift.\n"
 msgstr ""
+"**Gérer les contraintes :** Nous réduisons les contraintes "
+"organisationnelles rigides et nous introduisons des limites flexibles qui "
+"permettent de reprendre le contrôle sur le chaos et de racheter le temps "
+"pour changer l'organisation.\n"
 
 #. type: Plain text
 #: en.adoc:438
 #, no-wrap
 msgid "**Coordinate, do not decide:** distribute decisions to informal networks, centralise coordination.\n"
 msgstr ""
+"**Coordonner plutôt que décider :** distribuez les décisions vers des "
+"réseaux informels, centralisez la coordination.\n"
 
 #. type: Plain text
 #: en.adoc:439
 #, no-wrap
 msgid "**Communicate by engagement:** create informal employee networks to help assess the situation and to contribute to taking decisions.\n"
 msgstr ""
+"**Communiquer par l'implication :** créez des réseaux informels du personnel "
+"afin d'aider à évaluer la situation et pour s'impliquer dans la prise de "
+"décision.\n"
 
 #. type: Plain text
 #: en.adoc:440
 #, no-wrap
 msgid "**Avoid premature convergence:** keep options open as long as possible.\n"
 msgstr ""
+"**Éviter la convergence prématurée :** préserver les options le plus "
+"longtemps possible.\n"
 
 #. type: Title ==
 #: en.adoc:441
 #, no-wrap
 msgid "Adapt in complexity - Manage (or manege) constraints"
-msgstr ""
+msgstr "S'adapter dans la complexité - Ménager (ou manier) les contraintes"
 
 #. type: Block title
 #: en.adoc:443
 #, no-wrap
 msgid "Manege"
-msgstr ""
+msgstr "Manège"
 
 #. type: delimited block *
 #: en.adoc:446
@@ -1590,6 +1757,12 @@ msgid ""
 "the emphasis is on learning with, abiding with, adapting to, respecting, and working with another complex entity: the horse and rider as "
 "coevolving brambles in a wider thicket of social traditions surrounding beauty and form."
 msgstr ""
+"Le verbe anglais « to manage » vient de l'italien maneggiare, qui veut dire "
+"diriger, contrôler un cheval. Le sens à l'origine mettait l'accent sur la "
+"collaboration avec une autre entité complexe pour apprendre, demeurer, se "
+"respecter et travailler : le cheval et son cavalier sont coévolutionnaires, "
+"comme des ronces dans un buisson, à l'intérieur d'un contexte de traditions "
+"sociales qui régissent forme et beauté."
 
 #. type: delimited block *
 #: en.adoc:448
@@ -1598,6 +1771,10 @@ msgid ""
 "of the combined term manage to the metaphor of the obedient machine, to the corridors of power, and to the actions of controlling and "
 "directing."
 msgstr ""
+"Autour du XVIIIe siècle, ce sens s'est fusionné avec le terme français « "
+"ménage », ce qui a facilité le glissement sémantique du terme pour désigner "
+"la métaphore d'une machine obéissante, les coulisses du pouvoir et les "
+"actions de contrôler et de diriger."
 
 #. type: delimited block *
 #: en.adoc:450
@@ -1605,98 +1782,103 @@ msgid ""
 "The naturalistic approach we have advocated, in effect a return to manege rather than manage, is the most effective way to achieve results "
 "in organisations made up of real people.”"
 msgstr ""
+"L'approche naturaliste que nous avons revendiquée, qui est en fait un retour "
+"à manier plutôt que ménager, est la façon la plus efficace d'obtenir des "
+"résultats dans des organisations faites de vraies personnes."
 
 #. type: delimited block *
 #: en.adoc:453
 msgid "Kurtz & Snowden + “Like Bramble Bushes in a thicket”"
-msgstr ""
+msgstr "Kurtz & Snowden + « Comme les ronces dans un buisson »"
 
 #. type: Plain text
 #: en.adoc:456
 msgid "Monitor dispositions and manage constraints to detect beneficial behavioural patterns."
 msgstr ""
+"Observer les tendances et gérer les contraintes afin de détecter des schémas "
+"de comportement bénéfiques."
 
 #. type: Block title
 #: en.adoc:457
 #, no-wrap
 msgid "Monitor:"
-msgstr ""
+msgstr "Observer :"
 
 #. type: Plain text
 #: en.adoc:459
 msgid "dispositional states;"
-msgstr ""
+msgstr "les tendances ;"
 
 #. type: Plain text
 #: en.adoc:460
 msgid "propensities;"
-msgstr ""
+msgstr "les propensions ;"
 
 #. type: Plain text
 #: en.adoc:461
 msgid "identities;"
-msgstr ""
+msgstr "les identités ;"
 
 #. type: Plain text
 #: en.adoc:462
 msgid "attractors;"
-msgstr ""
+msgstr "les attracteurs ;"
 
 #. type: Plain text
 #: en.adoc:463
 msgid "attitudes;"
-msgstr ""
+msgstr "les attitudes ;"
 
 #. type: Plain text
 #: en.adoc:464
 msgid "weak signals;"
-msgstr ""
+msgstr "les signaux faibles ;"
 
 #. type: Plain text
 #: en.adoc:465
 msgid "coherence."
-msgstr ""
+msgstr "la cohérence."
 
 #. type: Block title
 #: en.adoc:466
 #, no-wrap
 msgid "Manage:"
-msgstr ""
+msgstr "Piloter :"
 
 #. type: Plain text
 #: en.adoc:468
 msgid "constraints;"
-msgstr ""
+msgstr "les contraintes ;"
 
 #. type: Plain text
 #: en.adoc:469
 msgid "connections/linkages;"
-msgstr ""
+msgstr "les liens/connexions ;"
 
 #. type: Plain text
 #: en.adoc:470
 msgid "roles and rituals;"
-msgstr ""
+msgstr "les rôles et les rituels ;"
 
 #. type: Plain text
 #: en.adoc:471
 msgid "catalysts;"
-msgstr ""
+msgstr "les catalyseurs ;"
 
 #. type: Plain text
 #: en.adoc:472
 msgid "granularity;"
-msgstr ""
+msgstr "la granularité ;"
 
 #. type: Plain text
 #: en.adoc:473
 msgid "diversity and dissent;"
-msgstr ""
+msgstr "la diversité et la dissension ;"
 
 #. type: Plain text
 #: en.adoc:474
 msgid "cadence."
-msgstr ""
+msgstr "la cadence."
 
 #. type: Plain text
 #: en.adoc:476
