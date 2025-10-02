@@ -4,26 +4,29 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2021-08-09 12:43+0200\n"
-"Language-Team: \n"
+"PO-Revision-Date: 2025-10-02 10:01+0000\n"
+"Last-Translator: William Bartlett <bartlettstarman@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/"
+"cynefin-eu-field-guide/document/fr/>\n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0\n"
-"Last-Translator: \n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"Language: fr_FR\n"
-"PO-Revision-Date: \n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #. type: Title =
 #: en.adoc:3
 #, no-wrap
 msgid "Managing complexity (and chaos) in times of crisis: A field guide for decision makers inspired by the Cynefin framework"
-msgstr "Gestion de la complexité (et du chaos) en temps de crise: Un guide pratique pour les décideurs inspiré par le cadre conceptuel Cynefin"
+msgstr ""
+"Gestion de la complexité (et du chaos) en temps de crise : Un guide pratique "
+"pour les décideurs inspiré par le cadre conceptuel Cynefin"
 
 #. type: Plain text
 #: en.adoc:5
 msgid "Dave Snowden; Alessandro Rancati"
-msgstr "Dave Snowden; Alessandro Rancati"
+msgstr "Dave Snowden ; Alessandro Rancati"
 
 #. type: Plain text
 #: en.adoc:10
@@ -34,6 +37,17 @@ msgid ""
 "that might be made of this publication.  For information on the methodology and quality underlying the data used in this publication for "
 "which the source is neither Eurostat nor other Commission services, users should contact the referenced source."
 msgstr ""
+"Ce livre est un effort commun entre le Centre commun de recherche (CCR), le "
+"service de la Commission européenne pour la science et le savoir, et le "
+"Centre Cynefin. Il a pour objectif de fournir un soutien au sense-making "
+"pour les processus d'élaboration de politique.  Les orientations exprimées "
+"n'impliquent pas une prise de position de la Commission européenne. Ni la "
+"Commission européenne ni aucune personne agissant en son nom ne saurait être "
+"tenue responsable de l’utilisation qui pourrait être faite des informations "
+"suivantes.  Pour plus d'informations sur la méthodologie et la qualité des "
+"données utilisées dans cette publication dont la source est ni Eurostat ni "
+"aucun autre service de la Commission, les lecteurs sont invités à contacter "
+"la source référencée."
 
 #. type: Plain text
 #: en.adoc:13
@@ -42,6 +56,8 @@ msgid ""
 "*EU Science Hub* +\n"
 "https://ec.europa.eu/jrc\n"
 msgstr ""
+"*Plateforme scientifique de l'UE* +\n"
+"https://ec.europa.eu/jrc\n"
 
 #. type: Plain text
 #: en.adoc:16
@@ -50,36 +66,38 @@ msgid ""
 "*Cynefin Centre* +\n"
 "https://www.cynefincentre.com/\n"
 msgstr ""
+"*Centre Cynefin* +\n"
+"https://www.cynefincentre.com/\n"
 
 #. type: Plain text
 #: en.adoc:18
 msgid "JRC 123629"
-msgstr ""
+msgstr "JRC 123629"
 
 #. type: Plain text
 #: en.adoc:20
 msgid "EUR 30569 EN"
-msgstr ""
+msgstr "EUR 30569 EN"
 
 #. type: Plain text
 #: en.adoc:22
 msgid "PDF ISBN 978-92-76-28844-2 ISSN 1831-9424 doi:10.2760/353"
-msgstr ""
+msgstr "PDF ISBN 978-92-76-28844-2 ISSN 1831-9424 doi:10.2760/353"
 
 #. type: Plain text
 #: en.adoc:24
 msgid "Print ISBN 978-92-76-28843-5 ISSN 1018-5593 doi:10.2760/164392"
-msgstr ""
+msgstr "Print ISBN 978-92-76-28843-5 ISSN 1018-5593 doi:10.2760/164392"
 
 #. type: Plain text
 #: en.adoc:26
 msgid "Luxembourg: Publications Office of the European Union, 2021"
-msgstr ""
+msgstr "Luxembourg : Office des publications de l'Union européenne, 2021"
 
 #. type: Plain text
 #: en.adoc:28
 msgid "© European Union, 2021"
-msgstr ""
+msgstr "© Union européenne, 2021"
 
 #. type: Plain text
 #: en.adoc:30
@@ -90,6 +108,17 @@ msgid ""
 "provided appropriate credit is given and any changes are indicated. For any use or reproduction of photos or other material that is not "
 "owned by the EU, permission must be sought directly from the copyright holders."
 msgstr ""
+"La politique de réutilisation de la Commission européenne relève de la "
+"décision 2011/833/EU du 12 décembre 2011 relative à la réutilisation des "
+"documents de la Commission (OJ L 330, 14.12.2011, page 39). Sauf mention "
+"contraire, la réutilisation du présent document est autorisée sous la "
+"licence Creative Commons Attribution 4.0 International (CC BY 4.0, https://"
+"creativecommons.org/licenses/by/4.0/). Cela signifie que la réutilisation "
+"est autorisée à condition de mentionner la source et d'indiquer les "
+"modifications que vous y avez apportées. Pour toute réutilisation ou "
+"reproduction de photos ou d'autres contenus n'appartenant pas à l'UE, il "
+"faut chercher la permission directement auprès des détenteurs des droits "
+"d'auteur."
 
 #. type: Plain text
 #: en.adoc:32
@@ -99,17 +128,23 @@ msgid ""
 "For the purposes of ease of use, the Trademark TM and Registered ® symbols are not used in the body of this book, but still apply to "
 "registered trademarks."
 msgstr ""
+"Cynefin® et SenseMaker® sont des marques déposées de Cognitive Edge Pte Ltd "
+"et ses filiales. SenseMaker® est déposé aux Etats-Unis d'Amérique. Cynefin® "
+"est déposé aux Etats-Unis d'Amérique, dans l'Union européenne, en Australie, "
+"à Singapour et en Nouvelle Zélande. Par facilité, les signes de marque "
+"déposée TM et ® ne sont pas utilisés dans le corps de ce livre, mais "
+"s'appliquent tout de même aux marques déposées."
 
 #. type: Plain text
 #: en.adoc:34
 msgid "All content © European Union, 2021"
-msgstr ""
+msgstr "Tous contenus © Union européenne, 2021"
 
 #. type: Title ==
 #: en.adoc:35
 #, no-wrap
 msgid "Abstract"
-msgstr ""
+msgstr "Résumé"
 
 #. type: Plain text
 #: en.adoc:39
@@ -117,26 +152,35 @@ msgid ""
 "This field guide helps to navigate in times of crisis using the Cynefin framework as a compass.  It proposes a four-stage approach through "
 "which we can:"
 msgstr ""
+"Ce guide pratique aide à naviguer par temps de crise en utilisant le cadre "
+"Cynefin comme boussole.  Il propose une approche en quatre étapes avec "
+"laquelle nous pouvons :"
 
 #. type: Plain text
 #: en.adoc:41
 msgid "assess the type of crisis and initiate a response;"
-msgstr ""
+msgstr "évaluer le type de crise et entamer une réponse ;"
 
 #. type: Plain text
 #: en.adoc:42
 msgid "adapt to the new pace and start building sensing networks to inform decisions;"
 msgstr ""
+"s'adapter à un nouveau rythme et démarrer la construction de réseaux de "
+"capteurs afin d'éclairer les décisions ;"
 
 #. type: Plain text
 #: en.adoc:43
 msgid "repurpose existing structures and working methods to generate radical innovation;"
 msgstr ""
+"reconvertir des structure existantes et des méthodes fonctionnelles afin de "
+"stimuler des innovations radicales ;"
 
 #. type: Plain text
 #: en.adoc:44
 msgid "transcend the crisis, formalise lessons learnt and increase resilience."
 msgstr ""
+"transcender la crise, formaliser les leçons apprises et accroître la "
+"résilience."
 
 #. type: Plain text
 #: en.adoc:46
@@ -145,12 +189,17 @@ msgid ""
 "engagement and keeping an ongoing assessment of the evolving landscape. Action items, real life examples and demonstrations complement the "
 "references to the developing theoretical framework."
 msgstr ""
+"Le présent guide souligne l'importance de fixer des limites, de les gérer, "
+"de mettre en place des structures informelles, de garder les options "
+"ouvertes, d'impliquer les gens de façon distribuée et d'évaluer en continu "
+"le contexte qui évolue. En complément du cadre théorique, ce guide fournit "
+"des actions types, des exemples tirés de la vraie vie et des illustrations."
 
 #. type: Title ===
 #: en.adoc:47
 #, no-wrap
 msgid "Acknowledgements"
-msgstr ""
+msgstr "Remerciements"
 
 #. type: Plain text
 #: en.adoc:51
@@ -158,6 +207,11 @@ msgid ""
 "The authors would like to thank, for their contribution to this field book: Pierpaolo Andriani, Kedge Business school; Anne Caspari, Cynefin "
 "Centre; Beth Smith, Cynefin Centre; Eleanor Snowden, Cynefin Centre; Vera Winthagen, Joint Research Centre, European Commission."
 msgstr ""
+"Les auteurs voudraient remercier les personnes suivantes pour leurs "
+"contributions à ce guide pratique : Pierpaolo Andriani, Kedge Business "
+"school ; Anne Caspari, Centre Cynefin ; Beth Smith, Cynefin ; Eleanor "
+"Snowden, Cynefin ; Vera Winthagen, Centre commun de recherche de la "
+"Commission européenne."
 
 #. type: Plain text
 #: en.adoc:53
@@ -165,6 +219,9 @@ msgid ""
 "In the course of producing this guide we benefited from early review of the structure and content from a wide range of people from four "
 "continents who had experience in the use of the Cynefin Framework."
 msgstr ""
+"Au cours de la rédaction de ce guide, nous avons bénéficié des relectures du "
+"fond et de la forme par un large éventail de personnes venant de quatre "
+"continents et qui ont de l'expérience dans l'utilisation du cadre Cynefin."
 
 #. type: Plain text
 #: en.adoc:56
@@ -174,12 +231,20 @@ msgid ""
 "Sjölund, Jules André-Brown, Jules Yim, Mario López de Ávila Muñoz, Mark Williams, Mary E Boone, Matteo Carella, Michael Cheveldave, Oli’ "
 "Kopp, Patrick Hollingworth, Rolf F. Katzenberger, Simone Jo Moore, Sinan Si Alhir, Sonja Blignaut, Staffan Nöteberg, Stefan Knecht, Zhen Goh"
 msgstr ""
+"Nous tenons à remercier les personnes suivantes pour leurs contributions : "
+"Anthony Waddell, Barclay Rae, Barry M O’Reilly, Boudewijn Bertsch, Bruno "
+"Baketarić, Carl Davies, Chantal Woltring, Christopher Bramley, David "
+"Williams, Derek Masselink, Emma Jones, Henrik Mårtensson, Jacqueline Conway, "
+"Jimmy Sjölund, Jules André-Brown, Jules Yim, Mario López de Ávila Muñoz, "
+"Mark Williams, Mary E Boone, Matteo Carella, Michael Cheveldave, Oli’ Kopp, "
+"Patrick Hollingworth, Rolf F. Katzenberger, Simone Jo Moore, Sinan Si Alhir, "
+"Sonja Blignaut, Staffan Nöteberg, Stefan Knecht, Zhen Goh"
 
 #. type: Title ===
 #: en.adoc:57
 #, no-wrap
 msgid "Authors"
-msgstr ""
+msgstr "Auteurs"
 
 #. type: Plain text
 #: en.adoc:62
@@ -189,6 +254,10 @@ msgid ""
 "University of Hull, Stellenbosch University Professor, complexity practitioner\n"
 "Creator of the Cynefin framework\n"
 msgstr ""
+"*Dave Snowden* +\n"
+"Université de Hull, Stellenbosch University Professor, praticien en "
+"complexité\n"
+"Créateur du cadre Cynefin\n"
 
 #. type: Plain text
 #: en.adoc:64
@@ -196,6 +265,10 @@ msgid ""
 "The Cynefin framework grew out of my starting to develop the field of naturalising sense-making. The naturalising element links to the need "
 "to use natural science in understanding how humans interact with systems and with each other."
 msgstr ""
+"Le cadre Cynefin est né de mon initiative de développer le domaine de la "
+"naturalisation du sense-making. Par naturalisation, on entend l'utilisation "
+"des sciences naturelles pour comprendre comment les humains interagissent "
+"entre eux et avec un système."
 
 #. type: Plain text
 #: en.adoc:66
@@ -203,6 +276,11 @@ msgid ""
 "Sense-making is defined as how do I make sense of the world so that I can act in it. For practice to be informed by good science is critical "
 "in the growing turbulence of the world we live in and I hope that the framework, and this book make some small contribution to that goal."
 msgstr ""
+"Le sense-making est défini comme étant la manière de donner du sens au monde "
+"afin de pouvoir agir dedans. Il est crucial dans le monde de plus en plus "
+"turbulent dans lequel nous vivons que les pratiques soient éclairées par une "
+"bonne science. J'ai l'espoir que le cadre et ce livre contribuent ne serait-"
+"ce que modestement à cet objectif."
 
 #. type: Plain text
 #: en.adoc:70
@@ -212,6 +290,9 @@ msgid ""
 "Joint Research Centre, European Commission\n"
 "Architect, designer\n"
 msgstr ""
+"*Alessandro Rancati* +\n"
+"Centre commun de recherche, Commission européenne\n"
+"Architecte, designer\n"
 
 #. type: Plain text
 #: en.adoc:72
@@ -222,12 +303,22 @@ msgid ""
 "precondition to start coherent action. In the illustrations, I tried to express how sometimes crisis transforms our most solid structures "
 "into beautiful new entities."
 msgstr ""
+"Le cadre Cynefin m'a fait comprendre combien le design, dans ce qui me "
+"semble être sa forme la plus utile, crée de façon rituelle des moments de "
+"crise, puisant dans le chaos pour proposer des changements profonds de "
+"paradigme. Dans ce livre, nous faisons référence au rôle du design et de ses "
+"pratiques dans la cartographie d'une crise et la sortie de la zone "
+"d'incertitude. Nous conseillons que la précondition à toute action cohérente "
+"soit la synthèse de ses expériences au sein d'une crise sous la forme de "
+"paysages visuels. Au travers des illustrations, j'ai tenté d'exprimer à quel "
+"point les crises transforment parfois nos structures les plus solides en de "
+"nouvelles entités magnifiques."
 
 #. type: Title ==
 #: en.adoc:73
 #, no-wrap
 msgid "Foreword"
-msgstr ""
+msgstr "Avant-propos"
 
 #. type: Plain text
 #: en.adoc:76
@@ -236,6 +327,13 @@ msgid ""
 "framework to help decision-makers to do this. Inspired by the Cynefin framework, it describes methods and practices that can help decision-"
 "makers to navigate complexity and chaos, respond effectively to crisis, and deepen organisational resilience."
 msgstr ""
+"La plupart du temps, ce qui fonctionne en temps normal ne fonctionne plus en "
+"temps de crise. Nous devons penser et agir différemment. Ce guide pratique "
+"offre un cadre pour aider les décideurs et décideuses à faire cela. Inspiré "
+"par le cadre Cynefin, ce guide décrit des méthodes et des pratiques qui "
+"peuvent aider à naviguer à travers la complexité et le chaos, à réagir de "
+"manière efficace face à une crise et à approfondir la résilience "
+"organisationnelle."
 
 #. type: Plain text
 #: en.adoc:78
@@ -245,6 +343,14 @@ msgid ""
 "seeing things. Challenging, because my initial conclusion was: this sounds great, but how to do it? I had difficulty seeing how I could make "
 "use of these ideas and concepts in the “normality” of public administration."
 msgstr ""
+"La première fois que j'ai fait la connaissance de Dave Snowden et de ses "
+"travaux sur le cadre Cynefin, c'était lors d'un stage de formation interne à "
+"la Commission européenne début 2010. La présentation de Dave était à la fois "
+"inspirante et difficile. Inspirante, car remplie d'idées nouvelles et de "
+"provocations de ma façon bien établie de voir les choses. Difficile, car mon "
+"appréciation initiale était : ça a l'air génial, mais comment on fait "
+"concrètement ? J'avais du mal à voir comment je pouvais me servir de ces "
+"idées et de ces concepts dans la « normalité » de l'administration publique."
 
 #. type: Plain text
 #: en.adoc:80
@@ -256,6 +362,17 @@ msgid ""
 "categorise things and adapt my responses accordingly. But I remained conscious that this was a very superficial use of a far more "
 "sophisticated toolkit."
 msgstr ""
+"Dans les mois et années qui ont suivi, j'ai passé pas mal de temps à écouter "
+"les podcasts de Dave, à lire son blog et à tâtonner pour trouver des "
+"manières de faire bon usage de ces concepts dans mon travail. Il me "
+"paraissait évident que je devais le faire, mais lutter pour trouver comment. "
+"J'ai suivi une formation sur Cynefin, afin de mieux comprendre les concepts, "
+"et je me suis retrouvé à employer certains éléments de langage de Cynefin "
+"pour structurer ma prise de décision. Par exemple, j'ai trouvé que le fait "
+"de demander si le problème était simple, compliqué ou complexe m'aidait à "
+"catégoriser les choses et à adapter mes réactions en conséquence. Mais je "
+"restais conscient que ce n'était qu'un usage superficiel d'une boîte à "
+"outils bien plus sophistiquée."
 
 #. type: Plain text
 #: en.adoc:82
@@ -265,6 +382,10 @@ msgid ""
 "strategy to improve customer solutions, yet we did not embed this more deeply into our way of doing things. Dave came to speak at our annual "
 "IT conference in 2013 and got very positive responses, but overall my efforts to help “spread the word” remained an interesting side project."
 msgstr ""
+"Quand il m'a été demandé de mener la DSI de la Commission en 2013, j'ai "
+"contacté Dave et j'ai fait un pas de plus, en lançant un projet pilote en "
+"interne qui utilisait les techniques de Cynefin pour cartographier les "
+"récits des clients en lien avec le service informatique."
 
 #. type: Plain text
 #: en.adoc:84
@@ -276,6 +397,18 @@ msgid ""
 "reconnect with Cynefin. I arrived as the pandemic was raging, and one of the very first conversations I had was with Alessandro and Dave, "
 "who were already working together on this field guide."
 msgstr ""
+"En 2016, j'ai encore bougé, cette fois-ci pour gérer le service des impôts "
+"et de la douane, et mon cheminement personnel avec Cynefin s'est refroidi. "
+"J'employais encore le langage pour guider ma pensée, mais pas de façon "
+"intégrée. Durant cette période, j'ai néanmoins eu l'opportunité de commencer "
+"à travailler avec Alessandra Rancati au Laboratoire de l'innovation "
+"politique du Centre commun de recherche, où nous avons utilisé des méthodes "
+"de design pour cartographier ma vision du développement futur du "
+"département. Par un heureux hasard, lorsqu'il m'a été demandé de prendre la "
+"direction du Centre commun de recherche début 2020, cette connexion a ouvert "
+"la voie pour renouer avec Cynefin. J'arrivai en pleine pandémie, et l'un de "
+"mes premiers échanges était avec Alessandra et Dave, qui travaillaient déjà "
+"à la rédaction de ce guide pratique."
 
 #. type: Plain text
 #: en.adoc:86
@@ -285,6 +418,13 @@ msgid ""
 "understanding and uptake of the usefulness of frameworks such as Cynefin in making sense of things. I wish I had had such a guide back in "
 "2010, and I am delighted that it now exists."
 msgstr ""
+"Un des effets positifs de la crise est que cela a forcé les décideurs "
+"politiques à « renouveler leur pensée ». Cela nous a forcé à comprendre le "
+"fait que nous devons adopter des interventions plus robustes pour gérer la "
+"complexité en temps de crise. Et, je l'espère, cela a favorisé la création "
+"des conditions d'une compréhension et d'une adoption plus large de cadres "
+"comme Cynefin pour donner du sens aux choses. J'aurais aimé avoir un tel "
+"guide en 2010, et je suis ravi qu'il existe désormais."
 
 #. type: Plain text
 #: en.adoc:88
@@ -295,11 +435,24 @@ msgid ""
 "set out in this field guide in their organisations, it will enhance resilience and the ability to respond effectively to future crises. Not "
 "only will the starting point be better next time around – so will the response. I very much hope you find it useful."
 msgstr ""
+"Au Centre commun de recherche, nous continuerons à explorer comment faire "
+"meilleur usage de ce cadre pour soutenir la conception et le déploiement des "
+"politiques au sein de la Commission européenne. La pandémie du COVID a "
+"montré que nous devons trouver de nouvelles et de meilleures manières d'agir "
+"et de réagir. Ce guide pratique offre des astuces pratiques, importantes et "
+"puissantes. Je crois que si les décideurs sont capables d'intégrer les "
+"pratiques et les méthodes décrites dans ce guide pratique à leurs "
+"organisations, cela augmentera la résilience et la capacité à répondre "
+"efficacement aux crises futures. Non seulement le point de départ sera "
+"meilleur, mais aussi la réaction. J'espère vraiment que vous trouverez ce "
+"guide utile."
 
 #. type: Plain text
 #: en.adoc:92
 msgid "Stephen Quest + Director General + European Commission - Joint Research Centre"
 msgstr ""
+"Stephen Quest + Directeur Général + Commission européenne - Centre commun de "
+"recherche"
 
 #. type: Table
 #: en.adoc:135
@@ -346,12 +499,52 @@ msgid ""
 "| *confident*\n"
 "\n"
 msgstr ""
+"| étapes\n"
+"| *Evaluer*\n"
+"| *S'adapter*\n"
+"| *[<>]*\n"
+"| *Exapter*\n"
+"| *Transcender*\n"
+"\n"
+"| niveau de crise\n"
+"| chaos\n"
+"| chaos\n"
+"| pivot\n"
+"| stabilité émergente\n"
+"| stabilité\n"
+"\n"
+"| risques\n"
+"| manque de préparation à l'avenir\n"
+"\n"
+"plans de contingence manquants\n"
+"\n"
+"les anciennes approches encore pertinentes\n"
+"| le rythme normal reste en vigueur\n"
+"\n"
+"les signaux faibles ne sont pas repérés ou sont ignorés\n"
+"| surengagement, trop tôt\n"
+"| décisions centralisées\n"
+"\n"
+"structures rigides\n"
+"\n"
+"cycles long terme\n"
+"| inventaire tardif\n"
+"\n"
+"inventaire biaisé\n"
+"\n"
+"| état d'esprit probable\n"
+"| *surpris(e), submergé(e)*\n"
+"| *perplexe*\n"
+"| *reactif(ve)*\n"
+"| *déterminé(e)*\n"
+"| *confiant(e)*\n"
+"\n"
 
 #. type: Block title
 #: en.adoc:135
 #, no-wrap
 msgid "2+| ideal disposition"
-msgstr ""
+msgstr "2+| disposition idéale"
 
 #. type: Table
 #: en.adoc:164
@@ -362,12 +555,24 @@ msgid ""
 "*systematic* formalising experiences and lessons learnt | *draconian* set clear boundaries to gain time to think | *transparent* communicate "
 "by engagement, map dispositions | | *explorative* open to set up parallel coherent experiements to address key issues |"
 msgstr ""
+"| *reflexive* vérifier si la situation est nouvelle et si des plans de "
+"contingence existent, commencer à journaliser | *autonomisante* centraliser "
+"la cohérence (et non les décisions !) coordonner les interventions, déléguer "
+"la prise de décision, assurer des contributions divergentes | *aporétique* "
+"prioriser l'élaboration de sens de toutes les données d'entrée, bâtir la "
+"cohérence, repérer les opportunités, les défis et les tendances | *radicale* "
+"prêt au réemploi radical des processus et des outils existants | "
+"*systematique* formaliser les expériences et les leçons apprises | "
+"*draconienne* fixer des limites claires pour gagner du temps pour la "
+"réflexion | *transparente* communiquer par l'implication, cartographier les "
+"tendances | | *exploratoire* prêt à mener en parallèle des expérimentations "
+"cohérentes pour répondre aux enjeux clés |"
 
 #. type: Block title
 #: en.adoc:164
 #, no-wrap
 msgid "4+| actions"
-msgstr ""
+msgstr "4+| actions"
 
 #. type: Table
 #: en.adoc:218
@@ -394,6 +599,51 @@ msgid ""
 "*design strategic interventions* Challenge the interactions between agents to inform strategic decisions. It is more effective than pre-"
 "determining an objective.  |"
 msgstr ""
+"| *fixer des contraintes draconiennes* Les contraintes ne sont pas mauvaises "
+"en soi ; sans elles, il n'y aurait jamais d'évolution. Les contraintes sont "
+"un moteur clé de créativité. Imposez rapidement des contraintes "
+"incontestables pour gagner du temps.  | *gérer les contraintes* Observez les "
+"tendances et gérez les contraintes afin de détecter des schémas de "
+"comportement bénéfiques.  | *paysages d'expériences* Les récits offrent un "
+"aperçu des tendances dans une organisation. De plus, ils permettent "
+"d'identifier les agents moteurs du changement, les frontières explicites et "
+"cachées, les processus informels, les défis et les opportunités.  | "
+"*réemploi* La manière la plus efficace de faire face à une crise est par "
+"l'exaptation, ou le réemploi radical des actifs disponibles.  | *piloter la "
+"cadence et le contrôle* A ce stade, plusieurs unités devraient être en train "
+"d'opérer selon des modèles qui sont inédits pour l'organisation. Si nous "
+"perdons la cohérence, nous risquons le revirement au chaos.  | *commencer un "
+"journal* La journalisation produit une source d'apprentissage précieuse tout "
+"au long de la crise. Démarrez rapidement et dessinez des schémas le plus "
+"possible. La journalisation graphique fournit des données denses, synthétise "
+"plus d'informations dans un espace plus petit et permet une recherche rapide "
+"et mémorisation détaillée.  | *réduire la granularité* Fragmentez "
+"l'information, capturez des données riches. Augmentez la communication et la "
+"sensibilisation : accueillez la redondance, soyez aussi transparent que la "
+"situation le permet en privilégiant l'excès de transparence  | *découvrir "
+"les opportunités* La réaction face au défi varie en fonction de sa nature et "
+"du contexte. Le manque de temps, de ressources ou de connaissances peut "
+"transformer une décision claire en une situation chaotique.  | *réemploi "
+"extrême* Des événements inattendus nous ont involontairement menés à des "
+"processus chaotiques qui peuvent avoir des conséquences catastrophiques pour "
+"nous et pour notre contexte.  | *ritualiser l'apprentissage* Nous apprenons "
+"plus d'échecs que de succès, et les leçons sont plus fiables lorsqu'elles "
+"sont enregistrées et formalisées tant qu'elles sont encore fraîches.  | *"
+"activer des réseaux de capteurs humains* Demandez à des groupes ayant une "
+"diversité cognitive, culturelle et expérientielle d'évaluer la situation de "
+"façon indépendante les uns des autres sans possibilité de contact.  | *créer "
+"des équipages spécialisés* Nous ne pouvons nous permettre d'impliquer tout "
+"le monde dans tout (ce n'était déjà pas une bonne idée en temps normal). "
+"Nous devons rapidement abandonner les anciennes formes de consensus.  | | *"
+"concevoir pour l'innovation radicale* Plongez délibérément dans le chaos en "
+"retirant certaines contraintes ; repoussez les limites, explorez des idées "
+"déraisonnables. Reformulez l'espace du problème, remettez les normes en "
+"question.  | | | *distribuer l'implication* Nous avons besoin de réseaux de "
+"capteurs distribués et des boucles de retour rapide afin de détecter et de "
+"gérer les signaux faibles.  | | *concevoir des interventions stratégiques* "
+"Remettez en cause les interactions entre les agents afin d'éclairer les "
+"décisions stratégiques. C'est plus efficace que de déterminer un objectif à "
+"l'avance.  |"
 
 #. type: Title =
 #: en.adoc:220
@@ -411,59 +661,79 @@ msgstr "Affronter le chaos"
 #: en.adoc:225
 msgid "In chaos, we need to quickly stabilize the situation setting drastic constraints to make time for assessment."
 msgstr ""
-"En temps de chaos, nous devons stabiliser la situation rapidement en imposant des contraintes drastiques afin de racheter le temps "
-"nécessaire pour évaluer la situation."
+"En temps de chaos, nous devons stabiliser la situation rapidement en "
+"imposant des contraintes drastiques afin de racheter le temps nécessaire "
+"pour évaluer la situation."
 
 #. type: delimited block *
 #: en.adoc:227
 msgid "Once a relatively stable situation has been reached, we can start to adapt to the new context."
-msgstr "Une fois avoir atteint une situation relativement stable, nous pouvons commencer à nous adapter au nouveau contexte."
+msgstr ""
+"Une fois avoir atteint une situation relativement stable, nous pouvons "
+"commencer à nous adapter au nouveau contexte."
 
 #. type: Plain text
 #: en.adoc:230
 msgid "In times of crisis our context changes to the point of creating an emotional or cognitive shock and a state of confusion."
-msgstr "En temps de crise notre contexte change à un tel point que cela engendre un choc émotionnel ou cognitif et un état de confusion."
+msgstr ""
+"En temps de crise notre contexte change à un tel point que cela engendre un "
+"choc émotionnel ou cognitif et un état de confusion."
 
 #. type: Plain text
 #: en.adoc:232
 #, no-wrap
 msgid "*Set draconian constraints:* The first immediate action is to create hard boundaries that allow us to gain time while observing and mapping what is coming at us, to identify what response strategies need to be adopted.\n"
-msgstr "*Imposer des contraintes draconiennes :* La première action immédiate est de fixer des limites fortes qui nous permettent de racheter le temps pour mieux observer et cartographier ce qui nous arrive, afin d'identifier quelles stratégies doivent être adoptées en réponse.\n"
+msgstr ""
+"*Imposer des contraintes draconiennes :* La première action immédiate est de "
+"fixer des limites fortes qui nous permettent de racheter le temps pour mieux "
+"observer et cartographier ce qui nous arrive, afin d'identifier quelles "
+"stratégies doivent être adoptées en réponse.\n"
 
 #. type: Plain text
 #: en.adoc:233
 #, no-wrap
 msgid "*Check for contingency plans:* If the situation was foreseen or expected and there are contingency plans, then we address the crisis according to plan.\n"
-msgstr "*S'assurer qu'aucun plan d'urgence n'existe :* Si la situation était prévue ou attendue et qu'il existe des plans d'urgence, alors nous pouvons faire face à la crise comme prévu.\n"
+msgstr ""
+"*S'assurer qu'aucun plan d'urgence n'existe :* Si la situation était prévue "
+"ou attendue et qu'il existe des plans d'urgence, alors nous pouvons faire "
+"face à la crise comme prévu.\n"
 
 #. type: Plain text
 #: en.adoc:234
 #, no-wrap
 msgid "*Start assessing:* If the situation caught us unprepared, we need to quickly create small, informal groups that will dive into chaos to understand how the crisis changed the landscape.\n"
-msgstr "*Démarrer l'évaluation :* Si la situation nous a pris au dépourvu, nous devons rapidement créer des petits groupes informels qui se plongerons dans le chaos afin de comprendre comment la crise a transformé le paysage environnant.\n"
+msgstr ""
+"*Démarrer l'évaluation :* Si la situation nous a pris au dépourvu, nous "
+"devons rapidement créer des petits groupes informels qui se plongeront dans "
+"le chaos afin de comprendre comment la crise a transformé le paysage "
+"environnant.\n"
 
 #. type: Plain text
 #: en.adoc:236
 msgid "The first and most fundamental question in crisis is: are we ready for this? In other words:"
-msgstr "La question la plus fondamentale dans une crise est : Étions-nous préparés à cela ? En d'autres termes :"
+msgstr ""
+"La question la plus fondamentale dans une crise est : Étions-nous préparés à "
+"cela ? En d'autres termes :"
 
 #. type: Plain text
 #: en.adoc:238
 #, no-wrap
 msgid "*Was it possible or plausible* for us that this event could happen?\n"
-msgstr "l'événement était-il *possible ou plausible* ?\n"
+msgstr "l'événement était-il *possible ou plausible* ?\n"
 
 #. type: Plain text
 #: en.adoc:239
 #, no-wrap
 msgid "*Do we have contingency plans* in place for this crisis and are we sure we are correctly assessing it?\n"
-msgstr "*avons-nous des plans d'urgence* en place pour ce genre de crise et sommes-nous confiants dans notre évaluation de la situation ?\n"
+msgstr ""
+"*avons-nous des plans d'urgence* en place pour ce genre de crise et sommes-"
+"nous confiants dans notre évaluation de la situation ?\n"
 
 #. type: Block title
 #: en.adoc:240
 #, no-wrap
 msgid "If the answer to both is YES!"
-msgstr "Si la réponse aux deux questions est OUI !"
+msgstr "Si la réponse aux deux questions est OUI !"
 
 #. type: Plain text
 #: en.adoc:243
@@ -474,18 +744,21 @@ msgid ""
 "wrong. We also need to *create clear boundaries around the start and end of the crisis*. Avoiding drift is key and ritualising boundary "
 "transitions is important."
 msgstr ""
-"Alors nous pouvons mettre en œuvre le processus comme prévu. Si la réponse était inconnaissable à l'avance mais, après une évaluation "
-"initiale, les décisions sont claires, alors notre système est résilient, comporte un degré de redondance et nous permet de faire face à la "
-"crise. +\n"
-"Cependant, nous devons faire attention à deux aspects qui peuvent avoir un impact majeur. Nous devons *veiller en permanence pour repérer "
-"les cas marginaux* qui remettent en cause notre évaluation initiale. Nous devons aussi *délimiter clairement le début et la fin de la "
-"crise*. Il est important d'éviter une dérive et donc de ritualiser les transitions."
+"Alors nous pouvons mettre en œuvre le processus comme prévu. Si la réponse "
+"était inconnaissable à l'avance mais, après une évaluation initiale, les "
+"décisions sont claires, alors notre système est résilient, comporte un degré "
+"de redondance et nous permet de faire face à la crise. + Cependant, nous "
+"devons faire attention à deux aspects qui peuvent avoir un impact majeur. "
+"Nous devons *veiller en permanence pour repérer les cas marginaux* qui "
+"remettent en cause notre évaluation initiale. Nous devons aussi *délimiter "
+"clairement le début et la fin de la crise*. Il est important d'éviter une "
+"dérive et donc de ritualiser les transitions."
 
 #. type: Block title
 #: en.adoc:244
 #, no-wrap
 msgid "If the answer to either is NO!"
-msgstr "Si la réponse aux deux questions est NON !"
+msgstr "Si la réponse aux deux questions est NON !"
 
 #. type: Plain text
 #: en.adoc:246
@@ -493,9 +766,10 @@ msgid ""
 "Then we are in a far more serious situation and planned processes and old ways of working have to be treated with care. We urgently need to "
 "initiate a radical change in the way we work, we need to adapt very quickly to changed circumstances."
 msgstr ""
-"Dans ce cas la situation est bien plus grave et nous devons prendre avec des pincettes les processus prévus et les anciennes façons de "
-"faire. Nous devons de toute urgence initier un changement radical dans la manière de travailler et nous devons nous adapter très rapidement "
-"aux nouvelles circonstances."
+"Dans ce cas la situation est bien plus grave et nous devons prendre avec des "
+"pincettes les processus prévus et les anciennes façons de faire. Nous devons "
+"de toute urgence initier un changement radical dans la manière de travailler "
+"et nous devons nous adapter très rapidement aux nouvelles circonstances."
 
 #. type: Plain text
 #: en.adoc:248
@@ -504,9 +778,12 @@ msgid ""
 "planning, cone of possibilities and many other techniques have emerged over the years. But every now and then something comes along which "
 "falls outside the range of our planning and creates a level of shock that we find difficult to manage."
 msgstr ""
-"La plupart des organisations ont appris à gérer les menaces et les surprises, ces fameux événements de « cygne noir ». Les plans d'urgence, "
-"la planification de scénarios, le cône d'incertitude et bien d'autres techniques ont émergé au fil des années. Mais de temps en temps "
-"quelque chose surgit qui ne correspond à rien de ce qui était prévu et cela crée un état de choc qui est difficile à gérer."
+"La plupart des organisations ont appris à gérer les menaces et les "
+"surprises, ces fameux événements de « cygne noir ». Les plans d'urgence, la "
+"planification de scénarios, le cône d'incertitude et bien d'autres "
+"techniques ont émergé au fil des années. Mais de temps en temps quelque "
+"chose surgit qui ne correspond à rien de ce qui était prévu et cela crée un "
+"état de choc qui est difficile à gérer."
 
 #. type: Plain text
 #: en.adoc:250
@@ -516,11 +793,14 @@ msgid ""
 "what we are able to see and comprehend as possibilities is as important as planning. Indeed, in some contexts, planning may make us more "
 "vulnerable than improvising, as it exposes us to inattentional bias."
 msgstr ""
-"Par définition, le chaos et les catastrophes ne se reproduisent jamais à l'identique mais il est important de se rendre compte qu'il existe "
-"différents niveaux d'incertitude dont il faut être conscient. Ce n'est pas toujours une question de rationalité ou de processus : être "
-"conscient des limites sur les éventualités que nous sommes capables de concevoir, c'est aussi important que la planification. En effet, dans "
-"certains contextes, la planification peut nous rendre plus vulnérables que l'improvisation, puisque cela nous expose à la cécité "
-"d'inattention."
+"Par définition, le chaos et les catastrophes ne se reproduisent jamais à "
+"l'identique mais il est important de se rendre compte qu'il existe "
+"différents niveaux d'incertitude dont il faut être conscient. Ce n'est pas "
+"toujours une question de rationalité ou de processus : être conscient des "
+"limites sur les éventualités que nous sommes capables de concevoir, c'est "
+"aussi important que la planification. En effet, dans certains contextes, la "
+"planification peut nous rendre plus vulnérables que l'improvisation, puisque "
+"cela nous expose à la cécité d'inattention."
 
 #. type: Title ==
 #: en.adoc:252
@@ -537,7 +817,9 @@ msgstr "Cécité d'inattention et les 17%"
 #. type: delimited block *
 #: en.adoc:257
 msgid "24 radiologists were asked to perform a familiar lung nodule detection in a set of radiographies."
-msgstr "Il a été demandé à 24 radiologues de procéder à une détection routinière de nodule du poumon sur un jeu de radiographies."
+msgstr ""
+"Il a été demandé à 24 radiologues de procéder à une détection routinière de "
+"nodule du poumon sur un jeu de radiographies."
 
 #. type: delimited block *
 #: en.adoc:259
@@ -545,8 +827,10 @@ msgid ""
 "A picture of a gorilla, 48 times larger than the average nodule, was inserted in the last case, but 83% of radiologists did not see it. Eye-"
 "tracking showed that the majority of the those who missed the gorilla looked directly at it."
 msgstr ""
-"L'image d'un gorille ayant 48 fois la taille du nodule moyen a été insérée dans le dernier cas, mais 83% des radiologues ne le voient pas. "
-"L'oculométrie a révélée que la majorité de ceux qui n'avaient pas repéré le gorille l'avait pourtant regardé."
+"L'image d'un gorille ayant 48 fois la taille du nodule moyen a été insérée "
+"dans le dernier cas, mais 83% des radiologues ne le voient pas. "
+"L'oculométrie a révélée que la majorité de ceux qui n'avaient pas repéré le "
+"gorille l'avait pourtant regardé."
 
 #. type: delimited block *
 #: en.adoc:261
@@ -554,14 +838,16 @@ msgid ""
 "The 17% who had seen the gorilla changed their minds after talking to the 83%. In crisis it is important to identify the 17% in our "
 "organization and let them share what they see before they are influenced by the 83%."
 msgstr ""
-"Les 17% qui ont vu le gorille ont changé d'avis après avoir parlé au 83%. En temps de crise, il est important d'identifier les 17% dans "
-"notre organisation et de les laisser partager ce qu'ils voient avant qu'ils soient influencés par les 83%."
+"Les 17% qui ont vu le gorille ont changé d'avis après avoir parlé au 83%. En "
+"temps de crise, il est important d'identifier les 17% dans notre "
+"organisation et de les laisser partager ce qu'ils voient avant qu'ils soient "
+"influencés par les 83%."
 
 #. type: Block title
 #: en.adoc:263
 #, no-wrap
 msgid "Comprehension and decision"
-msgstr "Conception et décision"
+msgstr "Compréhension et décision"
 
 #. type: Table
 #: en.adoc:273
@@ -577,11 +863,14 @@ msgid ""
 msgstr ""
 "| | inconnaissable | connaissable | connu\n"
 "\n"
-"| *réalisable* ce qui arrivera | concevoir résilience & redondance | réaction et déploiement rapides | réponse prévue\n"
+"| *réalisable* ce qui arrivera | concevoir résilience & redondance | "
+"réaction et déploiement rapides | réponse prévue\n"
 "\n"
-"| *plausible* mais peu probable | sérendipité | reconversion rapide | plan d'urgence\n"
+"| *plausible* mais peu probable | sérendipité | reconversion rapide | plan d'"
+"urgence\n"
 "\n"
-"| *inimaginable* mais possible | sacrifice | saisir l'opportunité | la réalité contre-attaque\n"
+"| *inimaginable* mais possible | sacrifice | saisir l'opportunité | la "
+"réalité contre-attaque\n"
 
 #. type: Plain text
 #: en.adoc:277
@@ -593,20 +882,45 @@ msgid ""
 "COVID-19 crisis and climate change being two good examples of this. In these cases inattention comes from our feeling of being unable to do "
 "something: we ignore the issue in the hope that it might pass."
 msgstr ""
-"Lors d'une prise de décision, la nature humaine est telle que nous faisons rapidement une analyse partielle des données puis nous les "
-"filtrons à travers de multiples fragments de souvenirs pour identifier une première (vs. la meilleure) correspondance. C'est pour cela que "
-"nous voyons d'abord ce qui correspond à nos souvenirs ou ce à quoi nous nous attendons. En tant que décideurs, nous devons composer avec "
-"cette limitation. +\n"
-"*Notre capacité à concevoir les éventualités* varie du prévu, où (comme un écureuil) nous pouvons rassembler et ménager nos ressources pour "
-"les temps difficiles, jusqu'à des croisements de « cygnes noirs » imprévus avec des éléphants dans la pièce. La crise récente de la COVID-19 "
-"et le changement climatique sont deux bons exemples de cela. Dans des cas comme cela, l'inattention vient de notre sentiment d'être "
-"incapable de faire quelque chose : nous faisons abstraction du problème dans l'espoir qu'il disparaîtra de lui-même."
+"Lors d'une prise de décision, la nature humaine est telle que nous faisons "
+"rapidement une analyse partielle des données puis nous les filtrons à "
+"travers de multiples fragments de souvenirs pour identifier une première ("
+"vs. la meilleure) correspondance. C'est pour cela que nous voyons d'abord ce "
+"qui correspond à nos souvenirs ou ce à quoi nous nous attendons. En tant que "
+"décideurs, nous devons composer avec cette limitation. +*Notre capacité à "
+"concevoir les éventualités* varie du prévu, où (comme un écureuil) nous "
+"pouvons rassembler et ménager nos ressources pour les temps difficiles, "
+"jusqu'à des croisements de « cygnes noirs » imprévus avec des éléphants dans "
+"la pièce. La crise récente de la COVID-19 et le changement climatique sont "
+"deux bons exemples de cela. Dans des cas comme cela, l'inattention vient de "
+"notre sentiment d'être incapable de faire quelque chose : nous faisons "
+"abstraction du problème dans l'espoir qu'il disparaîtra de lui-même."
 
 #. type: Plain text
 #: en.adoc:279
 #, no-wrap
 msgid "*Our ability to respond* is a question for knowledge management. It ranges from known through knowable to unknowable. At one extreme we are fully aware that something can happen and have a more or less automatic process which comes into play when the trigger event occurs. At the other extreme we are faced with something that we simply couldn’t comprehend and we have no idea or process able to handle it. We have to accept that some major sacrifice or sacrifices will be needed to survive, if survival is possible. A key part of our planning is to recognise these differences and reflect them in our strategy. The green areas in the diagram are those for which conventional planning is possible, the orange (and in large part the white) require to both think and act in radically different ways. Once we have established that the current situation was either not considered plausible, was unimaginable or we have no plans and little idea of what to do, we need to again double check and really be sure, as from now on our entire focus is going to be on how to rethink our organisational structure in terms of disentanglement.\n"
-msgstr "*Notre capacité à faire face* au problème relève de la gestion des connaissances. Il existe différents niveaux de connaissance, allant de ce qui est connu à ce qui est connaissable jusqu'à ce qui est inconnaissable. À un extrême, nous sommes pleinement conscients qu'une certaine chose peut arriver et nous avons un processus plus ou moins automatique qui entre en jeu lorsque l'événement déclencheur arrive. À l'extrême inverse, nous sommes face à une situation qui nous était tout simplement inconcevable et nous sommes dépourvu d'idée et de processus qui permettrait d'y répondre. Nous devons accepter qu'il sera nécessaire de faire un ou plusieurs sacrifices majeurs, si tant est que la survie est même possible. Un élément clé de notre planification consiste à reconnaître la différence entre ces deux extrêmes et à l'intégrer dans notre stratégie. Les zones vertes dans le diagramme sont celles pour lesquelles la planification conventionnelle est possible, la zone orange (et en grande partie la blanche) nécessite une nouvelle manière de penser et d'agir qui est radicalement différente. Une fois que nous avons déterminé que la situation actuelle était auparavant invraisemblable ou inimaginable ou bien que nous n'avons ni plan ni idée de quoi faire, nous devons revérifier et en être certain puisque, à partir de ce moment, toute notre attention sera portée sur la manière de revoir la structure organisationnelle sous l'angle du désenchevêtrement.\n"
+msgstr ""
+"*Notre capacité à faire face* au problème relève de la gestion des "
+"connaissances. Il existe différents niveaux de connaissance, allant de ce "
+"qui est connu à ce qui est connaissable jusqu'à ce qui est inconnaissable. À "
+"un extrême, nous sommes pleinement conscients qu'une certaine chose peut "
+"arriver et nous avons un processus plus ou moins automatique qui entre en "
+"jeu lorsque l'événement déclencheur arrive. À l'extrême inverse, nous sommes "
+"face à une situation qui nous était tout simplement inconcevable et nous "
+"sommes dépourvu d'idée et de processus qui permettrait d'y répondre. Nous "
+"devons accepter qu'il sera nécessaire de faire un ou plusieurs sacrifices "
+"majeurs, si tant est que la survie est même possible. Un élément clé de "
+"notre planification consiste à reconnaître la différence entre ces deux "
+"extrêmes et à l'intégrer dans notre stratégie. Les zones vertes dans le "
+"diagramme sont celles pour lesquelles la planification conventionnelle est "
+"possible, la zone orange (et en grande partie la blanche) nécessite une "
+"nouvelle manière de penser et d'agir qui est radicalement différente. Une "
+"fois que nous avons déterminé que la situation actuelle était auparavant "
+"invraisemblable ou inimaginable ou bien que nous n'avons ni plan ni idée de "
+"quoi faire, nous devons revérifier et en être certain puisque, à partir de "
+"ce moment, toute notre attention sera portée sur la manière de revoir la "
+"structure organisationnelle sous l'angle du désenchevêtrement.\n"
 
 #. type: Title ==
 #: en.adoc:280
@@ -626,16 +940,24 @@ msgid ""
 "to shift and move at speed and be open to new possibilities on the journey; manage the risk as well as the possibilities. The only thing we "
 "know for certain is that there will be unintended consequences: we must be prepared for those too."
 msgstr ""
-"Durant des périodes de stabilité, lors desquelles la bureaucratie et les intérêts conservateurs ont tendance à s'intensifier, les "
-"organisations évoluent vers un système complexe fortement enchevêtré, comme les ronces dans un buisson ou le système racinaire de la "
-"mangrove. Lors d'une crise, une grande partie de cet enchevêtrement doit être livré au moment présent. C'est une vraie occasion de *sentir, "
-"de voir et d'actionner de nouvelles formes de simplicité* afin d'accroître l'agilité et la résilience de l'organisation dans son ensemble. "
-"Le chaos nous plonge dans un contexte très fluide : nous devons d'abord prendre une quelconque forme de contrôle et ensuite nous devons "
-"dynamiser des réseaux informels au travers de structures organisationnelles légères. Les ressources doivent être réattribuées de façon "
-"radicale et éventuellement permanente. La vie ne sera plus jamais comme avant, même si nous arrivons à nous sortir de la situation sans "
-"séquelles. Nous ne pouvons pas prévoir l'issue, donc nous devons évoluer rapidement et nous ouvrir à la découverte de nouvelles opportunités "
-"sur le chemin ; gérer aussi bien le risque que les opportunités. La seule certitude est qu'il y aura des conséquences imprévues : nous "
-"devons également nous y préparer."
+"Durant des périodes de stabilité, lors desquelles la bureaucratie et les "
+"intérêts conservateurs ont tendance à s'intensifier, les organisations "
+"évoluent vers un système complexe fortement enchevêtré, comme les ronces "
+"dans un buisson ou le système racinaire de la mangrove. Lors d'une crise, "
+"une grande partie de cet enchevêtrement doit être livré au moment présent. "
+"C'est une vraie occasion de *sentir, de voir et d'actionner de nouvelles "
+"formes de simplicité* afin d'accroître l'agilité et la résilience de "
+"l'organisation dans son ensemble. Le chaos nous plonge dans un contexte très "
+"fluide : nous devons d'abord prendre une quelconque forme de contrôle et "
+"ensuite nous devons dynamiser des réseaux informels au travers de structures "
+"organisationnelles légères. Les ressources doivent être réattribuées de "
+"façon radicale et éventuellement permanente. La vie ne sera plus jamais "
+"comme avant, même si nous arrivons à nous sortir de la situation sans "
+"séquelles. Nous ne pouvons pas prévoir l'issue, donc nous devons évoluer "
+"rapidement et nous ouvrir à la découverte de nouvelles opportunités sur le "
+"chemin ; gérer aussi bien le risque que les opportunités. La seule certitude "
+"est qu'il y aura des conséquences imprévues : nous devons également nous y "
+"préparer."
 
 #. type: Title ==
 #: en.adoc:284
@@ -652,12 +974,17 @@ msgid ""
 "staying flexible enough to let people react and adapt to the new context. Too rigid constraints will only resist for a short time and will "
 "break catastrophically."
 msgstr ""
-"Nous commençons par *fixer des contraintes* et cela peut demander un acte autoritaire pour garder les options ouvertes le plus longtemps "
-"possible. Il est probable que cette approche soit acceptée au début d'une crise, mais ce sera de moins en moins le cas au fur et à mesure "
-"que les choses progressent. En fixant des contraintes nous retrouvons une certaine maîtrise sur un environnement chaotique et nous rachetons "
-"du temps pour que toute une organisation puisse de changer de vitesse. Les contraintes doivent donner suffisamment un cadre tout en restant "
-"assez souple pour permettre aux gens de réagir de s'adapter au nouveau contexte. Les contraintes trop rigides ne résisteront qu'un court "
-"laps de temps avant de sauter de façon catastrophique."
+"Nous commençons par *fixer des contraintes* et cela peut demander un acte "
+"autoritaire pour garder les options ouvertes le plus longtemps possible. Il "
+"est probable que cette approche soit acceptée au début d'une crise, mais ce "
+"sera de moins en moins le cas au fur et à mesure que les choses progressent. "
+"En fixant des contraintes nous retrouvons une certaine maîtrise sur un "
+"environnement chaotique et nous rachetons du temps pour que toute une "
+"organisation puisse de changer de vitesse. Les contraintes doivent donner "
+"suffisamment un cadre tout en restant assez souple pour permettre aux gens "
+"de réagir de s'adapter au nouveau contexte. Les contraintes trop rigides ne "
+"résisteront qu'un court laps de temps avant de sauter de façon "
+"catastrophique."
 
 #. type: Plain text
 #: en.adoc:289
@@ -667,10 +994,13 @@ msgid ""
 "practice the delicate dance between seeking confirmation and taking decisive action. We have to demonstrate action, whilst maintaining space "
 "for the emergence for as yet unknowable changes."
 msgstr ""
-"Il est donc fondamental d'*identifier toute action à court terme* qui peut maintenir autant d'options ouvertes que possible. Nous serions "
-"éventuellement tentés de chercher des preuves qui nous indiqueraient « la » bonne marche à suivre, mais lors d'une crise les situations se "
-"dénouent rapidement et nous devons jongler entre la demande de confirmation et la prise de mesures décisives. Nous devons faire preuve "
-"d'initiative, tout en laissant la place à l'émergence face à des évolutions encore inconnaissables."
+"Il est donc fondamental d'*identifier toute action à court terme* qui peut "
+"maintenir autant d'options ouvertes que possible. Nous serions "
+"éventuellement tentés de chercher des preuves qui nous indiqueraient « la » "
+"bonne marche à suivre, mais lors d'une crise les situations se dénouent "
+"rapidement et nous devons jongler entre la demande de confirmation et la "
+"prise de mesures décisives. Nous devons faire preuve d'initiative, tout en "
+"laissant la place à l'émergence face à des évolutions encore inconnaissables."
 
 #. type: Plain text
 #: en.adoc:292
@@ -683,13 +1013,19 @@ msgid ""
 "argument in support of suspending top-down decisions is the cost of un-doing. When we over-commit, we reduce our ability to change course if "
 "the situation evolves exposing unexpected threats."
 msgstr ""
-"Après cette première vague de décisions, le mode opératoire change. A partir de ce moment, « commander » devient synonyme de *coordonner en "
-"déléguant la prise de décision*. Nous nous focalisons sur la gestion de la vue d'ensemble et nous ménageons nos efforts pour pouvoir "
-"examiner un pan plus large d'activités. + Le volume considérable de décisions requiert une grande familiarité avec le contexte local. La "
-"direction a besoin d'assumer le rôle de chef d'orchestre --- en coordonnant et faisant de la place pour une prise de décision par des "
-"experts locaux en fonction de leurs besoins dans leur contexte. L'organisation a une opportunité de passer à un mode de co-conception, dans "
-"le but de remettre en question son périmètre et de refondre ses pratiques d'une manière collaborative. Un argument supplémentaire en faveur "
-"de la suspension de prise de décision descendante est le coût de défaire. Tout surinvestissement réduit la capacité à changer de cap face à "
+"Après cette première vague de décisions, le mode opératoire change. A partir "
+"de ce moment, « commander » devient synonyme de *coordonner en déléguant la "
+"prise de décision*. Nous nous focalisons sur la gestion de la vue d'ensemble "
+"et nous ménageons nos efforts pour pouvoir examiner un pan plus large "
+"d'activités. + Le volume considérable de décisions requiert une grande "
+"familiarité avec le contexte local. La direction a besoin d'assumer le rôle "
+"de chef d'orchestre --- en coordonnant et faisant de la place pour une prise "
+"de décision par des experts locaux en fonction de leurs besoins dans leur "
+"contexte. L'organisation a une opportunité de passer à un mode de co-"
+"conception, dans le but de remettre en question son périmètre et de refondre "
+"ses pratiques d'une manière collaborative. Un argument supplémentaire en "
+"faveur de la suspension de prise de décision descendante est le coût de "
+"défaire. Tout surinvestissement réduit la capacité à changer de cap face à "
 "un changement de situation, ce qui nous expose à des menaces imprévues."
 
 #. type: Plain text
@@ -700,10 +1036,14 @@ msgid ""
 "them as a support for decisions will also give reasons for deeper motivation and engagement. This is how we *communicate through "
 "engagement*, pull as well as push."
 msgstr ""
-"Nous devons garder les options ouvertes aussi longtemps que possible et *éviter toute convergence prématurée*. L'utilisation d'un réseau "
-"sensoriel humain augmente la résilience des décisions et des réponses. Si nos employés en font partie, et ils le devraient, alors le réseau "
-"peut remplir une mission double, puisque le fait que nous les impliquions pour soutenir les prises de décisions suscite une motivation et "
-"une implication plus profondes. C'est de cette manière que nous *communiquons par l'implication*, aussi bien en soutirant qu'en diffusant."
+"Nous devons garder les options ouvertes aussi longtemps que possible et *"
+"éviter toute convergence prématurée*. L'utilisation d'un réseau sensoriel "
+"humain augmente la résilience des décisions et des réponses. Si nos employés "
+"en font partie, et ils le devraient, alors le réseau peut remplir une "
+"mission double, puisque le fait que nous les impliquions pour soutenir les "
+"prises de décisions suscite une motivation et une implication plus "
+"profondes. C'est de cette manière que nous *communiquons par l'implication*, "
+"aussi bien en soutirant qu'en diffusant."
 
 #. type: Title ==
 #: en.adoc:295
@@ -717,8 +1057,10 @@ msgid ""
 "Without constraints there would be no evolution. They are also a key enabler of creativity. Set unquestionable constraints early to gain "
 "time and increase downstream options:"
 msgstr ""
-"En l'absence de contraintes il n'y aurait pas d'évolution. Les contraintes sont également une source majeure de créativité. Fixez rapidement "
-"des contraintes indiscutables afin de racheter du temps et augmenter le nombre d'options dont vous disposerez après :"
+"En l'absence de contraintes il n'y aurait pas d'évolution. Les contraintes "
+"sont également une source majeure de créativité. Fixez rapidement des "
+"contraintes indiscutables afin de racheter du temps et augmenter le nombre "
+"d'options dont vous disposerez après :"
 
 #. type: Plain text
 #: en.adoc:299
@@ -728,7 +1070,8 @@ msgstr "pas d'exceptions ;"
 #. type: Plain text
 #: en.adoc:300
 msgid "avoid constraints that are too rigid or last for too long;"
-msgstr "éviter des contraintes qui sont trop rigides ou qui durent trop longtemps ;"
+msgstr ""
+"éviter des contraintes qui sont trop rigides ou qui durent trop longtemps ;"
 
 #. type: Plain text
 #: en.adoc:301
@@ -739,7 +1082,8 @@ msgstr "garder une communication ouverte et très fréquente."
 #: en.adoc:303
 #, no-wrap
 msgid "*Limit chaos** by immediately setting draconian constraints.\n"
-msgstr "*Limiter le chaos* en imposant des contraintes draconiennes immédiatement.\n"
+msgstr ""
+"*Limiter le chaos* en imposant des contraintes draconiennes immédiatement.\n"
 
 #. type: Plain text
 #: en.adoc:306
@@ -748,8 +1092,16 @@ msgid ""
 "*Several forms of constraints are possible:* connecting or containing, resilient or robust. rigid or flexible, permeable, changing, \"dark\", etc. Each has advantages and disadvantages: rigid and flexible break catastrophically, permeable clog, changing and dark may not be perceived or respected.\n"
 "We set constraints by defining and enforcing governance systems, decision making processes, spaces and methods for interaction, physical infrastructures, and by accepting behaviours, rituals, needs, etc.\n"
 msgstr ""
-"**Plusieurs formes de contraintes sont possibles** : liant ou englobant, résiliente ou robuste, rigide ou flexible, perméable, changeante, « sombre », etc. Chacune a ses avantages et ses inconvénients : les rigides et flexibles se brisent de façon catastrophique, les perméables s'engorgent, les changeantes ou sombres peuvent passer inaperçues ou ne pas être respectées.\n"
-"Nous fixons des contraintes en définissant et en imposant des systèmes de gouvernance, des processus de prise de décision, des lieux et des méthodes d'interaction, des infrastructures physiques et en acceptant les comportements, rituels, besoins, etc.\n"
+"**Plusieurs formes de contraintes sont possibles** : liant ou englobant, "
+"résiliente ou robuste, rigide ou flexible, perméable, changeante, « sombre »"
+", etc. Chacune a ses avantages et ses inconvénients : les rigides et "
+"flexibles se brisent de façon catastrophique, les perméables s'engorgent, "
+"les changeantes ou sombres peuvent passer inaperçues ou ne pas être "
+"respectées.\n"
+"Nous fixons des contraintes en définissant et en imposant des systèmes de "
+"gouvernance, des processus de prise de décision, des lieux et des méthodes "
+"d'interaction, des infrastructures physiques et en acceptant les "
+"comportements, rituels, besoins, etc.\n"
 
 #. type: Plain text
 #: en.adoc:310
@@ -759,9 +1111,24 @@ msgid ""
 "Examples of heuristics are very common in nature. For example, the set of principles that govern the flight of a flock (and unregulated or pedestrian traffic): match speed, avoid collision, move to the centre. They allow individual decision making within shared boundaries. +\n"
 "In organisational terms, heuristics are often recognisable in overarching, informal governance principles.\n"
 msgstr ""
-"**Fixer des contraintes habilitantes.** Deux exemples sont les rituels, qui favorisent la création de réseaux informels, et les heuristiques, à savoir des principes très simples qui réduisent le bruit et créent un terrain d'entente, les prémices d'un consensus, permettant une prise de décision rapide. Un exemple de rituel serait d'organiser tous les jours le petit déjeuner avec tous les membres d'une unité pour susciter des échanges spontanés de la connaissance. Il est primordial que ces échanges soient le résultat indirect des rituels. Dans notre exemple, ce serait une erreur de fixer un thème à chaque petit déjeuner dans un but explicite de récolter la connaissance. Ce genre de « contrainte thématique rigide » échouerait rapidement, ou bien demanderait trop d'énergie à entretenir. +\n"
-"Les exemples d'heuristiques abondent dans la nature. Par exemple, le jeu de règles qui régit le vol d'un groupe d'oiseaux (et aussi le trafic non-régulé ou pédestre) : égaler la vitesse, éviter les collisions, rester groupés. Les heuristiques permettent une prise de décision individuelle à l'intérieur de limites partagées. +\n"
-"Dans les organisations, les heuristiques se retrouvent souvent dans des principes de gouvernance généraux et informels.\n"
+"**Fixer des contraintes habilitantes.** Deux exemples sont les rituels, qui "
+"favorisent la création de réseaux informels, et les heuristiques, à savoir "
+"des principes très simples qui réduisent le bruit et créent un terrain "
+"d'entente, les prémices d'un consensus, permettant une prise de décision "
+"rapide. Un exemple de rituel serait d'organiser tous les jours le petit "
+"déjeuner avec tous les membres d'une unité pour susciter des échanges "
+"spontanés de la connaissance. Il est primordial que ces échanges soient le "
+"résultat indirect des rituels. Dans notre exemple, ce serait une erreur de "
+"fixer un thème à chaque petit déjeuner dans un but explicite de récolter la "
+"connaissance. Ce genre de « contrainte thématique rigide » échouerait "
+"rapidement, ou bien demanderait trop d'énergie à entretenir. +\n"
+"Les exemples d'heuristiques abondent dans la nature. Par exemple, le jeu de "
+"règles qui régit le vol d'un groupe d'oiseaux (et aussi le trafic non-régulé "
+"ou pédestre) : égaler la vitesse, éviter les collisions, rester groupés. Les "
+"heuristiques permettent une prise de décision individuelle à l'intérieur de "
+"limites partagées. +\n"
+"Dans les organisations, les heuristiques se retrouvent souvent dans des "
+"principes de gouvernance généraux et informels.\n"
 
 #. type: Plain text
 #: en.adoc:312
@@ -769,8 +1136,10 @@ msgid ""
 "In more general terms, an enabling constraint has a low lwvel of granularity and fixes either the why or the what or the how, but not the "
 "three at the same time. It should also have a certain degree of flexibility to adjust to the changing context."
 msgstr ""
-"Plus généralement, une contrainte habilitante a un niveau de granularité très fine et fixe le pourquoi, le quoi ou le comment, mais pas les "
-"trois à la fois. Elle devrait également comporter une certaine souplesse pour pouvoir s'adapter à un contexte changeant."
+"Plus généralement, une contrainte habilitante a un niveau de granularité "
+"très fine et fixe le pourquoi, le quoi ou le comment, mais pas les trois à "
+"la fois. Elle devrait également comporter une certaine souplesse pour "
+"pouvoir s'adapter à un contexte changeant."
 
 #. type: Plain text
 #: en.adoc:314
@@ -778,8 +1147,9 @@ msgid ""
 "After setting constraints, we need to assess if the system is stabilising and/or if we can start to detect coherent patterns of response. It "
 "is essential to maintain communication with stakeholders and personnel."
 msgstr ""
-"Après avoir fixé les contraintes, nous devons voir si le système est en train de se stabiliser et/ou si nous pouvons déjà entrevoir des "
-"schémas de réponse cohérents."
+"Après avoir fixé les contraintes, nous devons voir si le système est en "
+"train de se stabiliser et/ou si nous pouvons déjà entrevoir des schémas de "
+"réponse cohérents."
 
 #. type: Title ===
 #: en.adoc:315
@@ -790,19 +1160,37 @@ msgstr "Fixer des contraintes au temps de la COVID-19"
 #. type: Plain text
 #: en.adoc:318
 msgid "COVID-19 demonstrated how good we are at creating boundaries to gain control."
-msgstr "La COVID-19 a démontré à quel point nous sommes capables de fixer des limites pour reprendre le contrôle."
+msgstr ""
+"La COVID-19 a démontré à quel point nous sommes capables de fixer des "
+"limites pour reprendre le contrôle."
 
 #. type: Plain text
 #: en.adoc:320
 #, no-wrap
 msgid "*Confinement* is the most evident form of rigid constraint introduced as first response. Limiting personal movement gave relief to overloaded sanitary systems and was the key response to \"flatten the curve\" or contain transmission. *Closing national borders* is a further example of a rigid, impermeable boundary being set up. Both constraints cannot be enforced indefinitely without an adverse reaction. Some European states introduced *curfew* as a more flexible constraint than total confinement.\n"
-msgstr "Le *confinement* est l'exemple le plus flagrant d'une contrainte rigide introduite en tant que première réponse. Le fait de limiter le mouvement des personnes a donné du répit à des systèmes de santé surchargés et a été une intervention fondamentale pour « aplatir la courbe » ou maîtriser la transmission du virus. La fermeture des frontières nationales est un autre exemple de mise en place d'une limite rigide et imperméable. Aucune des deux contraintes ne pouvaient être appliquées indéfiniment sans réaction négative. Certains états européens ont instauré un couvre-feu comme contrainte plus flexible comparé à un confinement total.\n"
+msgstr ""
+"Le *confinement* est l'exemple le plus flagrant d'une contrainte rigide "
+"introduite en tant que première réponse. Le fait de limiter le mouvement des "
+"personnes a donné du répit à des systèmes de santé surchargés et a été une "
+"intervention fondamentale pour « aplatir la courbe » ou maîtriser la "
+"transmission du virus. La fermeture des frontières nationales est un autre "
+"exemple de mise en place d'une limite rigide et imperméable. Aucune des deux "
+"contraintes ne pouvaient être appliquées indéfiniment sans réaction "
+"négative. Certains états européens ont instauré un couvre-feu comme "
+"contrainte plus flexible comparé à un confinement total.\n"
 
 #. type: Plain text
 #: en.adoc:322
 #, no-wrap
 msgid "*Social distancing* is the name chosen to describe an increase in minimum physical distance between two persons. This is a form of more flexible, permeable, enabling, \"dark\" or invisible constraint. It allows people to perform all key vital activities while creating an invisible boundary. The boundary became visible in many places as soon as shops started to mark distances on the pavement outside their business, or on walls.\n"
-msgstr "La *distanciation sociale* est le terme qui a été choisi pour décrire une limitation sur la distance physique entre deux personnes. Ceci est un exemple de contrainte plus flexible, perméable, habilitante et « sombre » (ou invisible). Elle a permet aux gens de vaquer à toutes leurs occupations vitales tout en créant une frontière invisible. Cette frontière devenait visible à beaucoup d'endroits dès lors que des magasins ont placé des marquages au sol près des entrées ou sur les murs.\n"
+msgstr ""
+"La *distanciation sociale* est le terme qui a été choisi pour décrire une "
+"limitation sur la distance physique entre deux personnes. Ceci est un "
+"exemple de contrainte plus flexible, perméable, habilitante et « sombre » ("
+"ou invisible). Elle a permet aux gens de vaquer à toutes leurs occupations "
+"vitales tout en créant une frontière invisible. Cette frontière devenait "
+"visible à beaucoup d'endroits dès lors que des magasins ont placé des "
+"marquages au sol près des entrées ou sur les murs.\n"
 
 #. type: Plain text
 #: en.adoc:325
@@ -811,20 +1199,37 @@ msgid ""
 "*Masks*, *gloves* and to an extent even *hand sanitizers* can be seen as further physical, (im)permeable boundary introduced to prevent the transmission of the virus. Most services and commercial activities open to the public adopted *transparent partitions* as a physical boundary between employees and clients. +\n"
 "COVID-19 also showed us that several organisations had to remove some limiting *legal, procedural or cultural* boundaries to allow business continuity. This opened up the opportunity for radical innovation.\n"
 msgstr ""
-"Les *masques*, les *gants* et dans une certaine mesure le *gel hydroalcoolique* peuvent être vus comme des barrières physiques et (im)perméables supplémentaires instaurées pour la prévention de la transmission du virus. La plupart des services et activités commerciales ouverts au public ont adopté des *cloisons transparentes* pour servir de frontière physique entre les employés et les clients. +\n"
-"La COVID-19 nous a également montré que beaucoup d'organisations ont dû lever certaines limites *légales, procédurales ou culturelles* pour permettre la continuité d'activité. Cela a ouvert la voie à des innovations radicales.\n"
+"Les *masques*, les *gants* et dans une certaine mesure le *gel "
+"hydroalcoolique* peuvent être vus comme des barrières physiques et (im)"
+"perméables supplémentaires instaurées pour la prévention de la transmission "
+"du virus. La plupart des services et activités commerciales ouverts au "
+"public ont adopté des *cloisons transparentes* pour servir de frontière "
+"physique entre les employés et les clients. +\n"
+"La COVID-19 nous a également montré que beaucoup d'organisations ont dû "
+"lever certaines limites *légales, procédurales ou culturelles* pour "
+"permettre la continuité d'activité. Cela a ouvert la voie à des innovations "
+"radicales.\n"
 
 #. type: Plain text
 #: en.adoc:327
 #, no-wrap
 msgid "*Remote working* removed the very rigid constraint of working from a designated space in a designated time frame. It also removed the boundary between personal, family life and work life.\n"
-msgstr "Le *travail à distance* a enlevé la contrainte très rigide de devoir travailler à un endroit bien précis et à des horaires fixés à l'avance. Cela a également brouillé la frontière entre la vie personnelle, familiale et professionnelle.\n"
+msgstr ""
+"Le *travail à distance* a enlevé la contrainte très rigide de devoir "
+"travailler à un endroit bien précis et à des horaires fixés à l'avance. Cela "
+"a également brouillé la frontière entre la vie personnelle, familiale et "
+"professionnelle.\n"
 
 #. type: Plain text
 #: en.adoc:329
 #, no-wrap
 msgid "*Teleworking* removed the constraints created by physical distance. Ideally, people were \"closer\" to each other, they could \"meet\" more frequently irrespective of their physical location. At the same time, it introduced a very rigid boundary that did not allow personal contact.\n"
-msgstr "Le *télétravail* a supprimé les contraintes créées par la distance physique. Dans l'idéal, les gens sont devenus plus « proches » les uns aux autres et pouvaient donc se « rencontrer » plus régulièrement peu importe leur localisation physique. En même temps, cela a introduit une barrière très rigide qui ne permettait aucun contact personnel.\n"
+msgstr ""
+"Le *télétravail* a supprimé les contraintes créées par la distance physique. "
+"Dans l'idéal, les gens sont devenus plus « proches » les uns aux autres et "
+"pouvaient donc se « rencontrer » plus régulièrement peu importe leur "
+"localisation physique. En même temps, cela a introduit une barrière très "
+"rigide qui ne permettait aucun contact personnel.\n"
 
 #. type: Plain text
 #: en.adoc:331
@@ -833,10 +1238,12 @@ msgid ""
 "movement of goods*. Trade was impacted only when limitations to the movement of persons affected a component of the production/distribution "
 "system, or when the goods were deemed of strategic importance."
 msgstr ""
-"Certaines barrières et contraintes n'ont pas été envisagées ou changées. Par exemple, *aucune nouvelle contrainte n'a été fixée et aucune "
-"contrainte existante modifiée dans la réglementation de la circulation des biens*. Le commerce n'a été affecté que lorsque des limites sur "
-"la circulation des personnes ont impacté une partie du système de production/distribution ou lorsque les biens en question étaient jugés "
-"d'une importance stratégique."
+"Certaines barrières et contraintes n'ont pas été envisagées ou changées. Par "
+"exemple, *aucune nouvelle contrainte n'a été fixée et aucune contrainte "
+"existante modifiée dans la réglementation de la circulation des biens*. Le "
+"commerce n'a été affecté que lorsque des limites sur la circulation des "
+"personnes ont impacté une partie du système de production/distribution ou "
+"lorsque les biens en question étaient jugés d'une importance stratégique."
 
 #. type: Title ===
 #: en.adoc:332
@@ -850,14 +1257,19 @@ msgid ""
 "During the crisis, several concepts dominated mainstream communication and acted as \"catalysts\" or attractors to create a particular "
 "disposition in the public."
 msgstr ""
-"Pendant la crise, plusieurs concepts ont dominé les discussions et ont joué le rôle de « catalyseur » ou d'attracteur faisant apparaître "
-"ainsi une tendance particulière dans la population générale."
+"Pendant la crise, plusieurs concepts ont dominé les discussions et ont joué "
+"le rôle de « catalyseur » ou d'attracteur faisant apparaître ainsi une "
+"tendance particulière dans la population générale."
 
 #. type: Plain text
 #: en.adoc:337
 #, no-wrap
 msgid "*Flatten the curve* was a very powerful concept, useful to reinforce legitimacy of confinement and social distancing. *Figures* of new ill cases and deaths reinforced the urgency of compliance.\n"
-msgstr "Le concept d'*aplatir la courbe* a été très puissant et utile pour renforcer la légitimité du confinement et de la distanciation sociale. Les chiffres des nouvelles infections et des nouveaux décès ont réaffirmé l'urgence de respecter les mesures.\n"
+msgstr ""
+"Le concept d'*aplatir la courbe* a été très puissant et utile pour renforcer "
+"la légitimité du confinement et de la distanciation sociale. Les chiffres "
+"des nouvelles infections et des nouveaux décès ont réaffirmé l'urgence de "
+"respecter les mesures.\n"
 
 #. type: Plain text
 #: en.adoc:340
@@ -866,9 +1278,12 @@ msgid ""
 "with civil society. Some opened formal, direct communication channels for local assessment and ideation of solutions, others opted for a "
 "more top-down approach."
 msgstr ""
-"Les opinions des experts se sont superposés et défendaient des avis contrastés. Différents décideurs ont adopté des stratégies et des formes "
-"de communication distinctes pour s'adresser à la société civile. Certains ont ouvert des canaux de communication formelle et directe afin "
-"d'effectuer des évaluations locales et de recueillir des idées de solution. D'autres ont pris plutôt une approche descendante."
+"Les opinions des experts se sont superposés et défendaient des avis "
+"contrastés. Différents décideurs ont adopté des stratégies et des formes de "
+"communication distinctes pour s'adresser à la société civile. Certains ont "
+"ouvert des canaux de communication formelle et directe afin d'effectuer des "
+"évaluations locales et de recueillir des idées de solution. D'autres ont "
+"pris plutôt une approche descendante."
 
 #. type: Title ==
 #: en.adoc:342
@@ -891,12 +1306,17 @@ msgid ""
 "memorable form and associated with teaching stories for rapid distribution. Measurability of compliance and a focus on concrete are key, "
 "abstract platitudes don’t work."
 msgstr ""
-"Les lois, réglementations et codes forment des contraintes gouvernantes. Elles donnent une sensation de stabilité mais sont sensibles au "
-"changement. De l'autre côté, les heuristiques et les principes dressent des lignes directrices tout en permettant une prise de décision "
-"distribuée. Puiser dans les récits de l'organisation pour retrouver des exemples d'heuristiques qui ont évolué au fil du temps sur la base "
-"d'une expertise ou de l'expérience constitue un processus d'audit essentiel. Ces heuristiques peuvent ensuite être consolidées, codifiées "
-"sous une forme mémorable et associé à des récits pédagogiques pour faciliter une diffusion rapide. Il est fondamental de pouvoir mesurer le "
-"respect des heuristiques et de parler de choses concrètes. Les banalités abstraites ne fonctionnent pas."
+"Les lois, réglementations et codes forment des contraintes gouvernantes. "
+"Elles donnent une sensation de stabilité mais sont sensibles au changement. "
+"De l'autre côté, les heuristiques et les principes dressent des lignes "
+"directrices tout en permettant une prise de décision distribuée. Puiser dans "
+"les récits de l'organisation pour retrouver des exemples d'heuristiques qui "
+"ont évolué au fil du temps sur la base d'une expertise ou de l'expérience "
+"constitue un processus d'audit essentiel. Ces heuristiques peuvent ensuite "
+"être consolidées, codifiées sous une forme mémorable et associé à des récits "
+"pédagogiques pour faciliter une diffusion rapide. Il est fondamental de "
+"pouvoir mesurer le respect des heuristiques et de parler de choses "
+"concrètes. Les banalités abstraites ne fonctionnent pas."
 
 #. type: Title ===
 #: en.adoc:348
@@ -913,12 +1333,16 @@ msgid ""
 "This is the case of ritualised meetings, performance evaluations, career assessments, etc. As far as external boundaries, think markets, "
 "resources, social foundations and environmental ceilings."
 msgstr ""
-"Les insectes ont un exosquelette qui limite leur croissance mais fournit une structure clairement visible ; les mammifères ont une "
-"endosquelette qui les rend auto-similaires mais permet une plus de variété et impose moins de limites sur la croissance. La conception d'une "
-"organisation a tendance à se focaliser sur la création d'un squelette, ou échafaudage, et des « points de cohérence », jonctions où les "
-"différents services interagissent entre eux et avec l'échafaudage lui-même. C'est le cas des réunions rituelles, des évaluations de "
-"performance ou de carrière, etc. En ce qui concerne les frontières externes, il faut penser aux marchés, aux ressources, aux fondations "
-"sociales et aux plafonds environnementaux."
+"Les insectes ont un exosquelette qui limite leur croissance mais fournit une "
+"structure clairement visible ; les mammifères ont une endosquelette qui les "
+"rend auto-similaires mais permet une plus de variété et impose moins de "
+"limites sur la croissance. La conception d'une organisation a tendance à se "
+"focaliser sur la création d'un squelette, ou échafaudage, et des « points de "
+"cohérence », jonctions où les différents services interagissent entre eux et "
+"avec l'échafaudage lui-même. C'est le cas des réunions rituelles, des "
+"évaluations de performance ou de carrière, etc. En ce qui concerne les "
+"frontières externes, il faut penser aux marchés, aux ressources, aux "
+"fondations sociales et aux plafonds environnementaux."
 
 #. type: Title ===
 #: en.adoc:352
@@ -935,12 +1359,16 @@ msgid ""
 "connections start to provide new ways of dealing with issues, then the constraints can be tightened and eventually formalised into new units "
 "and departments."
 msgstr ""
-"Les liaisons, comme les hashtags dans la gestion de la connaissance et les liens dans un réseau, rendent une structure flexible et évolutive "
-"au prix d'une perte de visibilité et de contrôle. Les conteneurs, comme les catégories, les cellules d'une feuille de calcul ou les "
-"services, constituent des frontières claires qui rassurantes. + Changer les liaisons entre les gens et les unités organisationnelles est "
-"moins coûteux que d'essayer de restructurer ou de réorganiser les services. Lorsque des nouvelles liaisons commencent à fournir de nouvelles "
-"manières de faire face aux circonstances, ses contraintes peuvent être resserrées voire formalisées sous la forme de nouvelles unités ou "
-"services."
+"Les liaisons, comme les hashtags dans la gestion de la connaissance et les "
+"liens dans un réseau, rendent une structure flexible et évolutive au prix "
+"d'une perte de visibilité et de contrôle. Les conteneurs, comme les "
+"catégories, les cellules d'une feuille de calcul ou les services, "
+"constituent des frontières claires qui rassurantes. + Changer les liaisons "
+"entre les gens et les unités organisationnelles est moins coûteux que "
+"d'essayer de restructurer ou de réorganiser les services. Lorsque des "
+"nouvelles liaisons commencent à fournir de nouvelles manières de faire face "
+"aux circonstances, ses contraintes peuvent être resserrées voire formalisées "
+"sous la forme de nouvelles unités ou services."
 
 #. type: Title ===
 #: en.adoc:358
@@ -957,11 +1385,15 @@ msgid ""
 "special conditions that allow for exceptions, but permeability brings the possibility of clogs, i.e. too many people applying for or "
 "expecting exceptions."
 msgstr ""
-"Les dates butoir sont un exemple de contrainte qui se veut généralement rigide. Les horaires flexibles sont une manière malléable de gérer "
-"la présence au travail. Les structures rigides résistent jusqu'au moment où l'on excède les conditions pour lesquelles elles ont été "
-"conçues, auquel cas elles cassent de façon catastrophique. Les limites rigides et flexibles peuvent gagner en résilience à l'aide de la "
-"perméabilité, à savoir des conditions spécifiques qui accordent des exceptions, mais avec la perméabilité vient aussi la possibilité "
-"d'engorgements, c'est-à-dire trop de gens qui demandent un traitement exceptionnel."
+"Les dates butoir sont un exemple de contrainte qui se veut généralement "
+"rigide. Les horaires flexibles sont une manière malléable de gérer la "
+"présence au travail. Les structures rigides résistent jusqu'au moment où "
+"l'on excède les conditions pour lesquelles elles ont été conçues, auquel cas "
+"elles cassent de façon catastrophique. Les limites rigides et flexibles "
+"peuvent gagner en résilience à l'aide de la perméabilité, à savoir des "
+"conditions spécifiques qui accordent des exceptions, mais avec la "
+"perméabilité vient aussi la possibilité d'engorgements, c'est-à-dire trop de "
+"gens qui demandent un traitement exceptionnel."
 
 #. type: Title ===
 #: en.adoc:363
@@ -978,12 +1410,17 @@ msgid ""
 "modelling how much of the past we can explain by the constraints we are aware of. The more we can’t explain the less we can monitor, the "
 "more likely unexpected and potentially catastrophic surprise."
 msgstr ""
-"Une référence à l'énergie sombre ou la matière sombre : nous apercevons l'effet d'une contrainte mais nous ne décelons pas la cause. Les "
-"contraintes sombres sont comme les différents sens cachés que peut prendre un même mot selon la personne. Lorsque nous employons un terme et "
-"que nous observons des réactions différentes, des contraintes sombres sont à l’œuvre. Les récits sont de puissants antidotes contre les "
-"contraintes sombres. Nous pouvons aussi nous faire une idée du risque futur en examinant à quel point nous arrivons à modéliser le passé "
-"grâce aux contraintes dont nous avons conscience. Plus il y a d'événements inexplicables, moins il y a de choses que nous pouvons observer, "
-"plus il y a de chance d'être surpris par quelque chose d'inattendu et potentiellement catastrophique."
+"Une référence à l'énergie sombre ou la matière sombre : nous apercevons "
+"l'effet d'une contrainte mais nous ne décelons pas la cause. Les contraintes "
+"sombres sont comme les différents sens cachés que peut prendre un même mot "
+"selon la personne. Lorsque nous employons un terme et que nous observons des "
+"réactions différentes, des contraintes sombres sont à l’œuvre. Les récits "
+"sont de puissants antidotes contre les contraintes sombres. Nous pouvons "
+"aussi nous faire une idée du risque futur en examinant à quel point nous "
+"arrivons à modéliser le passé grâce aux contraintes dont nous avons "
+"conscience. Plus il y a d'événements inexplicables, moins il y a de choses "
+"que nous pouvons observer, plus il y a de chance d'être surpris par quelque "
+"chose d'inattendu et potentiellement catastrophique."
 
 #. type: Title ==
 #: en.adoc:367
@@ -997,24 +1434,31 @@ msgid ""
 "Journaling creates precious learning material across the entire crisis. Start early and sketch as much as possible. Visual journaling "
 "provides thick data, synthesises more information in a smaller space and allows for quick scanning and detailed recall:"
 msgstr ""
-"Un journal constitue une source d'apprentissage précieuse tout au long d'une crise. Démarrez au plus tôt et faites des schémas le plus "
-"possible. Un journal visuel apporte des données denses, synthétise plus d'informations en moins d'espace et se prête bien à un balayage "
-"rapide et une restitution détaillée :"
+"Un journal constitue une source d'apprentissage précieuse tout au long d'une "
+"crise. Démarrez au plus tôt et faites des schémas le plus possible. Un "
+"journal visuel apporte des données denses, synthétise plus d'informations en "
+"moins d'espace et se prête bien à un balayage rapide et une restitution "
+"détaillée :"
 
 #. type: Plain text
 #: en.adoc:372
 msgid "start sketching, basic shapes will do;"
-msgstr "commencez par faire des schémas, des formes basiques étant suffisantes ;"
+msgstr ""
+"commencez par faire des schémas, des formes basiques étant suffisantes ;"
 
 #. type: Plain text
 #: en.adoc:373
 msgid "if a concept is too complicated, use words. Avoid long paragraphs;"
-msgstr "si un concept est trop compliqué, utilisez des mots. Évitez de longs paragraphes ;"
+msgstr ""
+"si un concept est trop compliqué, utilisez des mots. Évitez de longs "
+"paragraphes ;"
 
 #. type: Plain text
 #: en.adoc:374
 msgid "use the space to cluster and connect. Focus on relationships."
-msgstr "utilisez l'espace pour faire des regroupements ou des liens. Mettez l'accent sur les relations."
+msgstr ""
+"utilisez l'espace pour faire des regroupements ou des liens. Mettez l'accent "
+"sur les relations."
 
 #. type: Title ===
 #: en.adoc:375
@@ -1032,13 +1476,19 @@ msgid ""
 "artists, architects and designers at the Bauhaus.  Those basic laws are still used today in communication, branding and advertising to "
 "capture our attention, generate emotions and elicit a response. They will help us sketch more effectively."
 msgstr ""
-"La façon dont notre cerveau traite des éléments visuels est le fruit d'un processus évolutif qui filtre et allège l'information pour le "
-"faire rentrer dans notre bande passante (nous avons abordé plus haut la cécité d'inattention dans ce guide) tout en faisant correspondre des "
-"réactions automatiques à ce que nous voyons. Tout ceci est dans le but de nous aider à faire face à la réalité et à réagir rapidement à des "
-"situations imprévues. Au début du 20e siècle un groupe de psychologues ont fait des recherches sur ces schémas de réponse et ont élaboré une "
-"série de principes expliquant la perception humaine, principes qui ont été approfondies par les artistes, architectes et concepteurs du "
-"Bauhaus. Ces principes de base sont encore utilisés aujourd'hui dans la communication, le marquage et la publicité pour capter notre "
-"attention, générer des émotions et susciter une réaction. Ils nous aideront à faire des schémas plus efficacement."
+"La façon dont notre cerveau traite des éléments visuels est le fruit d'un "
+"processus évolutif qui filtre et allège l'information pour le faire rentrer "
+"dans notre bande passante (nous avons abordé plus haut la cécité "
+"d'inattention dans ce guide) tout en faisant correspondre des réactions "
+"automatiques à ce que nous voyons. Tout ceci est dans le but de nous aider à "
+"faire face à la réalité et à réagir rapidement à des situations imprévues. "
+"Au début du 20e siècle un groupe de psychologues ont fait des recherches sur "
+"ces schémas de réponse et ont élaboré une série de principes expliquant la "
+"perception humaine, principes qui ont été approfondies par les artistes, "
+"architectes et concepteurs du Bauhaus. Ces principes de base sont encore "
+"utilisés aujourd'hui dans la communication, le marquage et la publicité pour "
+"capter notre attention, générer des émotions et susciter une réaction. Ils "
+"nous aideront à faire des schémas plus efficacement."
 
 #. type: Title ===
 #: en.adoc:381
@@ -1050,8 +1500,8 @@ msgstr "Principe fondamental"
 #: en.adoc:384
 msgid "All the gestalt principles that we will discover in the next examples stem from a basic one, formulated by Kurt Koffka as:"
 msgstr ""
-"Tous les principes de la Gestalt que nous découvrirons dans les prochains exemples découlent d'un principe de base que Kurt Koffka a exprimé "
-"ainsi :"
+"Tous les principes de la Gestalt que nous découvrirons dans les prochains "
+"exemples découlent d'un principe de base que Kurt Koffka a exprimé ainsi :"
 
 #. type: Plain text
 #: en.adoc:387
@@ -1075,9 +1525,11 @@ msgid ""
 "If we are taking notes about our organisation, we will inevitably need to draw a human figure. In most cases a circle for head and an "
 "additional almost random shape will do. Our brain's past experience will tend to transform the doodle into a person."
 msgstr ""
-"Si nous prenons des notes à propos de notre organisation, nous devrons forcément dessiner des petits bonshommes. La plupart du temps, un "
-"rond pour la tête plus n'importe qu'elle autre forme suffiront. L'expérience passée enregistrée dans notre cerveau aura tendance à "
-"transformer ce gribouillage en une personne."
+"Si nous prenons des notes à propos de notre organisation, nous devrons "
+"forcément dessiner des petits bonshommes. La plupart du temps, un rond pour "
+"la tête plus n'importe qu'elle autre forme suffiront. L'expérience passée "
+"enregistrée dans notre cerveau aura tendance à transformer ce gribouillage "
+"en une personne."
 
 #. type: Title ===
 #: en.adoc:394
@@ -1091,8 +1543,10 @@ msgid ""
 "Our brain divides the elements of an image into background and foreground, and sees the foreground first. This allows us to guide the "
 "reader's eye by placing in the foreground what we want to emphasize. Size often matters."
 msgstr ""
-"Notre cerveau répartit les éléments d'une image entre arrière-plan et premier-plan, et voit d'abord le premier-plan. Cela nous permet de "
-"guider le regard du lecteur en plaçant au premier-plan l'élément que nous voulons mettre en valeur. Souvent, la taille compte."
+"Notre cerveau répartit les éléments d'une image entre arrière-plan et "
+"premier-plan, et voit d'abord le premier-plan. Cela nous permet de guider le "
+"regard du lecteur en plaçant au premier-plan l'élément que nous voulons "
+"mettre en valeur. Souvent, la taille compte."
 
 #. type: Title ===
 #: en.adoc:398
@@ -1106,9 +1560,11 @@ msgid ""
 "We tend to see first and focus on any element that breaks a pattern or that is clearly distinct from the rest of elements in a uniform "
 "distribution. We can use this principle to guide the attention of the reader and influence the reading order."
 msgstr ""
-"Nous avons tendance à voir en premier et à nous focaliser sur un élément s'il est en rupture avec un motif ou s'il est clairement distinct "
-"des autres éléments qui sont dans une distribution uniforme. Nous pouvons utiliser ce principe pour aiguiller l'attention du lecteur et "
-"influencer le sens de lecture."
+"Nous avons tendance à voir en premier et à nous focaliser sur un élément "
+"s'il est en rupture avec un motif ou s'il est clairement distinct des autres "
+"éléments qui sont dans une distribution uniforme. Nous pouvons utiliser ce "
+"principe pour aiguiller l'attention du lecteur et influencer le sens de "
+"lecture."
 
 #. type: Title ===
 #: en.adoc:402
@@ -1122,9 +1578,11 @@ msgid ""
 "Elements clustered together are automagically seen as one entity. Clustering is a common exercise in visual reasoning. It allows us to "
 "create a synthetic view of several contributions without losing detail. Clustering often helps to create rhythm and harmony."
 msgstr ""
-"Les éléments qui sont les plus proches les uns des autres sont perçus comme étant une seule entité. Le regroupement est une tâche "
-"fréquemment utilisée pour évaluer le raisonnement visuel. Ce principe nous aide à produire une vue synthétique de plusieurs éléments sans "
-"perdre en détail. Le regroupement aide parfois à créer un rythme et une harmonie."
+"Les éléments qui sont les plus proches les uns des autres sont perçus comme "
+"étant une seule entité. Le regroupement est une tâche fréquemment utilisée "
+"pour évaluer le raisonnement visuel. Ce principe nous aide à produire une "
+"vue synthétique de plusieurs éléments sans perdre en détail. Le regroupement "
+"aide parfois à créer un rythme et une harmonie."
 
 #. type: Title ===
 #: en.adoc:406
@@ -1138,9 +1596,11 @@ msgid ""
 "We tend to group together signs that look similar, and to think that they share the same properties. + We can use this principle to assign "
 "properties to signs. We may need a legend to help the reader identify the properties of each sign."
 msgstr ""
-"Nous avons tendance à regrouper les symboles qui se ressemblent et à penser qu'ils partagent les mêmes caractéristiques. + Nous pouvons "
-"utiliser ce principe pour attribuer des propriétés à des symboles. Nous pouvons avoir besoin d'une légende pour aider le lecteur à "
-"identifier quelles sont les caractéristiques associées à chaque symbole."
+"Nous avons tendance à regrouper les symboles qui se ressemblent et à penser "
+"qu'ils partagent les mêmes caractéristiques. + Nous pouvons utiliser ce "
+"principe pour attribuer des propriétés à des symboles. Nous pouvons avoir "
+"besoin d'une légende pour aider le lecteur à identifier quelles sont les "
+"caractéristiques associées à chaque symbole."
 
 #. type: Title ===
 #: en.adoc:411
@@ -1154,9 +1614,11 @@ msgid ""
 "If individual elements are contained into regions, we identify clusters or regions first, then we notice the properties of the individual "
 "items. We can use this principle to create relationships among items, even when they look dissimilar."
 msgstr ""
-"Si des éléments différents sont mélangés dans différentes régions, nous identifions les groupes ou régions d'abord, puis nous identifions "
-"les caractéristiques de chaque élément individuellement. Nous pouvons utiliser ce principe pour mettre des éléments en relation, même "
-"lorsqu'ils ne se ressemblent pas."
+"Si des éléments différents sont mélangés dans différentes régions, nous "
+"identifions les groupes ou régions d'abord, puis nous identifions les "
+"caractéristiques de chaque élément individuellement. Nous pouvons utiliser "
+"ce principe pour mettre des éléments en relation, même lorsqu'ils ne se "
+"ressemblent pas."
 
 #. type: Title ===
 #: en.adoc:415
@@ -1170,9 +1632,11 @@ msgid ""
 "We tend to perceive elements in a continuous flow, coherent with basic shapes or with the natural motion of objects in nature. Even when the "
 "flow is interrupted, we often \"close the gap\", by projecting a trajectory or by privileging simplest forms."
 msgstr ""
-"Nous avons tendance à percevoir les éléments comme étant dans un flux continu, ce qui est cohérent avec le mouvement habituel des objets "
-"dans la nature. Même lorsque le mouvement est interrompu, nous cherchons souvent à « combler le l'écart », en imaginant une trajectoire ou "
-"en privilégiant les formes les plus simples."
+"Nous avons tendance à percevoir les éléments comme étant dans un flux "
+"continu, ce qui est cohérent avec le mouvement habituel des objets dans la "
+"nature. Même lorsque le mouvement est interrompu, nous cherchons souvent à « "
+"combler le l'écart », en imaginant une trajectoire ou en privilégiant les "
+"formes les plus simples."
 
 #. type: Title ===
 #: en.adoc:419
@@ -1186,9 +1650,10 @@ msgid ""
 "Our brain tends to generate closed shapes by recreating the missing parts of an image. We can work elegantly with empty spaces knowing we "
 "will compensate by scanning through the patterns that we have memorized in our previous experiences."
 msgstr ""
-"Notre cerveau a tendance à générer des formes fermées en reconstruisant les parties manquantes de l'image. Nous pouvons épurer nos croquis "
-"en laissant des espaces vides tout en sachant que nous allons compenser le manque grâce aux formes que nous avons mémorisées lors de nos "
-"expériences passées."
+"Notre cerveau a tendance à générer des formes fermées en reconstruisant les "
+"parties manquantes de l'image. Nous pouvons épurer nos croquis en laissant "
+"des espaces vides tout en sachant que nous allons compenser le manque grâce "
+"aux formes que nous avons mémorisées lors de nos expériences passées."
 
 #. type: Title ===
 #: en.adoc:423
@@ -1202,29 +1667,41 @@ msgid ""
 "Our mind tends to recognise objects as symmetrical forms around a centre or an axis. Symmetrical lines will then be perceived as boundaries "
 "of a shape. Shapes with symmetrical properties will be clustered into a more complex, unified object."
 msgstr ""
-"Notre cerveau a tendance à considérer chaque objet comme une forme symétrique selon un point ou un axe central. Des lignes symétriques sont "
-"perçues comme étant les contours d'une forme. Les formes avec des propriétés symétriques seront regroupées en un objet complexe unifié."
+"Notre cerveau a tendance à considérer chaque objet comme une forme "
+"symétrique selon un point ou un axe central. Des lignes symétriques sont "
+"perçues comme étant les contours d'une forme. Les formes avec des propriétés "
+"symétriques seront regroupées en un objet complexe unifié."
 
 #. type: Title =
 #: en.adoc:427
 #, no-wrap
 msgid "Adapt"
-msgstr ""
+msgstr "S'adapter"
 
 #. type: Block title
 #: en.adoc:429
 #, no-wrap
 msgid "Adapt in complexity"
-msgstr ""
+msgstr "S'adapter dans la complexité"
 
 #. type: delimited block *
 #: en.adoc:432
+#, fuzzy
 msgid ""
 "In a complex adaptive system we manage the evolutionary possibilities of the present; we start journeys rather than seeking to achieve "
 "goals. Goal based behaviour implies the inability to develop the opportunities that emerge along the way and which we could not anticipate. "
 "We need to resist the temptation to narrow our perspective by anticipating or projecting the future from our understanding of the past. We "
 "keep our options open, and *cast around* to see what is possible: we side-cast, rather than back-cast or fore-cast."
 msgstr ""
+"Dans un système complexe adaptatif, nous pilotons les possibilités "
+"évolutionnaires du présent ; nous démarrons des expéditions plutôt que de "
+"chercher à atteindre des objectifs. Procéder par objectif nous rendrait "
+"incapables d'élaborer les opportunités qui émergeraient en cours de route et "
+"que nous ne pouvions pas anticiper. Nous devons résister à la tentation de "
+"réduire notre champ de vision en essayant d'anticiper ou de prévoir l'avenir "
+"à partir de notre compréhension du passé. Nous devons présever les options "
+"et *regarder autour* pour repérer ce qui est possible : nous regardons "
+"autour, au lieu de"
 
 #. type: Plain text
 #: en.adoc:435
@@ -1232,42 +1709,57 @@ msgid ""
 "In lack of a contingency plan, we must reallocate resources and re-design processes to empower the emergence of small, informal teams and "
 "networks that will help us make sense of the new, changing landscape."
 msgstr ""
+"En l'absence d'un plan de contingence, nous devons réallouer les ressources "
+"et revoir les processus afin de favoriser l'émergence de petites équipes et "
+"de réseaux informels qui nous aideront à donner du sens au nouveau paysage "
+"mouvant."
 
 #. type: Plain text
 #: en.adoc:437
 #, no-wrap
 msgid "**Manage constraints:** We reduce hard organisational constraints and introduce flexible boundaries that allow to gain control of chaos and buy time for an organisational shift.\n"
 msgstr ""
+"**Gérer les contraintes :** Nous réduisons les contraintes "
+"organisationnelles rigides et nous introduisons des limites flexibles qui "
+"permettent de reprendre le contrôle sur le chaos et de racheter le temps "
+"pour changer l'organisation.\n"
 
 #. type: Plain text
 #: en.adoc:438
 #, no-wrap
 msgid "**Coordinate, do not decide:** distribute decisions to informal networks, centralise coordination.\n"
 msgstr ""
+"**Coordonner plutôt que décider :** distribuez les décisions vers des "
+"réseaux informels, centralisez la coordination.\n"
 
 #. type: Plain text
 #: en.adoc:439
 #, no-wrap
 msgid "**Communicate by engagement:** create informal employee networks to help assess the situation and to contribute to taking decisions.\n"
 msgstr ""
+"**Communiquer par l'implication :** créez des réseaux informels du personnel "
+"afin d'aider à évaluer la situation et pour s'impliquer dans la prise de "
+"décision.\n"
 
 #. type: Plain text
 #: en.adoc:440
 #, no-wrap
 msgid "**Avoid premature convergence:** keep options open as long as possible.\n"
 msgstr ""
+"**Éviter la convergence prématurée :** préserver les options le plus "
+"longtemps possible.\n"
 
 #. type: Title ==
 #: en.adoc:441
 #, no-wrap
 msgid "Adapt in complexity - Manage (or manege) constraints"
-msgstr ""
+msgstr "S'adapter dans la complexité - Ménager (ou manier) les contraintes"
 
 #. type: Block title
 #: en.adoc:443
 #, no-wrap
 msgid "Manege"
-msgstr ""
+msgstr "Manège"
 
 #. type: delimited block *
 #: en.adoc:446
@@ -1276,6 +1768,12 @@ msgid ""
 "the emphasis is on learning with, abiding with, adapting to, respecting, and working with another complex entity: the horse and rider as "
 "coevolving brambles in a wider thicket of social traditions surrounding beauty and form."
 msgstr ""
+"Le verbe anglais « to manage » vient de l'italien maneggiare, qui veut dire "
+"diriger, contrôler un cheval. Le sens à l'origine mettait l'accent sur la "
+"collaboration avec une autre entité complexe pour apprendre, demeurer, se "
+"respecter et travailler : le cheval et son cavalier sont coévolutionnaires, "
+"comme des ronces dans un buisson, à l'intérieur d'un contexte de traditions "
+"sociales qui régissent forme et beauté."
 
 #. type: delimited block *
 #: en.adoc:448
@@ -1284,6 +1782,10 @@ msgid ""
 "of the combined term manage to the metaphor of the obedient machine, to the corridors of power, and to the actions of controlling and "
 "directing."
 msgstr ""
+"Autour du XVIIIe siècle, ce sens s'est fusionné avec le terme français « "
+"ménage », ce qui a facilité le glissement sémantique du terme pour désigner "
+"la métaphore d'une machine obéissante, les coulisses du pouvoir et les "
+"actions de contrôler et de diriger."
 
 #. type: delimited block *
 #: en.adoc:450
@@ -1291,103 +1793,110 @@ msgid ""
 "The naturalistic approach we have advocated, in effect a return to manege rather than manage, is the most effective way to achieve results "
 "in organisations made up of real people.”"
 msgstr ""
+"L'approche naturaliste que nous avons revendiquée, qui est en fait un retour "
+"à manier plutôt que ménager, est la façon la plus efficace d'obtenir des "
+"résultats dans des organisations faites de vraies personnes."
 
 #. type: delimited block *
 #: en.adoc:453
 msgid "Kurtz & Snowden + “Like Bramble Bushes in a thicket”"
-msgstr ""
+msgstr "Kurtz & Snowden + « Comme les ronces dans un buisson »"
 
 #. type: Plain text
 #: en.adoc:456
 msgid "Monitor dispositions and manage constraints to detect beneficial behavioural patterns."
 msgstr ""
+"Observer les tendances et gérer les contraintes afin de détecter des schémas "
+"de comportement bénéfiques."
 
 #. type: Block title
 #: en.adoc:457
 #, no-wrap
 msgid "Monitor:"
-msgstr ""
+msgstr "Observer :"
 
 #. type: Plain text
 #: en.adoc:459
 msgid "dispositional states;"
-msgstr ""
+msgstr "les tendances ;"
 
 #. type: Plain text
 #: en.adoc:460
 msgid "propensities;"
-msgstr ""
+msgstr "les propensions ;"
 
 #. type: Plain text
 #: en.adoc:461
 msgid "identities;"
-msgstr ""
+msgstr "les identités ;"
 
 #. type: Plain text
 #: en.adoc:462
 msgid "attractors;"
-msgstr ""
+msgstr "les attracteurs ;"
 
 #. type: Plain text
 #: en.adoc:463
 msgid "attitudes;"
-msgstr ""
+msgstr "les attitudes ;"
 
 #. type: Plain text
 #: en.adoc:464
 msgid "weak signals;"
-msgstr ""
+msgstr "les signaux faibles ;"
 
 #. type: Plain text
 #: en.adoc:465
 msgid "coherence."
-msgstr ""
+msgstr "la cohérence."
 
 #. type: Block title
 #: en.adoc:466
 #, no-wrap
 msgid "Manage:"
-msgstr ""
+msgstr "Piloter :"
 
 #. type: Plain text
 #: en.adoc:468
 msgid "constraints;"
-msgstr ""
+msgstr "les contraintes ;"
 
 #. type: Plain text
 #: en.adoc:469
 msgid "connections/linkages;"
-msgstr ""
+msgstr "les liens/connexions ;"
 
 #. type: Plain text
 #: en.adoc:470
 msgid "roles and rituals;"
-msgstr ""
+msgstr "les rôles et les rituels ;"
 
 #. type: Plain text
 #: en.adoc:471
 msgid "catalysts;"
-msgstr ""
+msgstr "les catalyseurs ;"
 
 #. type: Plain text
 #: en.adoc:472
 msgid "granularity;"
-msgstr ""
+msgstr "la granularité ;"
 
 #. type: Plain text
 #: en.adoc:473
 msgid "diversity and dissent;"
-msgstr ""
+msgstr "la diversité et la dissension ;"
 
 #. type: Plain text
 #: en.adoc:474
 msgid "cadence."
-msgstr ""
+msgstr "la cadence."
 
 #. type: Plain text
 #: en.adoc:476
 msgid "Continuously mapping and updating constraints within a system is key in complexity approaches."
 msgstr ""
+"Une composante importante des approches complexes est la cartographie en "
+"continu des contraintes du système."
 
 #. type: Plain text
 #: en.adoc:479
@@ -1409,6 +1918,41 @@ msgid ""
 "norms. + Here, the problem space is rarely given for granted and is allowed to co-evolve when known and unexpected challenges start to "
 "emerge."
 msgstr ""
+"En ce qui concerne une organisation, nous fixons des limites et des "
+"contraintes à chaque fois que nous mettons en place une « unité » "
+"commerciale ou que nous définissons ses rôles et dictons ce qu'elle peut "
+"faire, devrait faire et doit faire. Les termes « peut », « devrait » et « "
+"doit »sont des exemples évidents de rigidité à des degrés différents. Nous "
+"fixons également des limites lorsque nous combinons plusieurs unités et "
+"décidons des protocoles de communication entre elles, y compris la "
+"fréquence, le ton et les canaux d'information. Les processus formels, les "
+"échéances et les jalons sont des limites. Les politiques qui régissent les "
+"échanges d'informations et de connaissances à travers une organisation sont "
+"également des formes de limites. Les croyances, les biais, les obsessions, "
+"les hypothèses subjectives et/ou collectives incontestés constituent "
+"d'autres types de limites, celles-ci étant parfois dans l'ombre. Les "
+"définitions, les catégories et classifications sont les exemples par "
+"excellence des formes de contraintes les plus explicites, rigides et "
+"contextuellement fragiles. De même importance, si ce n'est plus, il y a les "
+"limites qui n'ont pas été fixées de façon explicite mais qui sont perçues "
+"comme telles ou s'expriment au travers *des routines et des habitudes*. Une "
+"crise peut nous forcer à supprimer, modifier ou introduire des limites de "
+"cette sorte. Cela nous ouvre aussi l'opportunité d'initier de façon "
+"proactive une phase de conception délibérée de l'organisation et d'utiliser "
+"le nouveau contexte comme prétexte pour remettre en question le statu quo. "
+"Dans les pages qui suivent, il s'agit de la phase d'*exaptation des "
+"dispositions*, ou en d'autres termes une phase à laquelle nous reformulons "
+"volontairement l'espace du problème et nous élaborons des prototypes à "
+"partir de plusieurs idées différentes afin d'améliorer l'organisation et/ou "
+"la qualité de ce que nous produisons. La reformulation est une pratique "
+"fréquente, au-delà d'une situation de crise, lors du design stratégique et "
+"dans les laboratoires de design, où les méthodes ad hoc favorisent une "
+"observation ouverte et critique du présent. C'est plus ou moins l'approche "
+"que les sciences naturelles adoptent pour comprendre un contexte, en "
+"cartographiant le paysage des agents avec leurs interactions observables au-"
+"delà des attentes, des règlementations, des consignes et des normes. + À "
+"cette étape, l'espace du problème est rarement pris pour acquis et peut "
+"évoluer lorsque différents défis, connus ou inattendus, émergent."
 
 #. type: Plain text
 #: en.adoc:481
@@ -2341,8 +2885,9 @@ msgid ""
 "Even if we have followed the recommendations in the previous phases, at this stage we still may not know what to do and we may not have "
 "committed to hard choices."
 msgstr ""
-"Même en ayant suivi les recommandations des phases précédentes, à ce stade, nous ne savons peut-être toujours pas quoi faire et nous ne nous "
-"sommes pas forcément engagés dans l’adoption de choix difficiles."
+"Même en ayant suivi les recommandations des phases précédentes, à ce stade, "
+"nous ne savons peut-être toujours pas quoi faire et nous ne nous sommes pas "
+"forcément engagés dans l’adoption de choix difficiles."
 
 #. type: Plain text
 #: en.adoc:763
@@ -2350,19 +2895,24 @@ msgid ""
 "We know that we are in a state of voluntary suspension, while the elements for an informed decision are brewing and a sense of somehow "
 "optimistic urgency is building up."
 msgstr ""
-"Nous savons que nous sommes dans un état de suspension volontaire, tandis que se préparent les éléments d’une décision éclairée et tandis "
-"que se développe un sentiment d’urgence quelque peu optimiste."
+"Nous savons que nous sommes dans un état de suspension volontaire, tandis "
+"que se préparent les éléments d’une décision éclairée et tandis que se "
+"développe un sentiment d’urgence quelque peu optimiste."
 
 #. type: Plain text
 #: en.adoc:765
 msgid "We are mapping the context and building evidence to get ready to move out of confusion."
-msgstr "Nous sommes en train de cartographier le contexte et de rassembler des preuves pour nous préparer à sortir de la confusion."
+msgstr ""
+"Nous sommes en train de cartographier le contexte et de rassembler des "
+"preuves pour nous préparer à sortir de la confusion."
 
 #. type: Title ==
 #: en.adoc:766
 #, no-wrap
 msgid "The aporetic turn - Map landscapes from experiences"
-msgstr "Le virage aporétique - Établir une carte de l’environnement à partir d’expériences"
+msgstr ""
+"Le virage aporétique - Établir une carte de l’environnement à partir "
+"d’expériences"
 
 #. type: Plain text
 #: en.adoc:769
@@ -2370,53 +2920,88 @@ msgid ""
 "Narratives give insights on the disposition of the organisation. They also help identify agents, drivers of change, explicit and hidden "
 "boundaries, informal processes, challenges and opportunities:"
 msgstr ""
-"Les récits donnent des informations à propos des dispositions de l’organisation. Ils aident aussi à identifier les agents, les moteurs du "
-"changement, les limites explicites et cachées, les processus, les défis et les opportunités :"
+"Les récits donnent des informations à propos des dispositions de l’"
+"organisation. Ils aident aussi à identifier les agents, les moteurs du "
+"changement, les limites explicites et cachées, les processus, les défis et "
+"les opportunités :"
 
 #. type: Plain text
 #: en.adoc:770
 msgid "use narratives and micro-observations to identify agents, boundaries, roles and processes;"
-msgstr "utiliser des récits et des micro-observations pour identifier les agents, les limites, les rôles et les processus;"
+msgstr ""
+"utiliser des récits et des micro-observations pour identifier les agents, "
+"les limites, les rôles et les processus ;"
 
 #. type: Plain text
 #: en.adoc:771
 msgid "map the landscape by visualising relations, proximity, size, quantity;"
-msgstr "établir une carte de l’environnement en visualisant les relations entre les éléments, leur proximité, leur taille, leur quantité;"
+msgstr ""
+"établir une carte de l’environnement en visualisant les relations entre les "
+"éléments, leur proximité, leur taille, leur quantité ;"
 
 #. type: Plain text
 #: en.adoc:772
 msgid "position challenges and opportunities on the landscape. Take a step back and observe."
-msgstr "positionner les enjeux et opportunités sur la carte. Prenez du recul et observez."
+msgstr ""
+"positionner les enjeux et opportunités sur la carte. Prenez du recul et "
+"observez."
 
 #. type: Plain text
 #: en.adoc:774
 #, no-wrap
 msgid "*Gather information*: in crisis we need a map (not a written report!) of the current state (not of the future!). A map of the landscape informs decision making with situational assessments and offers insights on the immediate possible.\n"
-msgstr "*Recueillir des informations*: en situation de crise, nous avons besoin d’une carte (pas d’un rapport écrit !) de l’état actuel (pas de celui du futur!). Une carte de l’environnement informe la prise de décision grâce à des évaluations de la situation et offre des informations sur ce qui est immédiatement possible.\n"
+msgstr ""
+"*Recueillir des informations* : en situation de crise, nous avons besoin d’"
+"une carte (pas d’un rapport écrit !) de l’état actuel (pas de celui du futur "
+"!). Une carte de l’environnement informe la prise de décision grâce à des "
+"évaluations de la situation et offre des informations sur ce qui est "
+"immédiatement possible.\n"
 
 #. type: Plain text
 #: en.adoc:776
 #, no-wrap
 msgid "*Experiences, not just data*: in complex systems it's not just about facts and data. It is also (and maybe more importantly) how those facts are interpreted by people and how they become thick experiences. Evidence needs to be read through the filter of several personal interpretations, expectations, projections to give insights of people's dispositions. The stories collected in mass sense exercises are the ideal start.\n"
-msgstr "*Des expériences, pas seulement des données*: dans les systèmes complexes, il ne s’agit pas seulement de faits et de données. Il s’agit aussi (et peut-être surtout) de la manière dont ces faits sont interprétés par les gens et comment ils deviennent des expériences denses. Les indices doivent être passés à travers le filtre de plusieurs interprétations, attentes et projections personnelles pour donner des informations sur les dispositions des gens. Les histoires recueillies de manière massive dans des exercices visant à produire du sens sont un point de départ idéal. \n"
+msgstr ""
+"*Des expériences, pas seulement des données* : dans les systèmes complexes, "
+"il ne s’agit pas seulement de faits et de données. Il s’agit aussi (et peut-"
+"être surtout) de la manière dont ces faits sont interprétés par les gens et "
+"comment ils deviennent des expériences denses. Les indices doivent être "
+"passés à travers le filtre de plusieurs interprétations, attentes et "
+"projections personnelles pour donner des informations sur les dispositions "
+"des gens. Les histoires recueillies de manière massive dans des exercices "
+"visant à produire du sens sont un point de départ idéal.\n"
 
 #. type: Plain text
 #: en.adoc:778
 #, no-wrap
 msgid "*Engage the organisation*: to capture weak signals of human attitudes and dispositions we should start to produce narrative-based journals with the team, to collect day-to-day stories. If not possible, we should organise periodic work sessions to listen to their experience. We can then map this into visual landscapes.\n"
-msgstr "*Engager l’organisation*: pour capter les signaux faibles des attitudes et des dispositions humaines, nous devrions commencer à produire des journaux narratifs avec les équipes, pour collecter des histoires du quotidien. Si ce n’est pas possible, nous devrions organiser des séances de travail périodiques pour écouter leurs expériences. Nous pourrons ensuite établir une carte visuelle de l’environnement à partir de ces dernières.\n"
+msgstr ""
+"*Engager l’organisation* : pour capter les signaux faibles des attitudes et "
+"des dispositions humaines, nous devrions commencer à produire des journaux "
+"narratifs avec les équipes, pour collecter des histoires du quotidien. Si ce "
+"n’est pas possible, nous devrions organiser des séances de travail "
+"périodiques pour écouter leurs expériences. Nous pourrons ensuite établir "
+"une carte visuelle de l’environnement à partir de ces dernières.\n"
 
 #. type: Plain text
 #: en.adoc:780
 #, no-wrap
 msgid "*Maintain heterogeneity*: we need to entangle narratives as told by executives, technical and operative staff, stakeholders. Multiple perspectives keep us open minded on the crisis and give insights for action.\n"
-msgstr "*Maintenir l’hétérogénéité*: nous devons enchevêtrer les récits tels que racontés par les cadres, le personnel technique et opérationnel, ainsi que les parties prenantes. De multiples perspectives nous permettent de garder l’esprit ouvert sur la crise et nous informent sur des pistes d’action.\n"
+msgstr ""
+"*Maintenir l’hétérogénéité* : nous devons enchevêtrer les récits tels que "
+"racontés par les cadres, le personnel technique et opérationnel, ainsi que "
+"les parties prenantes. De multiples perspectives nous permettent de garder l’"
+"esprit ouvert sur la crise et nous informent sur des pistes d’action.\n"
 
 #. type: Plain text
 #: en.adoc:782
 #, no-wrap
 msgid "*Retrospective coherence*: when the crisis is over, everyone will create narratives to explain what happened. We need to be ware of retrospective coherence as it is based on faulty, selective memory and creates a false sense of security towards the future.\n"
-msgstr "*Cohérence rétrospective*: quand la crise sera passée, chacun créera des récits pour expliquer ce qui s’est passé. Il faut se méfier de la cohérence rétrospective, car elle repose sur une mémoire défaillante et sélective, et crée un faux sentiment de sécurité concernant l’avenir.\n"
+msgstr ""
+"*Cohérence rétrospective* : quand la crise sera passée, chacun créera des "
+"récits pour expliquer ce qui s’est passé. Il faut se méfier de la cohérence "
+"rétrospective, car elle repose sur une mémoire défaillante et sélective, et "
+"crée un faux sentiment de sécurité concernant l’avenir.\n"
 
 #. type: Title ===
 #: en.adoc:783
@@ -2431,10 +3016,13 @@ msgid ""
 "maps and REA value flows models). To reduce bias and oversimplification, we should avoid to draw the list of agents from theoretical "
 "knowledge or solely from experts' opinions and interpretations: we want to *build the system from real life experiences*."
 msgstr ""
-"La première étape consiste à compiler une liste d’agents clés et à les exposer librement par écrit, ou en suivant un cadre conceptuel (voir "
-"Wardley maps et les modèles de flux de valeur REA). Pour réduire les biais et les simplifications excessives, il convient d’éviter de "
-"dresser la liste des agents à partir de connaissances théoriques ou uniquement à partir d’avis et d’interprétations d’experts : *nous "
-"voulons construire le système à partir d’expériences réelles*."
+"La première étape consiste à compiler une liste d’agents clés et à les "
+"exposer librement par écrit, ou en suivant un cadre conceptuel (voir Wardley "
+"maps et les modèles de flux de valeur REA). Pour réduire les biais et les "
+"simplifications excessives, il convient d’éviter de dresser la liste des "
+"agents à partir de connaissances théoriques ou uniquement à partir d’avis et "
+"d’interprétations d’experts : *nous voulons construire le système à partir d’"
+"expériences réelles*."
 
 #. type: Plain text
 #: en.adoc:790
@@ -2444,32 +3032,42 @@ msgid ""
 "matters more than ideal, preferred or prescribed end results.  We should also engage with groups of heterogeneous participants, while a "
 "proper balance between abstraction and detail can be achieved by a well designed choreography.  A landscape is a necessary starting point to:"
 msgstr ""
-"Les expériences de la vie réelle placent des faits anecdotiques dans un contexte riche, fournissant de multiples couches de sens et donnant "
-"vie à l’un des principes clés de la gestion de la complexité : la désintermédiation. Cette approche est une pratique courante dans la "
-"conception de services, où l’expérience utilisateur importe plus que les résultats finaux idéaux, préférés ou prescrits. Nous devrions "
-"également traiter avec des groupes de participants hétérogènes, tandis qu’un bon équilibre entre abstraction et détail peut être atteint par "
-"une chorégraphie bien conçue. Une carte est un point de départ nécessaire pour :"
+"Les expériences de la vie réelle placent des faits anecdotiques dans un "
+"contexte riche, fournissant de multiples couches de sens et donnant vie à l’"
+"un des principes clés de la gestion de la complexité : la désintermédiation. "
+"Cette approche est une pratique courante dans la conception de services, où "
+"l’expérience utilisateur importe plus que les résultats finaux idéaux, "
+"préférés ou prescrits. Nous devrions également traiter avec des groupes de "
+"participants hétérogènes, tandis qu’un bon équilibre entre abstraction et "
+"détail peut être atteint par une chorégraphie bien conçue. Une carte est un "
+"point de départ nécessaire pour :"
 
 #. type: Plain text
 #: en.adoc:791
 msgid "map the current state and the key challenges and opportunities, or what we can change;"
-msgstr "établir une carte de l’état actuel et des principaux défis et opportunités, ou de ce que nous pouvons changer;"
+msgstr ""
+"établir une carte de l’état actuel et des principaux défis et opportunités, "
+"ou de ce que nous pouvons changer ;"
 
 #. type: Plain text
 #: en.adoc:792
 msgid "identify ideas for action and decide what impacts we want to produce and how to monitor them;"
-msgstr "identifier des idées d’action et décider quels impacts nous souhaitons produire et comment les surveiller;"
+msgstr ""
+"identifier des idées d’action et décider quels impacts nous souhaitons "
+"produire et comment les surveiller ;"
 
 #. type: Plain text
 #: en.adoc:793
 msgid "start pilot actions with the intent of amplifying the beneficial ones and suppressing those who are failing."
-msgstr "lancer des actions pilotes dans le but d’amplifier les actions bénéfiques et de supprimer celles qui échouent."
+msgstr ""
+"lancer des actions pilotes dans le but d’amplifier les actions bénéfiques et "
+"de supprimer celles qui échouent."
 
 #. type: Title ===
 #: en.adoc:794
 #, no-wrap
 msgid "Hidden trap: feedback loops"
-msgstr "​​Piège caché : les boucles de rétroaction"
+msgstr "Piège caché : les boucles de rétroaction"
 
 #. type: Plain text
 #: en.adoc:797
@@ -2479,11 +3077,14 @@ msgid ""
 "temptation to automatically determine the existence and/or the direction of any feedback loop. The only loops we should include in our "
 "landscape are those that we can observe in the current context and time frame."
 msgstr ""
-"Une pratique courante dans la pensée systémique consiste à rechercher des boucles de rétroaction positives et négatives parmi les agents. "
-"Bien que l’idée en elle-même ait un sens, les boucles de rétroaction sont souvent déduites de l’expérience passée ou de la théorie abstraite "
-"d’un contexte spécifique. Nous devons éviter la tentation de déterminer automatiquement l’existence et/ou la direction de toute boucle de "
-"rétroaction. Les seules boucles que nous devrions inclure dans notre environnement sont celles que nous pouvons observer dans le contexte et "
-"la période actuels."
+"Une pratique courante dans la pensée systémique consiste à rechercher des "
+"boucles de rétroaction positives et négatives parmi les agents. Bien que l’"
+"idée en elle-même ait un sens, les boucles de rétroaction sont souvent "
+"déduites de l’expérience passée ou de la théorie abstraite d’un contexte "
+"spécifique. Nous devons éviter la tentation de déterminer automatiquement l’"
+"existence et/ou la direction de toute boucle de rétroaction. Les seules "
+"boucles que nous devrions inclure dans notre environnement sont celles que "
+"nous pouvons observer dans le contexte et la période actuels."
 
 #. type: Title ===
 #: en.adoc:798
@@ -2498,10 +3099,13 @@ msgid ""
 "If we are managing well a complexity-informed method, the answers emerge from the same group who is researching and acting in the landscape. "
 "This implies that *leadership is expressed through engagement and empowerment* rather than prescription and direction."
 msgstr ""
-"Une question non triviale aux implications profondes est : qui décide ce que nous pouvons changer, comment surveillons-nous le changement et "
-"quel changement jugeons-nous bénéfique? Si nous agissons bien selon une méthode informée par la complexité, les réponses émergent du même "
-"groupe qui recherche et qui agit dans l’environnement. Cela implique que le leadership s’exprime par l’engagement et l’autonomisation plutôt "
-"que par la prescription et la direction."
+"Une question non triviale aux implications profondes est : qui décide ce que "
+"nous pouvons changer, comment surveillons-nous le changement et quel "
+"changement jugeons-nous bénéfique ? Si nous agissons bien selon une méthode "
+"informée par la complexité, les réponses émergent du même groupe qui "
+"recherche et qui agit dans l’environnement. Cela implique que le leadership "
+"s’exprime par l’engagement et l’autonomisation plutôt que par la "
+"prescription et la direction."
 
 #. type: Plain text
 #: en.adoc:804
@@ -2509,8 +3113,9 @@ msgid ""
 "In this context, leaders become \"strategic observers\" and intervene to provide a meta-level of coherence and clarity to facilitate action "
 "and the exchange of knowledge."
 msgstr ""
-"Dans ce contexte, les leaders deviennent des « observateurs stratégiques » et interviennent pour apporter un méta-niveau de cohérence et de "
-"clarté pour faciliter l’action et l’échange de connaissances."
+"Dans ce contexte, les leaders deviennent des « observateurs stratégiques » "
+"et interviennent pour apporter un méta-niveau de cohérence et de clarté pour "
+"faciliter l’action et l’échange de connaissances."
 
 #. type: Title ===
 #: en.adoc:805
@@ -2525,9 +3130,12 @@ msgid ""
 "many experiences are enough experiences? How can we base decision on incomplete data? When addressing complexity, \"enough\" is \"all is "
 "needed to identify emerging coherence\"."
 msgstr ""
-"Une objection courante à cette méthode, souvent soulevée par les scientifiques et les universitaires, est à quel point un faible nombre "
-"d’expériences peut être représentatif. Combien d’expériences sont suffisantes? Comment pouvons-nous fonder notre décision sur des données "
-"incomplètes? Lorsqu’on aborde la complexité, « assez » est « tout ce qui est nécessaire pour identifier la cohérence émergente »."
+"Une objection courante à cette méthode, souvent soulevée par les "
+"scientifiques et les universitaires, est à quel point un faible nombre d’"
+"expériences peut être représentatif. Combien d’expériences sont suffisantes "
+"? Comment pouvons-nous fonder notre décision sur des données incomplètes ? "
+"Lorsqu’on aborde la complexité, « assez » est « tout ce qui est nécessaire "
+"pour identifier la cohérence émergente »."
 
 #. type: Plain text
 #: en.adoc:811
@@ -2536,16 +3144,19 @@ msgid ""
 "and experimental*. They must enable short term parallel, independent design prototypes using available, incomplete knowledge, not provide a "
 "long term panacea based on extensive evdence."
 msgstr ""
-"La gestion de crise et plus généralement les activités impliquant de la conception, lorsqu’elles sont comprises comme la découverte de "
-"pratiques émergentes, sont nécessairement locales, continuelles et expérimentales. Elles doivent permettre la réalisation à court terme de "
-"prototypes de conception parallèles et indépendants, en utilisant des connaissances disponibles et incomplètes, sans fournir une solution "
-"universelle à long terme basée sur de nombreuses preuves."
+"La gestion de crise et plus généralement les activités impliquant de la "
+"conception, lorsqu’elles sont comprises comme la découverte de pratiques "
+"émergentes, sont nécessairement locales, continuelles et expérimentales. "
+"Elles doivent permettre la réalisation à court terme de prototypes de "
+"conception parallèles et indépendants, en utilisant des connaissances "
+"disponibles et incomplètes, sans fournir une solution universelle à long "
+"terme basée sur de nombreuses preuves."
 
 #. type: Title ===
 #: en.adoc:812
 #, no-wrap
 msgid "Implications"
-msgstr "Implications"
+msgstr "Conséquences"
 
 #. type: Plain text
 #: en.adoc:815
@@ -2553,9 +3164,11 @@ msgid ""
 "This suggests that public and private organisations that span several different regions need to establish meaningful processes of "
 "stakeholder engagement beyond user research to make sense of local experiences and build whole ecosystems from the bottom-up."
 msgstr ""
-"Ceci implique que les organisations publiques et privées couvrant plusieurs régions doivent établir des processus significatifs d’engagement "
-"des parties prenantes, dépassant la recherche utilisateurs, pour faire sens des expériences locales et construire des écosystèmes entiers à "
-"partir de la base."
+"Ceci implique que les organisations publiques et privées couvrant plusieurs "
+"régions doivent établir des processus significatifs d’engagement des parties "
+"prenantes, dépassant la recherche utilisateurs, pour faire sens des "
+"expériences locales et construire des écosystèmes entiers à partir de la "
+"base."
 
 #. type: Plain text
 #: en.adoc:817
@@ -2563,8 +3176,10 @@ msgid ""
 "When these practices are in place, the role of organisations naturally shifts from \"holder of the solution\" to \"facilitator of coherent, "
 "heterogeneous practices\" with obvious beneficial fallbacks in terms of trust, transparency and cooperation."
 msgstr ""
-"Lorsque ces pratiques sont en place, le rôle des organisations passe naturellement de « détenteur de la solution » à « facilitateur de "
-"pratiques cohérentes et hétérogènes » avec des conséquences bénéfiques évidentes en termes de confiance, de transparence et de coopération."
+"Lorsque ces pratiques sont en place, le rôle des organisations passe "
+"naturellement de « détenteur de la solution » à « facilitateur de pratiques "
+"cohérentes et hétérogènes » avec des conséquences bénéfiques évidentes en "
+"termes de confiance, de transparence et de coopération."
 
 #. type: Title ==
 #: en.adoc:818
